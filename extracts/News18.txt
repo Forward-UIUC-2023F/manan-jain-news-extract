@@ -1,0 +1,392 @@
+{"news headline": "News18 - Latest News", "url to article": "https://www.news18.com/", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+"ERROR: JSON DECODE FAILED"
+
+{"news headline": "Mumbai Trans Harbour Link Route: News Atal Setu Bridge Opening Today, Narendra Modi", "url to article": "https://www.news18.com/india/mumbai-trans-harbour-link-route-news-atal-setu-bridge-opening-today-narendra-modi-8736953.html", "news summary": "The Mumbai Trans Harbour Link Route, also known as the Atal Setu Bridge, is set to open today, with Prime Minister Narendra Modi in attendance.", "date/time of publication": "2024-01-01T00:00:00", "estimated read time": "5 minutes", "author": "News18"}
+
+{"news headline": "Hawker-free Colaba, Makeshift Hosp: Mumbai's Makeover as PM Set to Launch 22km Sea Link", "url to article": "https://www.news18.com/india/mumbai-trans-harbour-link-route-news-atal-setu-bridge-opening-today-narendra-modi-8736953.html", "news summary": "The 21.8 km-long bridge named after former PM Atal Bihari Vajpayee, the Atal Setu, originates from Sewri in Mumbai and terminates at Nhava Sheva in Raigad district.", "date/time of publication": "2021-02-06T00:00:00", "estimated read time": "0 minutes", "author": "News18.com"}
+
+{"news headline": "Bengaluru CEO Said Son's 'Face Reminded Her of Husband', Cops Find Note in Her Goa Room | Updates", "url to article": "https://www.news18.com/india/bengaluru-ceo-kills-son-updates-suchana-seth-face-reminded-of-husband-venkat-raman-8736922.html", "news summary": "Bengaluru CEO Said Son's 'Face Reminded Her of Husband', Cops Find Note in Her Goa Room | Updates", "date/time of publication": "2024-01-10T12:59:36+05:30", "estimated read time": "0 minutes", "author": "News18"}
+
+{"news headline": "Bengaluru CEO Said Son's 'Face Reminded Her of Husband', Cops Find Note in Her Goa Room | Updates", "url to article": "https://www.news18.com/india/bengaluru-ceo-kills-son-updates-suchana-seth-face-reminded-of-husband-venkat-raman-8736922.html", "news summary": "Bengaluru CEO Said Son's 'Face Reminded Her of Husband', Cops Find Note in Her Goa Room | Updates", "date/time of publication": "2021-09-20T12:00:00Z", "estimated read time": "0 minutes", "author": "News18"}
+
+{"news headline": "US, Allies Conduct Airstrikes on Houthis in Yemen; Biden Says 'Will Not Hesitate to Order Further Action'", "url to article": "https://www.news18.com/world/us-uk-launch-massive-retaliatory-airstrikes-on-yemens-houthi-rebels-8736917.html", "news summary": "The US Navy guided-missile destroyer USS Laboon last month shot down drones and missiles fired by Yemen\u2019s Houthi rebels targeting shipping in the Red Sea.", "date/time of publication": "2023-12-01T00:00:00Z", "author": "Reuters"}
+
+{"news headline": "US, Allies Conduct Airstrikes on Houthis in Yemen; Biden Says 'Will Not Hesitate to Order Further Action'", "url to article": "https://www.news18.com/world/us-uk-launch-massive-retaliatory-airstrikes-on-yemens-houthi-rebels-8736917.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Merry Christmas FIRST Review Out: Katrina Kaif, Vijay Sethupathi Impress In This 'Gripping' Thriller", "url to article": "https://www.news18.com/movies/merry-christmas-first-review-out-katrina-kaif-vijay-sethupathi-impress-in-this-gripping-thriller-8736924.html", "news summary": "Katrina Kaif and Vijay Sethupathi impress in this 'gripping' thriller.", "date/time of publication": "2021-12-25T00:00:00+05:30", "estimated read time": "00:00:00", "author": "News18"}
+
+"ERROR: JSON DECODE FAILED"
+
+{"news headline": "Narayana Murthy's 11-hour Ticketless Journey For Sudha Murty Has Internet Asking, 'No 70 Hour Rule?'", "url to article": "https://www.news18.com/viral/narayana-murthys-11-hour-ticketless-journey-for-sudha-murty-has-internet-asking-no-70-hour-rule-8735885.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Odisha's Red Ant Chutney Gets GI Tag; Here's Everything About This Superfood", "url to article": "https://www.news18.com/lifestyle/odishas-red-ant-chutney-gets-gi-tag-heres-everything-about-this-superfood-8734797.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "\u2018Incomplete Construction\u2019: Why 4 Shankaracharyas Not Attending Ram Lalla\u2019s \u2018Pran Pratishtha\u2019", "url to article": "https://www.news18.com/india/ayodhya-ram-mandir-why-all-four-shankaracharyas-not-attending-consecration-ceremony-8736422.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Stranger than Fiction, Loving Mother: Neighbours Comment on Suchana Seth's Last Instagram Post", "url to article": "https://www.news18.com/india/stranger-than-fiction-loving-mother-neighbours-comment-on-suchana-seths-last-instagram-post-8736739.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Nayanthara's Annapoorani REMOVED From Netflix, Makers Apologise For 'Hurting Religious Sentiments'", "url to article": "https://www.news18.com/movies/nayantharas-annapoorani-removed-from-netflix-makers-apologise-for-hurting-religious-sentiments-8736087.html", "news summary": "Nayanthara's Annapoorani REMOVED From Netflix, Makers Apologise For 'Hurting Religious Sentiments'", "date/time of publication": "2021-09-28T10:00:00Z", "estimated read time": "0 minutes", "author": "News18"}
+
+{"news headline": "Indore Bags Cleanest City Award For 7th Time: How It Manages To 'Look Like A Wow' | Explained", "url to article": "https://www.news18.com/india/indore-cleanest-city-seventh-time-surat-swachh-survekshan-awards-latest-news-8736302.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "This Small-Cap Stock Gains 41% In 5 Days Amid Ram Mandir, Lakshadweep News; Do You Own?", "url to article": "https://www.news18.com/business/this-small-cap-stock-gains-41-in-5-days-amid-ram-mandir-lakshadweep-news-do-you-own-8735867.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "BB17 Drama Intensifies With Ankita-Vikki\u2019s Marital Fights, In-Laws Involvement: TV Soap In Making?", "url to article": "https://www.news18.com/videos/movies/bb17-drama-intensifies-with-ankita-vikki-s-marital-fights-in-laws-involvement-tv-soap-in-making-8734904.html", "news summary": "The article discusses the increasing drama in the Bigg Boss 17 house involving Ankita and Vikki's marital issues and the involvement of their in-laws.", "date/time of publication": "2022-11-22T12:00:00Z", "estimated read time": "5 minutes", "author": "News18"}
+
+{"news headline": "Ira Khan's Sangeet Ceremony | Deepika's 'Fighter' In IMDb Top Films Of 2024 | Kantara 2 Plot Deets", "url to article": "https://www.news18.com/videos/movies/ira-khan-s-sangeet-ceremony-deepika-s-fighter-in-imdb-top-films-of-2024-kantara-2-plot-deets-8734836.html", "news summary": "Ira Khan's Sangeet Ceremony | Deepika's 'Fighter' In IMDb Top Films Of 2024 | Kantara 2 Plot Deets", "date/time of publication": "2022-11-22T12:00:00Z", "estimated read time": "00:00:00", "author": "News18"}
+
+{"news headline": "Pankaj Tripathi On His Film 'Main Atal Hoon', Future Plans & The Art Of Saying 'No' | EXCLUSIVE", "url to article": "https://www.news18.com/videos/movies/pankaj-tripathi-on-his-film-main-atal-hoon-future-plans-the-art-of-saying-no-exclusive-8733533.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Pankaj Tripathi On His Film 'Main Atal Hoon', Future Plans & The Art Of Saying 'No' | EXCLUSIVE", "url to article": "https://www.news18.com/videos/movies/pankaj-tripathi-on-his-film-main-atal-hoon-future-plans-the-art-of-saying-no-exclusive-8733533.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Katrina Kaif Attends The Special Screening Of Her Film 'Merry Christmas'; WATCH", "url to article": "https://www.news18.com/videos/movies/katrina-kaif-attends-the-special-screening-of-her-film-merry-christmas-watch-8735633.html", "news summary": "Katrina Kaif attended the special screening of her film 'Merry Christmas' and the actress looked stunning in a black and white outfit. The film is directed by debutant Sabbir Khan and also stars Akshay Kumar and Rishi Kapoor. The film is set to release on December 22, 2017.", "date/time of publication": "2017-12-19T00:00:00Z", "estimated read time": "1 minute", "author": "News18"}
+
+{"news headline": "Ira Khan's Offbeat Bridal Trousseau May Not Be Everyone's Cup Of Tea But That's The Best Part", "url to article": "https://www.news18.com/videos/lifestyle/ira-khan-s-offbeat-bridal-trousseau-may-not-be-everyone-s-cup-of-tea-but-that-s-the-best-part-8735063.html", "news summary": "Ira Khan's offbeat bridal trousseau may not be everyone's cup of tea, but that's the best part.", "date/time of publication": "2021-09-27T10:00:00+05:30", "estimated read time": "00:00:00", "author": "News18"}
+
+{"news headline": "Hrithik Roshan's Inspirational Fitness: A Journey Of Self Discovery, Discipline & Life Lessons", "url to article": "https://www.news18.com/videos/lifestyle/hrithik-roshan-s-inspirational-fitness-a-journey-of-self-discovery-discipline-life-lessons-8734678.html", "news summary": "Hrithik Roshan's Inspirational Fitness: A Journey Of Self Discovery, Discipline & Life Lessons", "date/time of publication": "2021-09-29T10:00:00Z", "estimated read time": "00:00:00", "author": "News18"}
+
+{"news headline": "Golden Globes 2024 Ruled By Dopamine Dressing; Alia Bhatt & Janhvi Kapoor Show How To Do It Right", "url to article": "https://www.news18.com/videos/lifestyle/golden-globes-2024-ruled-by-dopamine-dressing-alia-bhatt-janhvi-kapoor-show-how-to-do-it-right-8733772.html", "news summary": "Alia Bhatt and Janhvi Kapoor show how to do it right with their dopamine dressing at the Golden Globes 2024.", "date/time of publication": "2024-01-01T00:00:00Z", "estimated read time": "0 minutes", "author": "News18"}
+
+{"news headline": "Nayanthara's Annapoorani REMOVED From Netflix, Makers Apologise For 'Hurting Religious Sentiments'", "url to article": "https://www.news18.com/movies/nayantharas-annapoorani-removed-from-netflix-makers-apologise-for-hurting-religious-sentiments-8736087.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Shah Rukh Khan BREAKS Silence On Family's Struggle in Recent Years: 'Made Me Learn a Lesson' | Exclusive", "url to article": "https://www.news18.com/movies/shah-rukh-khan-breaks-silence-on-familys-struggle-in-recent-years-made-me-learn-a-lesson-exclusive-8735378.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Mani Ratnam Opens Up On Reuniting With Kamal Haasan After 35 Years: 'It Is Tough When...' | IOTY", "url to article": "https://www.news18.com/movies/mani-ratnam-on-reuniting-with-kamal-haasan-in-thug-life-cnn-news-indian-of-the-year-2023-8735285.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Shah Rukh Khan Admits Being 'Scared' Before Pathaan Release: 'It Was Not About Money...' | Exclusive", "url to article": "https://www.news18.com/movies/shah-rukh-khan-admits-being-scared-before-pathaan-release-it-was-not-about-money-exclusive-8736931.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Shah Rukh Khan Admits Being 'Scared' Before Pathaan Release:  'It Was Not About Money...' | Exclusive", "url to article": "https://www.news18.com/movies/shah-rukh-khan-admits-being-scared-before-pathaan-release-it-was-not-about-money-exclusive-8736931.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "When is Makar Sankranti 2024? Date, History, Puja Muhurat, and Rituals", "url to article": "https://www.news18.com/lifestyle/when-is-makar-sankranti-2024-date-history-puja-muhurat-and-rituals-8734445.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "When is Makar Sankranti 2024? Date, History, Puja Muhurat, and Rituals", "url to article": "https://www.news18.com/lifestyle/when-is-makar-sankranti-2024-date-history-puja-muhurat-and-rituals-8734445.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "National Youth Day 2024: Wishes, Quotes by Swami Vivekananda, and 10 Interesting Facts", "url to article": "https://www.news18.com/lifestyle/national-youth-day-2024-wishes-quotes-by-swami-vivekananda-and-10-interesting-facts-8736521.html", "news summary": "The article discusses National Youth Day 2024, Swami Vivekananda's quotes, and 10 interesting facts.", "date/time of publication": "2024-01-12T00:00:00Z", "estimated read time": "5 minutes", "author": "News18"}
+
+{"news headline": "National Youth Day 2024: Wishes, Quotes by Swami Vivekananda, and 10 Interesting Facts", "url to article": "https://www.news18.com/lifestyle/national-youth-day-2024-wishes-quotes-by-swami-vivekananda-and-10-interesting-facts-8736521.html", "news summary": "National Youth Day 2024: Wishes, Quotes by Swami Vivekananda, and 10 Interesting Facts", "date/time of publication": "2021-01-12", "estimated read time": "0 minutes", "author": "News18.com"}
+
+{"news headline": "National Youth Day 2024: History, Significance, Celebrations, and Swami Vivekananda\u2019s Legacy", "url to article": "https://www.news18.com/lifestyle/national-youth-day-2024-history-significance-celebrations-and-swami-vivekanandas-legacy-8732650.html", "news summary": "The article discusses the history, significance, celebrations, and Swami Vivekananda's legacy of National Youth Day 2024.", "date/time of publication": "2024-01-01T00:00:00Z", "estimated read time": "5 minutes", "author": "News18"}
+
+{"news headline": "National Youth Day 2024: History, Significance, Celebrations, and Swami Vivekana ...", "url to article": "https://www.news18.com/lifestyle/national-youth-day-2024-history-significance-celebrations-and-swami-vivekanandas-legacy-8732650.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "When is Makar Sankranti 2024? Date, History, Puja Muhurat, and Rituals", "url to article": "https://www.news18.com/lifestyle/when-is-makar-sankranti-2024-date-history-puja-muhurat-and-rituals-8734445.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Sunny Leone Opens Up On Deepfake Videos Months After Rashmika Mandanna's Viral Clip: 'The System Is...'", "url to article": "https://www.news18.com/movies/sunny-leone-opens-up-on-deepfake-videos-months-after-rashmika-mandannas-viral-clip-the-system-is-8736926.html", "news summary": "Sunny Leone Opens Up On Deepfake Videos Months After Rashmika Mandanna's Viral Clip: 'The System Is...'", "date/time of publication": "2021-09-22T10:00:00Z", "estimated read time": "0 minutes", "author": "News18"}
+
+{"news headline": "Merry Christmas FIRST Review Out: Katrina Kaif, Vijay Sethupathi Impress In This 'Gripping' Thriller", "url to article": "https://www.news18.com/movies/merry-christmas-first-review-out-katrina-kaif-vijay-sethupathi-impress-in-this-gripping-thriller-8736924.html", "news summary": "Katrina Kaif and Vijay Sethupathi impress in this 'gripping' thriller.", "date/time of publication": "2021-12-25T00:00:00+0530", "estimated read time": "00:00:00", "author": "News18"}
+
+{"news headline": "National Youth Day 2024: Wishes, Quotes by Swami Vivekananda, and 10 Interesting Facts", "url to article": "https://www.news18.com/lifestyle/national-youth-day-2024-wishes-quotes-by-swami-vivekananda-and-10-interesting-facts-8736521.html", "news summary": "National Youth Day 2024: Wishes, Quotes by Swami Vivekananda, and 10 Interesting Facts", "date/time of publication": "2021-01-12", "estimated read time": "00:05:00", "author": "News18"}
+
+{"news headline": "National Youth Day 2024: History, Significance, Celebrations, and Swami Vivekananda\u2019s Legacy", "url to article": "https://www.news18.com/lifestyle/national-youth-day-2024-history-significance-celebrations-and-swami-vivekanandas-legacy-8732650.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Horoscope Today, January 12, 2024: Your Daily Astrological Prediction for All Zodiac Signs", "url to article": "https://www.news18.com/astrology/horoscope-today-january-12-2024-aaj-ka-rashifal-8734683.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Shah Rukh Khan Wins Indian of the Year 2023, Says 'I'm The Indian For All Ages' | Full Speech", "url to article": "https://www.news18.com/movies/shah-rukh-khan-wins-indian-of-the-year-2023-says-im-the-indian-for-all-ages-full-speech-8736745.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+"ERROR: JSON DECODE FAILED"
+
+{"news headline": "Dry Day Alert: Liquor Ban on Ayodhya Ram Mandir Inauguration Day in Some BJP States | Check Full List", "url to article": "https://www.news18.com/india/dry-day-alert-liquor-ban-on-ayodhya-ram-mandir-inauguration-day-in-some-bjp-states-check-full-list-8735764.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Hawker-free Colaba, Makeshift Hosp: Mumbai's Makeover as PM Set to Launch 22km Sea Link", "url to article": "https://www.news18.com/india/mumbai-trans-harbour-link-route-news-atal-setu-bridge-opening-today-narendra-modi-8736953.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Bengaluru CEO Said Son's 'Face Reminded Her of Husband', Cops Find Note in Her Goa Room | Updates", "url to article": "https://www.news18.com/india/bengaluru-ceo-kills-son-updates-suchana-seth-face-reminded-of-husband-venkat-raman-8736922.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Inside Aamir Khan\u2019s Daughter Ira Khan\u2019s White Wedding", "url to article": "https://www.news18.com/web-stories/entertainment/inside-aamir-khans-daughter-ira-khans-white-wedding-1514711/", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Shah Rukh Khan\u2019s Top Quotes As Indian Of The Year 2023", "url to article": "https://www.news18.com/web-stories/entertainment/shah-rukh-khan-breaks-internet-with-these-10-statements-at-indian-of-the-year-2023-1515401/", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "5 Beauty Secrets Of Triptii Dimri", "url to article": "https://www.news18.com/web-stories/lifestyle/5-beauty-secrets-of-triptii-dimri-1514021/", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "10 Benefits Of Growing Tulsi At Home", "url to article": "https://www.news18.com/web-stories/lifestyle/10-benefits-of-growing-tulsi-at-home-2-1513873/", "news summary": "Tulsi, also known as Holy Basil, is a popular herb in Ayurveda and has numerous health benefits. Here are 10 benefits of growing Tulsi at home.", "date/time of publication": "2020-06-15T10:00:00Z", "estimated read time": "5 minutes", "author": "News18"}
+
+{"news headline": "5 Motivational Movies Inspired by Real Life", "url to article": "https://www.news18.com/web-stories/entertainment/5-motivational-movies-inspired-by-real-life-1498935/", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "How To Reach Lakshadweep From Delhi?", "url to article": "https://www.news18.com/web-stories/auto/how-to-reach-lakshadweep-from-delhi-1508011/", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "15 Safest Countries To Travel In 2024", "url to article": "https://www.news18.com/web-stories/lifestyle/15-safest-countries-to-travel-in-2024-1514627/", "news summary": "The article provides a list of 15 safest countries to travel in 2024.", "date/time of publication": "2021-01-01T00:00:00Z", "estimated read time": "5 minutes", "author": "News18"}
+
+{"news headline": "8 Devotional Songs on Lord Ram Recommended by PM Modi", "url to article": "https://www.news18.com/web-stories/lifestyle/8-devotional-songs-on-lord-ram-recommended-by-pm-modi-1507507/", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "How to Make Kolkata Egg Roll at Home", "url to article": "https://www.news18.com/web-stories/lifestyle/how-to-make-kolkata-egg-roll-at-home-1508239/", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "5 Best Performances of Hrithik Roshan on His 50th Birthday", "url to article": "https://www.news18.com/web-stories/entertainment/5-best-performances-of-hrithik-roshan-on-his-50th-birthday-1506941/", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "5 Best Performances of Hrithik Roshan on His...", "url to article": "https://www.news18.com/web-stories/entertainment/5-best-performances-of-hrithik-roshan-on-his-50th-birthday-1506941/", "news summary": "The article discusses the top five performances of Hrithik Roshan on his 50th birthday.", "date/time of publication": "2021-01-01T00:00:00Z", "estimated read time": "5 minutes", "author": "News18"}
+
+{"news headline": "10 Indian Women Film Directors Redefining...", "url to article": "https://www.news18.com/web-stories/entertainment/meghna-gulzar-to-zoya-akhtar-10-indian-women-film-directors-redefining-indian-cinema-1505543/", "news summary": "Meghna Gulzar to Zoya Akhtar: 10 Indian Women Film Directors Redefining Indian Cinema", "date/time of publication": "2020-05-22", "estimated read time": "5 minutes", "author": "News18"}
+
+{"news headline": "How To Obtain Permit To Enter Lakshadweep?", "url to article": "https://www.news18.com/web-stories/lifestyle/how-to-obtain-permit-to-enter-lakshadweep-1498853/", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Lohri 2024: 5 Yummy Halwas To Celebrate the...", "url to article": "https://www.news18.com/web-stories/lifestyle/lohri-2024-5-yummy-halwas-to-celebrate-the-festival-1497299/", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "5 Incredible Health Benefits of Hummus", "url to article": "https://www.news18.com/web-stories/lifestyle/5-incredible-health-benefits-of-hummus-1498863/", "news summary": "Hummus is a popular Middle Eastern dip made from chickpeas, tahini, lemon juice, and garlic. It is a healthy and delicious food that offers numerous health benefits. Here are five incredible health benefits of hummus.", "date/time of publication": "2020-07-20T12:00:00Z", "estimated read time": "5 minutes", "author": "News18"}
+
+{"news headline": "Top 10 Katrina Kaif Movies to Watch Before...", "url to article": "https://www.news18.com/web-stories/entertainment/top-10-katrina-kaif-movies-to-watch-before-merry-christmas-1500785/", "news summary": "Top 10 Katrina Kaif Movies to Watch Before...", "date/time of publication": "2020-12-15T12:00:00Z", "estimated read time": "10 minutes", "author": "News18"}
+
+{"news headline": "5 Ways To Reduce Cholesterol", "url to article": "https://www.news18.com/web-stories/lifestyle/5-ways-to-reduce-cholesterol-1499873/", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Lakshadweep and 5 Other Indian Islands to...", "url to article": "https://www.news18.com/web-stories/lifestyle/lakshadweep-and-top-5-other-indian-islands-to-visit-in-2024-1490023/", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "6 Simple Ways To Get Pink Lips Naturally At Home", "url to article": "https://www.news18.com/web-stories/lifestyle/6-simple-ways-to-get-pink-lips-naturally-at-home-1491887/", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "6 Simple Ways To Get Pink Lips Naturally At Home", "url to article": "https://www.news18.com/web-stories/lifestyle/6-simple-ways-to-get-pink-lips-naturally-at-home-1491887/", "news summary": "6 Simple Ways To Get Pink Lips Naturally At Home", "date/time of publication": "2020-09-14T12:00:00Z", "estimated read time": "0 minutes", "author": "News18"}
+
+{"news headline": "9 Tips For Financial Planning For Retirement...", "url to article": "https://www.news18.com/web-stories/business/9-tips-for-financial-planning-for-retirement-in-india-in-2024-1493061/", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "How to Get Rid of Bathroom Odour?", "url to article": "https://www.news18.com/web-stories/lifestyle/how-to-get-rid-of-bathroom-odour-1490813/", "news summary": "The article provides tips on how to eliminate bathroom odour.", "date/time of publication": "2020-09-14T12:00:00Z", "estimated read time": "5 minutes", "author": "News18"}
+
+{"news headline": "7 Flower Plants That Look Good Throughout the Year", "url to article": "https://www.news18.com/web-stories/lifestyle/7-flower-plants-that-look-good-throughout-the-year-1489747/", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Golden Globe Awards 2023: Best Dressed On...", "url to article": "https://www.news18.com/web-stories/lifestyle/golden-globe-awards-2023-best-dressed-on-the-red-carpet-1489329/", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Horoscope Today: Astrological Prediction For January 8, 2024", "url to article": "https://www.news18.com/web-stories/lifestyle/horoscope-today-astrological-prediction-for-january-8-2024-1482693/", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Horoscope Today: Astrological Prediction For...", "url to article": "https://www.news18.com/web-stories/lifestyle/horoscope-today-astrological-prediction-for-january-8-2024-1482693/", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "5 Grand Temples Set to Open Doors in 2024", "url to article": "https://www.news18.com/web-stories/lifestyle/indias-grand-temples-set-to-open-doors-in-2024-1488169/", "news summary": "5 Grand Temples Set to Open Doors in 2024", "date/time of publication": "2021-07-16", "estimated read time": "0"}
+
+{"news headline": "5 Grand Temples Set to Open Doors in 2024", "url to article": "https://www.news18.com/web-stories/lifestyle/indias-grand-temples-set-to-open-doors-in-2024-1488169/", "news summary": "India's Grand Temples Set to Open Doors in 2024", "date/time of publication": "2021-06-29", "estimated read time": "5 minutes", "author": "News18"}
+
+{"news headline": "9 Police Dramas to Watch Before Indian Police Force", "url to article": "https://www.news18.com/web-stories/entertainment/delhi-crime-to-khakee-9-bollywood-police-series-to-watch-before-indian-police-force-1487421/", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "9 Police Dramas to Watch Before Indian Police Force", "url to article": "https://www.news18.com/web-stories/entertainment/delhi-crime-to-khakee-9-bollywood-police-series-to-watch-before-indian-police-force-1487421/", "news summary": "Delhi Crime to Khakee: 9 Bollywood Police Series to Watch Before Indian Police Force", "date/time of publication": "2020-09-14T10:00:00Z", "estimated read time": "5 minutes", "author": "News18"}
+
+{"news headline": "7 Destinations To Travel In India If You Love Adventure", "url to article": "https://www.news18.com/web-stories/lifestyle/7-destinations-to-travel-in-india-if-you-love-adventure-1489287/", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "PM Modi\u2019s Pics from Lakshadweep", "url to article": "https://www.news18.com/web-stories/news/pm-modis-pics-from-lakshadweep-1476601/", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Tejas to Hi Nanna: 10 OTT Releases to Watch...", "url to article": "https://www.news18.com/web-stories/entertainment/tejas-to-hi-nanna-10-ott-releases-to-watch-this-weekend-1477641/", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Horoscope Today: Astrological Prediction for January 11, 2024", "url to article": "https://www.news18.com/web-stories/lifestyle/horoscope-today-astrological-prediction-for-january-11-2024-2-1475417/", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "7 Snacks To Serve Pre-Teens For Better Nutrition", "url to article": "https://www.news18.com/web-stories/lifestyle/7-snacks-to-serve-pre-teens-for-better-nutrition-1476509/", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "7 Must-Visit Destinations In India If You...", "url to article": "https://www.news18.com/web-stories/lifestyle/7-must-visit-destinations-in-india-if-you-are-devotional-1477665/", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Deepika Padukone\u2019s Simple Skincare Routine", "url to article": "https://www.news18.com/web-stories/lifestyle/deepika-padukones-simple-skincare-routine-1473553/", "news summary": "Deepika Padukone's Simple Skincare Routine", "date/time of publication": "2021-06-14T12:00:00Z", "estimated read time": "1 minute", "author": "News18"}
+
+{"news headline": "7 Easy Makeover Ideas For Your Balcony", "url to article": "https://www.news18.com/web-stories/lifestyle/7-easy-makeover-ideas-for-your-balcony-1472849/", "news summary": "7 Easy Makeover Ideas For Your Balcony", "date/time of publication": "2020-05-20T12:00:00Z", "estimated read time": "5 minutes", "author": "News18"}
+
+{"news headline": "5 Tips To Remove Vastu Defects From Home", "url to article": "https://www.news18.com/web-stories/lifestyle/5-tips-to-remove-vastu-defects-from-home-2-1474359/", "news summary": "5 Tips To Remove Vastu Defects From Home", "date/time of publication": "2021-02-14T12:00:00Z", "estimated read time": "5 minutes", "author": "News18"}
+
+{"news headline": "Aamir Khan\u2019s Daughter Ira Marries Nupur...", "url to article": "https://www.news18.com/web-stories/entertainment/aamir-khans-daughter-ira-marries-nupur-shikhare-see-pics-1468749/", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Educational Qualification of India\u2019s 10 Top...", "url to article": "https://www.news18.com/web-stories/business/10-indian-top-businesswomen-and-their-educational-qualifications-1462349/", "news summary": "The article discusses the educational qualifications of India's top 10 businesswomen.", "date/time of publication": "2020-09-14T12:00:00Z", "estimated read time": "5 minutes", "author": "News18"}
+
+{"news headline": "Janhvi And Khushi Talking About Sridevi\u2019s Death", "url to article": "https://www.news18.com/web-stories/entertainment/janhvi-and-khushi-talking-about-sridevis-death-1468719/", "news summary": "Janhvi Kapoor and Khushi Kapoor, the daughters of late actress Sridevi, have opened up about her death in an interview.", "date/time of publication": "2018-09-05T12:00:00Z", "estimated read time": "5 minutes", "author": "News18"}
+
+{"news headline": "Neetu Kapoor Makes a SHOCKING Confession About Rishi Kapoor, Says He Never Allowed Her To...", "url to article": "https://www.news18.com/movies/neetu-kapoor-shocking-confession-about-rishi-kapoor-koffee-with-karan-8-zeenat-aman-karan-johar-8735613.html", "news summary": "Neetu Kapoor reveals a shocking confession about her husband Rishi Kapoor, stating that he never allowed her to...", "date/time of publication": "2021-09-20T12:00:00Z", "estimated read time": "5 minutes", "author": "News18"}
+
+{"news headline": "Merry Christmas FIRST Review Out: Katrina Kaif, Vijay Sethupathi Impress In This 'Gripping' Thriller", "url to article": "https://www.news18.com/movies/merry-christmas-first-review-out-katrina-kaif-vijay-sethupathi-impress-in-this-gripping-thriller-8736924.html", "news summary": "Katrina Kaif and Vijay Sethupathi impress in this 'gripping' thriller.", "date/time of publication": "2021-12-25T00:00:00+0530", "estimated read time": "00:00:00", "author": "News18"}
+
+{"news headline": "Nayanthara's Annapoorani REMOVED From Netflix, Makers Apologise For 'Hurting Religious Sentiments'", "url to article": "https://www.news18.com/movies/nayantharas-annapoorani-removed-from-netflix-makers-apologise-for-hurting-religious-sentiments-8736087.html", "news summary": "Nayanthara's Annapoorani REMOVED From Netflix, Makers Apologise For 'Hurting Religious Sentiments'", "date/time of publication": "2021-09-28T12:00:00Z", "estimated read time": "0 minutes", "author": "News18"}
+
+{"news headline": "Shah Rukh Khan BREAKS Silence On Family's Struggle in Recent Years: 'Made Me Learn a Lesson' | Exclusive", "url to article": "https://www.news18.com/movies/shah-rukh-khan-breaks-silence-on-familys-struggle-in-recent-years-made-me-learn-a-lesson-exclusive-8735378.html", "news summary": "Shah Rukh Khan BREAKS Silence On Family's Struggle in Recent Years: 'Made Me Learn a Lesson' | Exclusive", "date/time of publication": "2021-09-22T12:00:00Z", "estimated read time": "10 minutes", "author": "News18"}
+
+{"news headline": "Rahul's Heart-winning Gesture Going Viral: Asks Fans Not to Touch His Feet, Happily Agrees For a Selfie | WATCH", "url to article": "https://www.news18.com/cricket/rahuls-heart-winning-gesture-going-viral-asks-fans-not-to-touch-his-feet-happily-agrees-for-a-selfie-watch-8735988.html", "news summary": "Rahul's Heart-winning Gesture Going Viral: Asks Fans Not to Touch His Feet, Happily Agrees For a Selfie | WATCH", "date/time of publication": "2021-09-20T12:00:00Z", "estimated read time": "0 minutes", "author": "News18"}
+
+{"news headline": "Virat Kohli And Rohit Sharma's Presence Will Better India's Chances to Win T20 World Cup: Suresh Raina", "url to article": "https://www.news18.com/cricket/virat-kohli-and-rohit-sharmas-presence-will-better-indias-chances-to-win-t20-world-cup-suresh-raina-8736349.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Delhi Capitals in Advanced Talks to Buy Stakes in English County Side Hampshire: Report", "url to article": "https://www.news18.com/cricket/delhi-capitals-in-advanced-talks-to-buy-stakes-in-english-county-side-hampshire-report-8736016.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Assam to Become 3rd State to Implement Uniform Civil Code, Exemption to Tribals", "url to article": "https://www.news18.com/india/assam-to-become-3rd-state-to-implement-uniform-civil-code-exemption-to-tribals-8736697.html", "news summary": "Assam is set to become the third state in India to implement the Uniform Civil Code, which will exempt tribals from its provisions.", "date/time of publication": "2021-09-28T10:00:00Z", "estimated read time": "5 minutes", "author": "News18"}
+
+"ERROR: JSON DECODE FAILED"
+
+{"news headline": "\u2018Incomplete Construction\u2019: Why All Four Shankaracharyas Not Attending Ram Lalla\u2019s \u2018Pran Pratishtha\u2019", "url to article": "https://www.news18.com/india/ayodhya-ram-mandir-why-all-four-shankaracharyas-not-attending-consecration-ceremony-8736422.html", "news summary": "The four Shankaracharyas are not attending the Ram Lalla\u2019s \u2018Pran Pratishtha\u2019 ceremony due to incomplete construction of the Ram Mandir in Ayodhya. The ceremony is scheduled to take place on 5th December.", "date/time of publication": "2021-12-04T00:00:00", "estimated read time": "5 minutes", "author": "News18"}
+
+{"news headline": "2 Auto Drivers Raped, Murdered Minor Girl Then Hang Her To Show It As 'Suicide' Case", "url to article": "https://www.news18.com/india/2-auto-drivers-raped-murdered-minor-girl-then-hang-her-to-show-it-as-suicide-case-8736461.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "EC Visits Andhra Pradesh as Countdown to Lok Sabha & Assembly Elections Begins; More States Planned", "url to article": "https://www.news18.com/india/ec-visits-andhra-pradesh-as-countdown-to-lok-sabha-assembly-elections-begins-more-states-planned-8734532.html", "news summary": "The Election Commission (EC) has visited Andhra Pradesh as the countdown to the Lok Sabha and Assembly elections begins. More states are planned to be visited in the coming days.", "date/time of publication": "2021-02-18T00:00:00+05:30", "estimated read time": "5 minutes", "author": "News18"}
+
+{"news headline": "Nadda Chairs Meeting of BJP Leaders, Discusses Plans for Jan 22 Ram Temple Event, LS Polls", "url to article": "https://www.news18.com/politics/nadda-chairs-meeting-of-bjp-leaders-discusses-plans-for-jan-22-ram-temple-event-ls-polls-8734225.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "BJP Chief to Hold Meetings, Review LS Poll Preparations During Visit to Assam, Arunachal Pradesh", "url to article": "https://www.news18.com/elections/bjp-chief-to-hold-meetings-review-ls-poll-preparations-during-visit-to-assam-arunachal-pradesh-8734046.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Lok Sabha Polls: Telangana CM to Embark on Tour of Districts After Jan 26", "url to article": "https://www.news18.com/politics/lok-sabha-polls-telangana-cm-to-embark-on-tour-of-districts-after-jan-26-8733094.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Navalny Urges For Longer Meal Breaks, More Books During Legal Hearing", "url to article": "https://www.news18.com/short-videos/world/navalny-urges-for-longer-meal-breaks-more-books-during-legal-hearing-8736862.html", "news summary": "Russian opposition leader Alexei Navalny has urged for longer meal breaks and more books during his legal hearing. Navalny, who is currently in custody, has been charged with multiple offenses, including embezzlement and money laundering. The hearing is part of a larger investigation into Navalny's activities and finances.", "date/time of publication": "2021-02-02T00:00:00Z", "estimated read time": "5 minutes", "author": "News18"}
+
+{"news headline": "Loots, Arson Attacks Jolt Papua New Guinea After Surprise Pay Cut", "url to article": "https://www.news18.com/short-videos/world/loots-arson-attacks-jolt-papua-new-guinea-after-surprise-pay-cut-8736824.html", "news summary": "The article discusses looting and arson attacks in Papua New Guinea after a surprise pay cut.", "date/time of publication": "2021-08-18T10:00:00Z", "estimated read time": "5 minutes", "author": "News18"}
+
+{"news headline": "Putin Takes A Ride Of \u201cPredator\u201d Off-Road Vehicle On First Trip To Chukotka", "url to article": "https://www.news18.com/short-videos/world/putin-takes-a-ride-of-predator-off-road-vehicle-on-first-trip-to-chukotka-8736761.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Haley's Gonna Get Smoked", "url to article": "https://www.news18.com/short-videos/world/haley-s-gonna-get-smoked-chris-christie-caught-on-hot-mic-bashing-desantis-nikki-haley-8736735.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Watch | Ukraine Takes Down Russian 'Blazing Sun' Launcher With\u00a0US-Made\u00a0HIMARS", "url to article": "https://www.news18.com/short-videos/world/watch-ukraine-takes-down-russian-blazing-sun-launcher-with-us-made-himars-8735429.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Keeping Nuclear Triad Combat-Ready \u201cKey Goal\u201d, Says Russain Defence Minister Shoigu", "url to article": "https://www.news18.com/short-videos/world/keeping-nuclear-triad-combat-ready-key-goal-says-russain-defence-minister-shoigu-8735283.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Kim Jong Un Visits Arms Factory Amid Western Criticism Of Weapons Transfer To Russia", "url to article": "https://www.news18.com/short-videos/world/kim-jong-un-visits-arms-factory-amid-western-criticism-of-weapons-transfer-to-russia-8735192.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "I did nothing wrong", "url to article": "https://www.news18.com/short-videos/world/i-did-nothing-wrong-trump-says-after-immunity-appeal-8735119.html", "news summary": "Donald Trump has said he did nothing wrong after his legal team filed an appeal to the Supreme Court to block a subpoena for his financial records. The appeal was filed on Monday, and Trump's lawyers argued that the subpoena was an unconstitutional overreach by Congress. The Supreme Court is expected to hear the case in the coming weeks.", "date/time of publication": "2020-05-18T12:00:00Z", "estimated read time": "5 minutes", "author": "News18"}
+
+{"news headline": "Taiwan monitoring Chinese balloon \u201cthreat to aviation safety\u201d", "url to article": "https://www.news18.com/short-videos/world/taiwan-monitoring-chinese-balloon-threat-to-aviation-safety-8734166.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "\u2018Black Nazarene\u2019 tradition resumes in Philippines after COVID-19 break", "url to article": "https://www.news18.com/short-videos/world/black-nazarene-tradition-resumes-in-philippines-after-covid-19-break-8734125.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "\u2018Black Nazarene\u2019 tradition resumes in Philippines after COVID-19 break", "url to article": "https://www.news18.com/short-videos/world/black-nazarene-tradition-resumes-in-philippines-after-covid-19-break-8734125.html", "news summary": "The Black Nazarene tradition has resumed in the Philippines after a COVID-19 break. The annual procession, which attracts millions of devotees, has been held since the 17th century.", "date/time of publication": "2021-01-01T00:00:00Z", "estimated read time": "0 minutes", "author": "News18"}
+
+{"news headline": "Bull Enters SBI Branch in Uttar Pradesh's Unnao, Internet Quips: 'Come After Lunch'", "url to article": "https://www.news18.com/viral/bull-enters-sbi-branch-in-uttar-pradeshs-unnao-internet-quips-come-after-lunch-8735660.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "SRK, Mani Ratnam's Funny Banter on Film Together Wins Hearts, Fans Hope for 'Chaiyya Chaiyya' Remake", "url to article": "https://www.news18.com/viral/srk-mani-ratnams-funny-banter-on-film-together-wins-hearts-fans-hope-for-chaiyya-chaiyya-remake-8736315.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "No Place to Sit: IndiGo Passenger Gets Broken Seat On Delayed Flight, Rebukes Airline", "url to article": "https://www.news18.com/viral/no-place-to-sit-indigo-passenger-gets-broken-seat-on-delayed-flight-rebukes-airline-8736053.html", "news summary": "An IndiGo passenger had to endure a broken seat on a delayed flight, leading to a rebuke of the airline.", "date/time of publication": "2021-09-20T12:00:00+05:30", "estimated read time": "5 minutes", "author": "News18"}
+
+{"news headline": "TCS Q3 Results: Net Profit Rises 8.2% To Rs 11,735 Crore, Revenue Up 4%; Rs 18 Special Dividend Declared", "url to article": "https://www.news18.com/business/tcs-q3-results-net-profit-rises-8-2-to-rs-11735-crore-revenue-up-4-rs-18-special-dividend-declared-8736241.html", "news summary": "TCS Q3 Results: Net Profit Rises 8.2% To Rs 11,735 Crore, Revenue Up 4%; Rs 18 Special Dividend Declared", "date/time of publication": "2021-07-14T00:00:00Z", "estimated read time": "0 minutes", "author": "News18"}
+
+{"news headline": "Infosys Q3 Net Profit Falls 7.3% YoY To Rs 6,106 Crore, Revenues Up 1.3%", "url to article": "https://www.news18.com/business/infosys-q3-net-profit-falls-7-3-yoy-to-rs-6106-crore-revenues-up-1-3-8736307.html", "news summary": "Infosys Q3 Net Profit Falls 7.3% YoY To Rs 6,106 Crore, Revenues Up 1.3%", "date/time of publication": "2021-01-12T00:00:00+05:30", "estimated read time": "1 minute", "author": "News18"}
+
+{"news headline": "US, Allies Conduct Airstrikes on Houthis in Yemen; Biden Says 'Will Not Hesitate to Order Further Action'", "url to article": "https://www.news18.com/world/us-uk-launch-massive-retaliatory-airstrikes-on-yemens-houthi-rebels-8736917.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+"ERROR: JSON DECODE FAILED"
+
+{"news headline": "Pakistan Establishment Turns to \u2018Siyasat Ka Sultan\u2019 to Mend Ties with Taliban | Exclusive", "url to article": "https://www.news18.com/world/pakistan-establishment-turns-to-siyasat-ka-sultan-to-mend-ties-with-taliban-exclusive-8736318.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Bengaluru Mount Carmel College\u2019s Decision to Turn Co-Ed Stirs Mixed Reactions from Students, Professors", "url to article": "https://www.news18.com/education-career/bengaluru-mount-carmel-colleges-decision-to-turn-co-ed-stirs-mixed-reactions-from-students-professors-8735858.html", "news summary": "Bengaluru Mount Carmel College\u2019s decision to turn co-ed has sparked mixed reactions from students and professors. The college has decided to admit boys in the undergraduate courses, which has led to a debate on the impact of this decision on the college's culture and environment.", "date/time of publication": "2021-09-20T10:00:00+05:30", "estimated read time": "5 minutes", "author": "News18"}
+
+{"news headline": "Medical Students Enrolled to Colleges Offline to Face Threat of Admission Cancellation", "url to article": "https://www.news18.com/education-career/medical-students-enrolled-to-colleges-offline-to-face-threat-of-admission-cancellation-8735902.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "NEET PG 2024 to Be Conducted on July 7; Check Subject-Wise Weightage, Exam Pattern", "url to article": "https://www.news18.com/education-career/neet-pg-2024-to-be-conducted-on-july-7-check-subject-wise-weightage-exam-pattern-8733777.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "IND vs AFG,1st T20I: India Go 1-0 Up in Series", "url to article": "https://www.news18.com/videos/cricket/ind-vs-afg-1st-t20-india-go-1-0-up-in-series-8736835.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Rahul Narwekar Exclusive Interview on Shiv Sena Verdict", "url to article": "https://www.news18.com/videos/india/rahul-narweakr-interview-8736760.html", "news summary": "Rahul Narwekar Exclusive Interview on Shiv Sena Verdict", "date/time of publication": "2021-07-16", "estimated read time": "00:00:00", "author": "News18"}
+
+{"news headline": "Rahul Narwekar Exclusive Interview on Shiv Sena Verdict", "url to article": "https://www.news18.com/videos/india/rahul-narweakr-interview-8736760.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Israel Tracks Down Hamas Tunnel Where Hostages Were Kept", "url to article": "https://www.news18.com/videos/world/idf-releases-video-of-tunnel-where-hostages-8736737.html", "news summary": "The IDF has released a video of the tunnel where hostages were kept.", "date/time of publication": "2021-07-16", "estimated read time": "0 minutes", "author": "News18"}
+
+{"news headline": "Israel Tracks Down Hamas Tunnel Where Hostages Were Kept", "url to article": "https://www.news18.com/videos/world/idf-releases-video-of-tunnel-where-hostages-8736737.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "AB de Villiers Talks About Virat Kohlis Comeback in T20Is, SA20 & much more", "url to article": "https://www.news18.com/videos/cricket/ab-de-villiers-talks-about-virat-kohli-comeback-in-t20is-8736724.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "AB de Villiers Talks About Virat Kohlis Comeback in T20Is, SA20 & much more", "url to article": "https://www.news18.com/videos/cricket/ab-de-villiers-talks-about-virat-kohli-comeback-in-t20is-8736724.html", "news summary": "AB de Villiers Talks About Virat Kohlis Comeback in T20Is, SA20 & much more", "date/time of publication": "2022-01-10T10:00:00Z", "estimated read time": "00:00:00", "author": "News18"}
+
+{"news headline": "Could Rejecting Ayodhya Invite Prove Disastrous For Congress?", "url to article": "https://www.news18.com/videos/india/could-rejecting-ram-mandir-invite-prove-disastrous-for-congress-8736720.html", "news summary": "Could Rejecting Ayodhya Invite Prove Disastrous For Congress?", "date/time of publication": "2021-07-16", "estimated read time": "00:00:00", "author": "News18"}
+
+{"news headline": "Sanju Samson Has The Potential To Be The X-factor For Team India: Suresh Raina", "url to article": "https://www.news18.com/videos/cricket/sanju-samson-has-the-potential-to-be-the-x-factor-for-team-india-suresh-raina-8736693.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Sanju Samson Has The Potential To Be The X-factor For Team India: Suresh Raina", "url to article": "https://www.news18.com/videos/cricket/sanju-samson-has-the-potential-to-be-the-x-factor-for-team-india-suresh-raina-8736693.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Dinesh Karthik Set to Join England Lions Cricket Team", "url to article": "https://www.news18.com/videos/cricket/dinesh-karthik-set-to-join-england-lions-cricket-team-8736584.html", "news summary": "Dinesh Karthik Set to Join England Lions Cricket Team", "date/time of publication": "2021-07-16", "estimated read time": "00:00:00", "author": "News18"}
+
+{"news headline": "Dinesh Karthik Set to Join England Lions Cricket Team", "url to article": "https://www.news18.com/videos/cricket/dinesh-karthik-set-to-join-england-lions-cricket-team-8736584.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Differently-abled Amir Lone\u2019s inspirational journey to Cricket stardom", "url to article": "https://www.news18.com/videos/cricket/differently-abled-amir-lone-inspirational-journey-to-cricket-stardom-8736548.html", "news summary": "Differently-abled Amir Lone\u2019s inspirational journey to Cricket stardom", "date/time of publication": "2021-07-16", "estimated read time": "00:00:00", "author": "News18"}
+
+{"news headline": "Differently-abled Amir Lone\u2019s inspirational journey to Cricket stardom | Cricket News", "url to article": "https://www.news18.com/videos/cricket/differently-abled-amir-lone-inspirational-journey-to-cricket-stardom-8736548.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "IISc Comes Up With Warm Vaccine To Tackle COVID-19", "url to article": "https://www.news18.com/videos/india/warm-vaccine-developed-for-covid-in-bengaluru-8736475.html", "news summary": "IISc Comes Up With Warm Vaccine To Tackle COVID-19", "date/time of publication": "2021-07-16", "estimated read time": "0 minutes", "author": "News18"}
+
+{"news headline": "IISc Comes Up With Warm Vaccine To Tackle COVID-19", "url to article": "https://www.news18.com/videos/india/warm-vaccine-developed-for-covid-in-bengaluru-8736475.html", "news summary": "IISc Comes Up With Warm Vaccine To Tackle COVID-19", "date/time of publication": "2021-02-18T10:00:00Z", "estimated read time": "0 minutes", "author": "News18"}
+
+{"news headline": "Denmark's Crown Prince Frederik to Become The New King", "url to article": "https://www.news18.com/videos/world/denmark-toget-their-new-king-8736401.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Continued attacks in Red Sea by Houthis will have consequences, says Blinken", "url to article": "https://www.news18.com/videos/world/blinken-to-iran-8736023.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Continued attacks in Red Sea by Houthis will have consequences, says Blinken", "url to article": "https://www.news18.com/videos/world/blinken-to-iran-8736023.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Israel has no intentions of permanently occupying Gaza, says Benjamin Netanyahu", "url to article": "https://www.news18.com/videos/world/gaza-occupation-8735870.html", "news summary": "Israel has no intentions of permanently occupying Gaza, says Benjamin Netanyahu", "date/time of publication": "2021-07-16", "estimated read time": "0 minutes", "author": "News18"}
+
+{"news headline": "Israel has no intentions of permanently occupying Gaza, says Benjamin Netanyahu", "url to article": "https://www.news18.com/videos/world/gaza-occupation-8735870.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Hunter Biden makes surprise appearance at house contempt hearing", "url to article": "https://www.news18.com/videos/world/hunter-biden-8735857.html", "news summary": "Hunter Biden makes surprise appearance at house contempt hearing", "date/time of publication": "2021-07-16", "estimated read time": "0:00", "author": "News18"}
+
+{"news headline": "Hunter Biden makes surprise appearance at house contempt hearing", "url to article": "https://www.news18.com/videos/world/hunter-biden-8735857.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "UN security council demands Houthis halt Red Sea attacks", "url to article": "https://www.news18.com/videos/world/houthis-red-sea-8735747.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Braids, Blazer and Badshah: Shah Rukh Khan Makes A Stylish Entrance At CNN-News18 Indian of the Year 2023", "url to article": "https://www.news18.com/lifestyle/braids-blazer-and-badshah-shah-rukh-khan-makes-a-stylish-entrance-at-cnn-news18-indian-of-the-year-2023-8735469.html", "news summary": "Shah Rukh Khan makes a stylish entrance at CNN-News18 Indian of the Year 2023 event, wearing braids, a blazer, and Badshah.", "date/time of publication": "2023-01-24", "estimated read time": "1 minute", "author": "News18"}
+
+{"news headline": "Watch: Ira Khan Is The Most Ethereal Bride In Her Delicate, White Wedding Gown", "url to article": "https://www.news18.com/lifestyle/watch-ira-khan-is-the-most-ethereal-bride-in-her-delicate-white-wedding-gown-8735821.html", "news summary": "Ira Khan is the most ethereal bride in her delicate, white wedding gown.", "date/time of publication": "2021-09-25T10:00:00Z", "estimated read time": "1 minute", "author": "News18"}
+
+{"news headline": "CNN-News18 Indian of the Year 2023: Trinetra Receives The Youth Icon Award Draped In Six Yards of Sheer Elegance", "url to article": "https://www.news18.com/lifestyle/cnn-news18-indian-of-the-year-2023-trinetra-receives-the-youth-icon-award-draped-in-six-yards-of-sheer-elegance-8735500.html", "news summary": "Trinetra receives the Youth Icon Award draped in six yards of sheer elegance.", "date/time of publication": "2023-01-01T00:00:00", "estimated read time": "0 minutes", "author": "CNN-News18"}
+
+{"news headline": "Makar Sankranti 2024: Surya Arghya To Donations, Activities To Seek Blessings Of Sun God", "url to article": "https://www.news18.com/lifestyle/makar-sankranti-2024-surya-arghya-to-donations-activities-to-seek-blessings-of-sun-god-8735944.html", "news summary": "Makar Sankranti 2024: Surya Arghya To Donations, Activities To Seek Blessings Of Sun God", "date/time of publication": "2024-01-15T00:00:00Z", "estimated read time": "0 minutes", "author": "News18"}
+
+{"news headline": "Big Crypto Investment Scam: Delhi Man Loses Rs 12 Lakh To Telegram Fraudsters", "url to article": "https://www.news18.com/tech/big-crypto-investment-scam-delhi-man-loses-rs-12-lakh-to-telegram-fraudsters-8735680.html", "news summary": "A Delhi man lost Rs 12 lakh to Telegram fraudsters in a crypto investment scam.", "date/time of publication": "2021-09-20T12:00:00+05:30", "estimated read time": "5 minutes", "author": "News18"}
+
+{"news headline": "ChatGPT Is Coming Into Your Cars In 2024, Starting With This German Brand", "url to article": "https://www.news18.com/tech/chatgpt-is-coming-into-your-cars-in-2024-starting-with-this-german-brand-8734156.html", "news summary": "ChatGPT is set to enter cars in 2024, starting with a German brand.", "date/time of publication": "2023-03-01T00:00:00Z", "estimated read time": "5 minutes", "author": "News18"}
+
+{"news headline": "2024 Mercedes Benz GLS Launched, Price Starts From Rs 1.32 Crore", "url to article": "https://www.news18.com/auto/2024-mercedes-benz-gls-launched-price-starts-from-rs-1-32-crore-8732388.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "India: 5 Expressways to Transform Travel in 2024, All You Need To Know", "url to article": "https://www.news18.com/auto/india-5-expressways-to-transform-travel-in-2024-all-you-need-to-know-8731793.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Definitely Help With Recovery: Andy Murray Says Curbing Late Finishes Will Make Tennis More Professional", "url to article": "https://www.news18.com/sports/definitely-help-with-recovery-andy-murray-says-curbing-late-finishes-will-make-tennis-more-professional-8736954.html", "news summary": "Andy Murray believes that curbing late finishes in tennis will make the sport more professional.", "date/time of publication": "2021-09-20T12:00:00Z", "estimated read time": "5 minutes", "author": "News18"}
+
+{"news headline": "7 Indian Looks of Sonakshi Sinha We Are Inspired by This Wedding Season", "url to article": "https://www.news18.com/photogallery/photogallery/7-indian-looks-of-sonakshi-sinha-we-are-inspired-by-this-wedding-season-8721392.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "7 Indian Looks of Sonakshi Sinha We Are Inspired by This Wedding Season", "url to article": "https://www.news18.com/photogallery/photogallery/7-indian-looks-of-sonakshi-sinha-we-are-inspired-by-this-wedding-season-8721392.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Happy Birthday Twinkle Khanna: Special Moments That Define Her Love Story With Akshay Kumar", "url to article": "https://www.news18.com/photogallery/movies/happy-birthday-twinkle-khanna-special-moments-that-define-her-love-story-with-akshay-kumar-8720147.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Happy Birthday Twinkle Khanna: Special Moments That Define Her Love Story With Akshay Kumar", "url to article": "https://www.news18.com/photogallery/movies/happy-birthday-twinkle-khanna-special-moments-that-define-her-love-story-with-akshay-kumar-8720147.html", "news summary": "The article is about Twinkle Khanna's birthday and her love story with Akshay Kumar. It features special moments that define their relationship.", "date/time of publication": "2021-09-10T00:00:00Z", "estimated read time": "5 minutes", "author": "News18"}
+
+{"news headline": "Bollywood Divas Slay in the B&W Trend With Timeless Class; Hop on to the Trend NOW!", "url to article": "https://www.news18.com/photogallery/photogallery/bollywood-divas-slay-in-the-b-hop-on-to-the-trend-now-8711401.html", "news summary": "Bollywood Divas Slay in the B&W Trend With Timeless Class; Hop on to the Trend NOW!", "date/time of publication": "2021-07-16", "estimated read time": "0 minutes", "author": "News18"}
+
+{"news headline": "Bollywood Divas Slay in the B&W Trend With Timeless Class; Hop on to the Trend NOW!", "url to article": "https://www.news18.com/photogallery/photogallery/bollywood-divas-slay-in-the-b-hop-on-to-the-trend-now-8711401.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Year Ender 2023: 10 Khushi Kapoor Looks That Prove She's the Ultimate Young Fashion Diva", "url to article": "https://www.news18.com/photogallery/photogallery/year-ender-2023-10-khushi-kapoor-looks-that-prove-shes-the-ultimate-young-fashion-diva-8711440.html", "news summary": "Khushi Kapoor is a young fashion diva, and these 10 looks prove it. Check out her stylish outfits from 2023.", "date/time of publication": "2023-12-07", "estimated read time": "5 minutes", "author": "News18"}
+
+{"news headline": "Year Ender 2023: 10 Khushi Kapoor Looks That Prove She's the Ultimate Young Fashion Diva", "url to article": "https://www.news18.com/photogallery/photogallery/year-ender-2023-10-khushi-kapoor-looks-that-prove-shes-the-ultimate-young-fashion-diva-8711440.html", "news summary": "Khushi Kapoor is a young fashionista who has been making waves in the industry with her stylish looks. In this article, we take a look at 10 of her most iconic fashion moments that prove she's the ultimate young fashion diva.", "date/time of publication": "2023-12-29", "estimated read time": "5 minutes", "author": "News18"}
+
+{"news headline": "World Saree Day 2023: Samantha Ruth Prabhu, Tamannaah Bhatia to Rashmika Mandanna, South Indian Actresses Who Slayed the Look", "url to article": "https://www.news18.com/photogallery/lifestyle/world-saree-day-2023-samantha-ruth-prabhu-tamannaah-bhatia-to-rashmika-mandanna-south-indian-actresses-who-slayed-the-look-8709960.html", "news summary": "The article showcases South Indian actresses who have slayed the saree look.", "date/time of publication": "2023-12-06", "estimated read time": "3 minutes", "author": "News18"}
+
+"ERROR: JSON DECODE FAILED"
+
+{"news headline": "Khushi Kapoor's Winter Style: Instagram Fashion Inspo for a Cozy and Chic Season", "url to article": "https://www.news18.com/photogallery/photogallery/khushi-kapoors-winter-style-instagram-fashion-inspo-for-a-cozy-and-chic-season-8703374.html", "news summary": "Khushi Kapoor's Winter Style: Instagram Fashion Inspo for a Cozy and Chic Season", "date/time of publication": "2023-12-01T00:00:00Z", "estimated read time": "0 minutes", "author": "News18"}
+
+{"news headline": "Khushi Kapoor's Winter Style: Instagram Fashion Inspo for a Cozy and Chic Season", "url to article": "https://www.news18.com/photogallery/photogallery/khushi-kapoors-winter-style-instagram-fashion-inspo-for-a-cozy-and-chic-season-8703374.html", "news summary": "Khushi Kapoor's Winter Style: Instagram Fashion Inspo for a Cozy and Chic Season", "date/time of publication": "2021-12-01T00:00:00Z", "estimated read time": "0 minutes", "author": "News18"}
+
+{"news headline": "5 Times Divya Khosla Kumar Stole the Show In Super Stunning Gowns", "url to article": "https://www.news18.com/photogallery/photogallery/5-times-divya-khosla-kumar-stole-the-show-in-super-stunning-gowns-8693202.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "5 Times Divya Khosla Kumar Stole the Show In Super Stunning Gowns", "url to article": "https://www.news18.com/photogallery/photogallery/5-times-divya-khosla-kumar-stole-the-show-in-super-stunning-gowns-8693202.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Agastya Nanda to Ibrahim Ali Khan: Bollywood\u2019s Dapper Men Who Turned Heads at \u2018The Archies\u2019 Premiere", "url to article": "https://www.news18.com/photogallery/photogallery/agastya-nanda-to-ibrahim-ali-khan-bollywoods-dapper-men-who-turned-heads-at-the-archies-premiere-8693144.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Agastya Nanda to Ibrahim Ali Khan: Bollywood\u2019s Dapper Men Who Turned Heads at \u2018The Archies\u2019 Premiere", "url to article": "https://www.news18.com/photogallery/photogallery/agastya-nanda-to-ibrahim-ali-khan-bollywoods-dapper-men-who-turned-heads-at-the-archies-premiere-8693144.html", "news summary": "Agastya Nanda and Ibrahim Ali Khan are two of Bollywood's most stylish men who turned heads at the premiere of 'The Archies'", "date/time of publication": "2022-06-10T00:00:00", "estimated read time": "1 minute", "author": "News18"}
+
+{"news headline": "Cyclone Michuang Wreaks Havoc In Southern States | In Pictures", "url to article": "https://www.news18.com/photogallery/india/cyclone-michuang-wreaks-havoc-in-southern-states-in-pictures-8692367.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Cyclone Michuang Wreaks Havoc In Southern States | In Pictures", "url to article": "https://www.news18.com/photogallery/india/cyclone-michuang-wreaks-havoc-in-southern-states-in-pictures-8692367.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Khushi Kapoor to Alia Bhatt- B\u2019Town Divas Who Set Fashion Goals Every Time They Step Out", "url to article": "https://www.news18.com/photogallery/photogallery/khushi-kapoor-to-alia-bhatt-btown-divas-who-set-fashion-goals-every-time-they-step-out-8683690.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Khushi Kapoor to Alia Bhatt- B\u2019Town Divas Who Set Fashion Goals Every Time They Step Out", "url to article": "https://www.news18.com/photogallery/photogallery/khushi-kapoor-to-alia-bhatt-btown-divas-who-set-fashion-goals-every-time-they-step-out-8683690.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Kiara Advani to Triptii Dimri: 5 Times Divas Elevated Their Fashion Game in Winters!", "url to article": "https://www.news18.com/photogallery/photogallery/kiara-advani-to-triptii-dimri-5-times-divas-elevated-their-fashion-game-in-winters-8685075.html", "news summary": "Kiara Advani to Triptii Dimri: 5 Times Divas Elevated Their Fashion Game in Winters!", "date/time of publication": "2021-07-16", "estimated read time": "0 minutes", "author": "untitled project"}
+
+{"news headline": "Kiara Advani to Triptii Dimri: 5 Times Divas Elevated Their Fashion Game in Winters!", "url to article": "https://www.news18.com/photogallery/photogallery/kiara-advani-to-triptii-dimri-5-times-divas-elevated-their-fashion-game-in-winters-8685075.html", "news summary": "Kiara Advani to Triptii Dimri: 5 Times Divas Elevated Their Fashion Game in Winters!", "date/time of publication": "2021-12-01T00:00:00Z", "estimated read time": "0 minutes", "author": "News18"}
+
+{"news headline": "Slaying Airport Looks and How: 5 Times Bollywood Actresses Nailed the Airport Look with Caps", "url to article": "https://www.news18.com/photogallery/photogallery/slaying-airport-looks-and-how-5-times-bollywood-actresses-nailed-the-airport-look-with-caps-8682018.html", "news summary": "5 Times Bollywood Actresses Nailed the Airport Look with Caps", "date/time of publication": "2021-07-16", "estimated read time": "0 minutes", "author": "untitled project"}
+
+{"news headline": "Slaying Airport Looks and How: 5 Times Bollywood Actresses Nailed the Airport Look with Caps", "url to article": "https://www.news18.com/photogallery/photogallery/slaying-airport-looks-and-how-5-times-bollywood-actresses-nailed-the-airport-look-with-caps-8682018.html", "news summary": "5 Times Bollywood Actresses Nailed the Airport Look with Caps", "date/time of publication": "2021-08-18T00:00:00Z", "estimated read time": "0 minutes", "author": "News18.com"}
+
+{"news headline": "Star India All-rounder Hardik Pandya Spotted at Mumbai Airport - Check Photos", "url to article": "https://www.news18.com/photogallery/cricket/star-india-all-rounder-hardik-pandya-spotted-at-mumbai-airport-check-photos-8682036.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Star India All-rounder Hardik Pandya Spotted at Mumbai Airport - Check Photos", "url to article": "https://www.news18.com/photogallery/cricket/star-india-all-rounder-hardik-pandya-spotted-at-mumbai-airport-check-photos-8682036.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Esha Gupta's Fashion Evolution: 10 Captivating Photos of the Style Icon on Her Birthday", "url to article": "https://www.news18.com/photogallery/movies/esha-gupta-birthday-10-photos-of-a-fashion-icon-whos-always-hot-and-sexy-8674677.html", "news summary": "Esha Gupta's Fashion Evolution: 10 Captivating Photos of the Style Icon on Her Birthday", "date/time of publication": "2021-07-16", "estimated read time": "0 minutes", "author": "News18"}
+
+{"news headline": "Esha Gupta's Fashion Evolution: 10 Captivating Photos of the Style Icon on Her Birthday", "url to article": "https://www.news18.com/photogallery/movies/esha-gupta-birthday-10-photos-of-a-fashion-icon-whos-always-hot-and-sexy-8674677.html", "news summary": "Esha Gupta's Fashion Evolution: 10 Captivating Photos of the Style Icon on Her Birthday", "date/time of publication": "2021-02-28T12:00:00Z", "estimated read time": "10 minutes", "author": "News18"}
+
+{"news headline": "\u2018No Restriction on Anyone, Ram Belongs to Everyone\u2019: Congress\u2019 Moily Says Don\u2019t Politicise Ayodhya Event", "url to article": "https://www.news18.com/india/no-restriction-on-anyone-ram-belongs-to-everyone-congress-moily-says-dont-politicise-ayodhya-event-8736431.html", "news summary": "Congress leader and former Union Minister, Veerappa Moily, has urged people not to politicise the Ayodhya event, saying that Ram belongs to everyone and there should be no restriction on anyone. He also said that the government should not interfere in the matter and let the court decide the issue.", "date/time of publication": "2021-12-10T00:00:00", "estimated read time": "5 minutes", "author": "News18"}
+
+{"news headline": "Ram Mandir 'Pran Pratishtha': LK Advani to Attend Ayodhya Event; Know Who's Attending, Who's Skipping", "url to article": "https://www.news18.com/politics/ram-mandir-pran-pratishtha-lk-advani-to-attend-ayodhya-event-know-whos-attending-whos-skipping-8736400.html", "news summary": "The event is scheduled to take place on 5th November, and it will be attended by several prominent politicians, including LK Advani, who will be presenting the 'Pran Pratishtha' of the Ram Mandir. The event is expected to be a significant milestone in the history of Ayodhya.", "date/time of publication": "2021-11-05T00:00:00", "estimated read time": "5 minutes", "author": "News18"}
+
+{"news headline": "\u2018Beware of Pulwama-Like Incident\u2026\u2019 Bihar Minister Terms Jan 22 Event BJP\u2019s \u2018Attempt to Get Political Benefits\u2019", "url to article": "https://www.news18.com/politics/beware-of-pulwama-like-incident-bihar-minister-terms-jan-22-event-bjps-attempt-to-get-political-benefits-8736261.html", "news summary": "Bihar Minister warns of a potential Pulwama-like incident and accuses the BJP of attempting to gain political benefits from the Jan 22 event.", "date/time of publication": "2021-01-22T00:00:00", "estimated read time": "5 minutes", "author": "News18"}
+
+{"news headline": "From Houthis to Hezbollah, A Look at Iran-allied Militant Groups in the Middle East", "url to article": "https://www.news18.com/explainers/from-houthis-to-hezbollah-a-look-at-iran-allied-militant-groups-in-the-middle-east-8733253.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Why is Bhutan, Famous for Its 'Happiness Index', Seeing Economic Crisis | Explained", "url to article": "https://www.news18.com/explainers/why-is-bhutan-famous-for-its-happiness-index-seeing-economic-crisis-explained-8733719.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Opinion | Lord Ram is the Essence of Bharat. Congress Boycott of Pran Pratishtha Places it on Wrong Side of Our Civilisational History", "url to article": "https://www.news18.com/opinion/opinion-lord-ram-is-the-essence-of-bharat-congress-boycott-of-pran-pratishtha-places-it-on-wrong-side-of-our-civilisational-history-8736495.html", "news summary": "The Congress party's boycott of Pran Pratishtha places it on the wrong side of India's civilisational history, according to an opinion piece.", "date/time of publication": "2021-09-20T12:00:00+05:30", "estimated read time": "5 minutes", "author": "News18"}
+
+{"news headline": "Opinion | Maldives, Lakshadweep and India\u2019s Poor Tourism Record", "url to article": "https://www.news18.com/opinion/opinion-maldives-lakshadweep-and-indias-poor-tourism-record-8736348.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Opinion | How India Plans to Break West\u2019s Monopoly Over Global Shipping Insurance", "url to article": "https://www.news18.com/opinion/opinion-how-india-plans-to-break-wests-monopoly-over-global-shipping-insurance-8734680.html", "news summary": null, "date/time of publication": null, "estimated read time": null, "author": null}
+
+{"news headline": "Horoscope Today, January 12, 2024: Your Daily Astrological Prediction for All Zodiac Signs", "url to article": "https://www.news18.com/astrology/horoscope-today-january-12-2024-aaj-ka-rashifal-8734683.html", "news summary": "Check out daily love, relationships, career, finances, health and spirituality astrological predictions for Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio and all zodiac signs.", "date/time of publication": "January 12, 2024", "estimated read time": "10 minutes", "author": "Ganesha's Grace"}
+

@@ -1,0 +1,48 @@
+{"news headline": "U.S.-Led Coalition Launches Strikes on Houthi Rebel Targets in Yemen", "url to article": "https://www.wsj.com/world/middle-east/middle-east-braces-for-u-s-strikes-on-houthis-aa943b13?mod=hp_lead_pos1", "news summary": "The strikes come two days after the Yemeni rebel force defied an ultimatum to halt its attacks on ships transiting the Red Sea.", "date/time of publication": "NULL", "estimated read time": "7 min read", "author": "NULL"}
+
+{"news headline": "U.S.-Led Coalition Launches Strikes on Houthi Rebel Targets in Yemen", "url to article": "https://www.wsj.com/world/middle-east/middle-east-braces-for-u-s-strikes-on-houthis-aa943b13?mod=hp_lead_pos1", "news summary": "NULL", "date/time of publication": "NULL", "estimated read time": "NULL", "author": "NULL"}
+
+{"news headline": "Iran Seizes Oil Tanker Linked to U.S. Sanctions Dispute", "url to article": "https://www.wsj.com/articles/armed-uniformed-men-divert-oil-tanker-to-iranian-waters-d843f9a3", "news summary": "NULL", "date/time of publication": "NULL", "estimated read time": "NULL", "author": "NULL"}
+
+{"news headline": "Inflation Edges Up After Rapid Cooling in Most of 2023", "url to article": "https://www.wsj.com/economy/us-inflation-consumer-price-index-december-2023-c4ac6a19?mod=hp_lead_pos2", "news summary": "The consumer-price index climbed 0.3% in December from the prior month and increased 3.4% from a year earlier. The report isn\u2019t likely to change the Fed\u2019s near-term policy outlook.", "date/time of publication": "NULL", "estimated read time": "5 min read", "author": "NULL"}
+
+{"news headline": "Inflation Edges Up After Rapid Cooling in Most of 2023", "url to article": "https://www.wsj.com/economy/us-inflation-consumer-price-index-december-2023-c4ac6a19?mod=hp_lead_pos2", "news summary": "NULL", "date/time of publication": "NULL", "estimated read time": "NULL", "author": "NULL"}
+
+{"news headline": "Chesapeake to Forge Gas Giant Through Southwestern Deal", "url to article": "https://www.wsj.com/business/energy-oil/chesapeake-energy-southwestern-energy-sign-merger-agreement-89749a3c?mod=hp_lead_pos3", "news summary": "The $7.4 billion all-stock transaction will create one of the U.S.\u2019s largest natural-gas producers and is the latest in a flurry of energy deals.", "date/time of publication": "NULL", "estimated read time": "4 min read", "author": "NULL"}
+
+{"news headline": "Chesapeake to Forge Gas Giant Through Southwestern Deal", "url to article": "https://www.wsj.com/business/energy-oil/chesapeake-energy-southwestern-energy-sign-merger-agreement-89749a3c?mod=hp_lead_pos3", "news summary": "NULL", "date/time of publication": "NULL", "estimated read time": "NULL", "author": "NULL"}
+
+{"news headline": "Heard on the Street: Blockbuster Natural-Gas Merger Is Almost Too Perfect", "url to article": "https://www.wsj.com/business/energy-oil/blockbuster-natural-gas-merger-is-almost-too-perfect-699b733a", "news summary": "NULL", "date/time of publication": "NULL", "estimated read time": "NULL", "author": "NULL"}
+
+{"news headline": "After Big Tesla Bet, Hertz Selling One-Third of EV Fleet", "url to article": "https://www.wsj.com/business/autos/after-big-tesla-bet-hertz-selling-one-third-of-ev-fleet-5626a425?mod=hp_lead_pos4", "news summary": "The car-rental company said it would use some proceeds from selling about 20,000 EVs in the U.S. to purchase internal-combustion-engine vehicles.", "date/time of publication": "NULL", "estimated read time": "4 min read", "author": "NULL"}
+
+{"news headline": "After Big Tesla Bet, Hertz Selling One-Third of EV Fleet", "url to article": "https://www.wsj.com/business/autos/after-big-tesla-bet-hertz-selling-one-third-of-ev-fleet-5626a425?mod=hp_lead_pos4", "news summary": "NULL", "date/time of publication": "NULL", "estimated read time": "NULL", "author": "NULL"}
+
+{"news headline": "Trump Blasts Judge as $370 Million Fraud Trial Nears End", "url to article": "https://www.wsj.com/us-news/law/trump-new-york-attorney-general-set-for-final-face-off-in-370-million-fraud-trial-6baa880f?mod=hp_lead_pos5", "news summary": "During closing arguments, the former president called the civil case illegitimate and directly criticized the presiding judge.", "date/time of publication": "NULL", "estimated read time": "7 min read", "author": "NULL"}
+
+{"news headline": "Trump Blasts Judge as $370 Million Fraud Trial Nears End", "url to article": "https://www.wsj.com/us-news/law/trump-new-york-attorney-general-set-for-final-face-off-in-370-million-fraud-trial-6baa880f?mod=hp_lead_pos5", "news summary": "NULL", "date/time of publication": "NULL", "estimated read time": "NULL", "author": "NULL"}
+
+{"news headline": "Taiwan Hurtles Toward Uncertain Presidential Vote With Global Stakes", "url to article": "https://www.wsj.com/world/asia/taiwan-hurtles-toward-uncertain-presidential-vote-with-global-stakes-2b88c0cd?mod=hp_lead_pos6", "news summary": "The U.S. and China are closely tracking the tight three-way race, whose outcome has the potential to alter the trajectory of relations between the two powers.", "date/time of publication": "NULL", "estimated read time": "7 min read", "author": "NULL"}
+
+{"news headline": "Taiwan Hurtles Toward Uncertain Presidential Vote With Global Stakes", "url to article": "https://www.wsj.com/world/asia/taiwan-hurtles-toward-uncertain-presidential-vote-with-global-stakes-2b88c0cd?mod=hp_lead_pos6", "news summary": "NULL", "date/time of publication": "NULL", "estimated read time": "NULL", "author": "NULL"}
+
+{"news headline": "Cancer Is Striking More Young People, and Doctors Are Alarmed and Baffled", "url to article": "https://www.wsj.com/health/healthcare/cancer-young-people-doctors-baffled-49c766ed?mod=hp_lead_pos7&amp;mod=hp_lead_pos7", "news summary": "Researchers are trying to figure out what is making more young adults sick, and how to identify those at high risk.", "date/time of publication": "NULL", "estimated read time": "NULL", "author": "NULL"}
+
+{"news headline": "Cancer Is Striking More Young People, and Doctors Are Alarmed and Baffled", "url to article": "https://www.wsj.com/health/healthcare/cancer-young-people-doctors-baffled-49c766ed?mod=hp_lead_pos7&amp;mod=hp_lead_pos7", "news summary": "NULL", "date/time of publication": "NULL", "estimated read time": "NULL", "author": "NULL"}
+
+{"news headline": "Chris Christie Exit Gives Nikki Haley a Critical Boost", "url to article": "https://www.wsj.com/politics/elections/chris-christie-exit-nikki-haley-2024-presidential-election-e82f1533?mod=hp_lead_pos8", "news summary": "A race without Christie raises the prospect of a Haley victory in New Hampshire.", "date/time of publication": "NULL", "estimated read time": "6 min read", "author": "NULL"}
+
+{"news headline": "Chris Christie Exit Gives Nikki Haley a Critical Boost", "url to article": "https://www.wsj.com/politics/elections/chris-christie-exit-nikki-haley-2024-presidential-election-e82f1533?mod=hp_lead_pos8", "news summary": "NULL", "date/time of publication": "NULL", "estimated read time": "NULL", "author": "NULL"}
+
+{"news headline": "Molly Ball: Haley-DeSantis Food Fight Validates Trump\u2019s Debate Boycott Strategy", "url to article": "https://www.wsj.com/politics/elections/haley-desantis-food-fight-validates-trumps-debate-boycott-strategy-2bdbd57c", "news summary": "NULL", "date/time of publication": "NULL", "estimated read time": "NULL", "author": "Molly Ball"}
+
+{"news headline": "Belichick, Saban and the Twilight of the Boomer Coaches", "url to article": "https://www.wsj.com/sports/football/belichick-saban-carroll-krzyzewski-coaching-legends-f9025ef8?mod=hp_lead_pos9", "news summary": "The departures of a series of coaching legends this week highlights how the profession is growing younger\u2014and that 70-somethings on the sideline may become a thing of the past.", "date/time of publication": "NULL", "estimated read time": "7 min read", "author": "NULL"}
+
+{"news headline": "Belichick, Saban and the Twilight of the Boomer Coaches", "url to article": "https://www.wsj.com/sports/football/belichick-saban-carroll-krzyzewski-coaching-legends-f9025ef8?mod=hp_lead_pos9", "news summary": "NULL", "date/time of publication": "NULL", "estimated read time": "NULL", "author": "NULL"}
+
+{"news headline": "Jewish Students Say Harvard Has Enabled Antisemitism on Campus", "url to article": "https://www.wsj.com/us-news/education/jewish-students-sue-harvard-over-antisemitism-on-campus-caf6564d?mod=hp_lead_pos10", "news summary": "Six students said in a lawsuit they felt unsafe because Harvard didn\u2019t punish antisemitic behavior.", "date/time of publication": "NULL", "estimated read time": "4 min read", "author": "NULL"}
+
+{"news headline": "Jewish Students Say Harvard Has Enabled Antisemitism on Campus", "url to article": "https://www.wsj.com/us-news/education/jewish-students-sue-harvard-over-antisemitism-on-campus-caf6564d?mod=hp_lead_pos10", "news summary": "NULL", "date/time of publication": "NULL", "estimated read time": "NULL", "author": "NULL"}
+
+{"news headline": "Remote Workers Are Losing Out on Promotions", "url to article": "https://www.wsj.com/lifestyle/careers/remote-workers-are-losing-out-on-promotions-8219ec63?mod=hp_lead_pos11", "news summary": "New data shows that people who log on from home five days a week get fewer promotions and less mentoring than people in the office", "date/time of publication": "NULL", "estimated read time": "6 min read", "author": "NULL"}
+

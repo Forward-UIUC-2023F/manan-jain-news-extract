@@ -1,0 +1,683 @@
+html,is_article
+"<a class="""" href=""https://www.ndtv.com/#pfrom=home-ndtv_header-globalnav"" id=""gavtab-1"" title=""News"">NDTV
+
+</a>",0
+"<a class=""hop"" href=""https://www.ndtvprofit.com/#pfrom=home-ndtv_header-globalnav"" id=""gavtab-2"" title=""Business News"">Profit
+
+</a>",0
+"<a class="""" href=""https://www.ndtv.com/world#pfrom=home-ndtv_header-globalnav"" id=""gavtab-3"" title=""World News"">World Edition
+
+</a>",0
+"<a class="""" href=""https://ndtv.in/#pfrom=home-ndtv_header-globalnav"" id=""gavtab-4"" title=""Hindi News"">हिंदी 
+
+</a>",0
+"<a class="""" href=""https://sports.ndtv.com/cricket#pfrom=home-ndtv_header-globalnav"" id=""gavtab-5"" title=""WORLD CUP 2023"">Cricket
+
+</a>",0
+"<a class="""" href=""https://www.ndtv.com/entertainment#pfrom=home-ndtv_header-globalnav"" id=""gavtab-6"" title=""Entertainment News"">MOVIES
+
+</a>",0
+"<a class="""" href=""https://food.ndtv.com/#pfrom=home-ndtv_header-globalnav"" id=""gavtab-7"" title=""Food Recipes"">FOOD
+
+</a>",0
+"<a class="""" href=""https://swirlster.ndtv.com/#pfrom=home-ndtv_header-globalnav"" id=""gavtab-8"" title=""Lifestyle News"">LIFESTYLE
+
+</a>",0
+"<a class="""" href=""https://doctor.ndtv.com/#pfrom=home-ndtv_header-globalnav"" id=""gavtab-9"" title=""Health News"">HEALTH
+
+</a>",0
+"<a class="""" href=""https://www.gadgets360.com/#pfrom=home-ndtv_header-globalnav"" id=""gavtab-10"" title=""Technology News"">TECH
+
+</a>",0
+"<a class="""" href=""https://www.ndtvgames.com/#pfrom=home-ndtv_header-globalnav"" id=""gavtab-11"" title="""">Games
+
+</a>",0
+"<a class="""" href=""https://www.ndtv.com/big-bonus#pfrom=home-ndtv_header-globalnav"" id=""gavtab-12"" title=""Big Bouns"">Big Bonus
+
+</a>",0
+"<a class="""" href=""https://swachhindia.ndtv.com/#pfrom=home-ndtv_header-globalnav"" id=""gavtab-13"" title=""Swasth"">SWASTH
+
+</a>",0
+"<a class="""" href=""https://www.ndtv.com/shopping#pfrom=home-ndtv_header-globalnav"" id=""gavtab-14"" title=""Shopping"">SHOPPING
+
+</a>",0
+"<a href=""https://www.ndtv.com""><img alt="""" src=""https://drop.ndtv.com/homepage/images/ndtvlogo22.svg""/></a>",0
+"<a href=""https://www.ndtv.com/video/live/channel/ndtv24x7#pfrom=home-ndtv_mainnavgation"">LIVE TV</a>",0
+"<a href=""https://www.ndtv.com/latest#pfrom=home-ndtv_mainnavgation"">LATEST</a>",0
+"<a href=""https://www.ndtv.com/india#pfrom=home-ndtv_mainnavgation"">INDIA</a>",0
+"<a href=""https://www.ndtv.com/video#pfrom=home-ndtv_mainnavgation"">VIDEO</a>",0
+"<a href=""https://www.ndtv.com/world#pfrom=home-ndtv_mainnavgation"">WORLD</a>",0
+"<a href=""https://www.ndtv.com/opinion#pfrom=home-ndtv_mainnavgation"">OPINION</a>",0
+"<a href=""https://www.ndtv.com/cities#pfrom=home-ndtv_mainnavgation"">CITIES</a>",0
+"<a href=""https://www.ndtv.com/education#pfrom=home-ndtv_mainnavgation"">Education</a>",0
+"<a href=""https://www.ndtv.com/offbeat#pfrom=home-ndtv_mainnavgation"">OFFBEAT</a>",0
+"<a href=""https://www.ndtv.com/feature#pfrom=home-ndtv_mainnavgation"">Feature</a>",0
+"<a href=""https://www.ndtv.com/trends#pfrom=home-ndtv_mainnavgation"">TRENDS</a>",0
+"<a class=""topnavmore"" href=""javascript:void(0)"" id=""h_sub_menu"">
+<span class=""link-title"">More</span>
+</a>",0
+"<a id=""updateNewsIcon"" onclick=""showUpdateNews()"" title=""Latest Stories"">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class=""link-title"">New Story</span>
+</a>",0
+"<a class=""notif"">
+<span id=""___ndtvspldiv""></span>
+<span class=""link-title"">Notification</span>
+</a>",0
+"<a class=""searchicon"" href=""javascript:void(0)"" id=""h_search_menu"">
+<span class=""link-title"">Search</span>
+</a>",0
+"<a href=""https://www.ndtv.com/south#pfrom=home-ndtv_topsubnavigation"">SOUTH</a>",0
+"<a href=""https://www.ndtv.com/people#pfrom=home-ndtv_topsubnavigation"">PEOPLE</a>",0
+"<a href=""https://www.ndtv.com/science#pfrom=home-ndtv_topsubnavigation"">Science</a>",0
+"<a href=""https://www.ndtv.com/photos#pfrom=home-ndtv_topsubnavigation"">Photos </a>",0
+"<a href=""https://social.ndtv.com/static/Weather/report/#pfrom=home-ndtv_topsubnavigation"">WEATHER</a>",0
+"<a href=""https://www.ndtv.com/tv-schedule#pfrom=home-ndtv_topsubnavigation"">TV Schedule</a>",0
+"<a href=""https://www.ndtv.com/indian-railway/#pfrom=home-ndtv_topsubnavigation"">Trains </a>",0
+"<a href=""https://www.ndtv.com/india-news/hateful-comments-on-indians-bollywood-actors-join-boycottmaldives-4816413#pfrom=home-ndtv_bigstory"">Big Story</a>",0
+"<a href=""https://www.ndtv.com/india-news/hateful-comments-on-indians-bollywood-actors-join-boycottmaldives-4816413#pfrom=home-ndtv_bigstory""><img alt=""'Why Should We Tolerate Hate': Celebs Join Hands For Lakshadweep"" border=""0"" class=""imgbrd"" src=""https://c.ndtvimg.com/2024-01/5r9sdgt8_bollywood-celebrities-on-maldives-_625x300_07_January_24.jpg?downsize=340:209&amp;w=340"" title=""'Why Should We Tolerate Hate': Celebs Join Hands For Lakshadweep""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/india-news/hateful-comments-on-indians-bollywood-actors-join-boycottmaldives-4816413#pfrom=home-ndtv_bigstory"">""Why Should We Tolerate Hate"": Celebs Join Hands For Lakshadweep</a>",1
+"<a href=""https://www.ndtv.com/latest#pfrom=home-ndtv_mainnavgation#pfrom=home-ndtv_topstories"">Top Stories </a>",0
+"<a href=""https://www.ndtv.com/india-news/us-client-made-narayana-murthy-sleep-on-box-inside-storeroom-book-4815832#pfrom=home-ndtv_topstories""><img alt=""'The Way You...': Narayana Murthy After Client Made Him Sleep In Storeroom"" border=""0"" class=""imgbrd"" src=""https://i.ndtvimg.com/i/2017-04/narayana-murthy-240_240x180_51491204546.jpg?downsize=105:79&amp;w=105"" title=""'The Way You...': Narayana Murthy After Client Made Him Sleep In Storeroom""/></a>",1
+"<a href=""https://www.ndtv.com/india-news/us-client-made-narayana-murthy-sleep-on-box-inside-storeroom-book-4815832#pfrom=home-ndtv_topstories""></a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/india-news/us-client-made-narayana-murthy-sleep-on-box-inside-storeroom-book-4815832#pfrom=home-ndtv_topstories"" onclick='javascript:GAP_Event_tracking(""top-stories"",""""The Way You..."": Narayana Murthy After Client Made Him Sleep In Storeroom"");'>""The Way You..."": Narayana Murthy After Client Made Him Sleep In Storeroom</a>",1
+"<a href=""https://sports.ndtv.com/india-vs-afghanistan-t20i-2024/indias-squad-for-t20is-vs-afghanistan-live-updates-4804718#pfrom=home-ndtv_topstories""><img alt=""IND Squad vs AFG: Kohli, Rohit Return To T20Is After More Than A Year Gap"" border=""0"" class=""imgbrd"" src=""https://c.ndtvimg.com/2023-12/bs6kptd_virat-kohli-rohit-sharma-reuters-_625x300_25_December_23.jpg?im=FeatureCrop,algorithm=dnn,width=105,height=79&amp;w=105"" title=""IND Squad vs AFG: Kohli, Rohit Return To T20Is After More Than A Year Gap""/></a>",1
+"<a href=""https://sports.ndtv.com/india-vs-afghanistan-t20i-2024/indias-squad-for-t20is-vs-afghanistan-live-updates-4804718#pfrom=home-ndtv_topstories""></a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://sports.ndtv.com/india-vs-afghanistan-t20i-2024/indias-squad-for-t20is-vs-afghanistan-live-updates-4804718#pfrom=home-ndtv_topstories"" onclick='javascript:GAP_Event_tracking(""top-stories"",""IND Squad vs AFG: Kohli, Rohit Return To T20Is After More Than A Year Gap"");'>IND Squad vs AFG: Kohli, Rohit Return To T20Is After More Than A Year Gap</a>",1
+"<a href=""https://www.ndtv.com/science/study-claims-giving-up-alcohol-may-improve-your-sleep-4817877#pfrom=home-ndtv_topstories""><img alt=""Giving Up Alcohol May Improve Your Sleep, Claims Study"" border=""0"" class=""imgbrd"" src=""https://c.ndtvimg.com/2022-08/89ljgqmg_sleeping-generic_120x90_08_August_22.jpg?downsize=105:79&amp;w=105"" title=""Giving Up Alcohol May Improve Your Sleep, Claims Study""/></a>",1
+"<a href=""https://www.ndtv.com/science/study-claims-giving-up-alcohol-may-improve-your-sleep-4817877#pfrom=home-ndtv_topstories""></a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/science/study-claims-giving-up-alcohol-may-improve-your-sleep-4817877#pfrom=home-ndtv_topstories"" onclick='javascript:GAP_Event_tracking(""top-stories"",""Giving Up Alcohol May Improve Your Sleep, Claims Study"");'>Giving Up Alcohol May Improve Your Sleep, Claims Study</a>",1
+"<a href=""https://www.ndtv.com/india-news/no-need-to-go-to-new-zealand-everything-is-in-lakshadweep-minister-g-kishan-reddy-4817721#pfrom=home-ndtv_topstories""><img alt=""'No Need To Go To New Zealand, Everything Is In Lakshadweep': Minister"" border=""0"" class=""imgbrd"" src=""https://c.ndtvimg.com/2023-08/vqqsmj4o_g-kishan-reddy-_120x90_20_August_23.jpg?downsize=105:79&amp;w=105"" title=""'No Need To Go To New Zealand, Everything Is In Lakshadweep': Minister""/></a>",1
+"<a href=""https://www.ndtv.com/india-news/no-need-to-go-to-new-zealand-everything-is-in-lakshadweep-minister-g-kishan-reddy-4817721#pfrom=home-ndtv_topstories""></a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/india-news/no-need-to-go-to-new-zealand-everything-is-in-lakshadweep-minister-g-kishan-reddy-4817721#pfrom=home-ndtv_topstories"" onclick='javascript:GAP_Event_tracking(""top-stories"",""""No Need To Go To New Zealand, Everything Is In Lakshadweep"": Minister"");'>""No Need To Go To New Zealand, Everything Is In Lakshadweep"": Minister</a>",1
+"<a href=""https://www.ndtv.com/world-news/sheikh-hasina-bangladesh-counts-votes-after-election-without-opposition-4817445#pfrom=home-ndtv_topstories""><img alt=""Bangladesh Counts Votes After Election Without Opposition"" border=""0"" class=""imgbrd"" src=""https://c.ndtvimg.com/2024-01/5hr4t2dg_sheikh-hasina_625x300_07_January_24.jpeg?downsize=105:79&amp;w=105"" title=""Bangladesh Counts Votes After Election Without Opposition""/></a>",1
+"<a href=""https://www.ndtv.com/world-news/sheikh-hasina-bangladesh-counts-votes-after-election-without-opposition-4817445#pfrom=home-ndtv_topstories""></a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/world-news/sheikh-hasina-bangladesh-counts-votes-after-election-without-opposition-4817445#pfrom=home-ndtv_topstories"" onclick='javascript:GAP_Event_tracking(""top-stories"",""Bangladesh Counts Votes After Election Without Opposition"");'>Bangladesh Counts Votes After Election Without Opposition</a>",1
+"<a href=""https://sports.ndtv.com/india-vs-afghanistan-t20i-2024/india-squad-for-afghanistan-t20i-series-4816774#pfrom=home-ndtv_topstories""><img alt=""What Does Kohli, Rohit Selection vs Afghanistan Mean For India T20 WC Plan"" border=""0"" class=""imgbrd"" src=""https://c.ndtvimg.com/2023-09/7csiq6p8_rohit-sharma-virat-kohli-afp_625x300_28_September_23.jpg?im=FaceCrop,algorithm=dnn,width=105,height=79&amp;w=105"" title=""What Does Kohli, Rohit Selection vs Afghanistan Mean For India T20 WC Plan""/></a>",1
+"<a href=""https://sports.ndtv.com/india-vs-afghanistan-t20i-2024/india-squad-for-afghanistan-t20i-series-4816774#pfrom=home-ndtv_topstories""></a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://sports.ndtv.com/india-vs-afghanistan-t20i-2024/india-squad-for-afghanistan-t20i-series-4816774#pfrom=home-ndtv_topstories"" onclick='javascript:GAP_Event_tracking(""top-stories"",""What Does Kohli, Rohit Selection vs Afghanistan Mean For India T20 WC Plan"");'>What Does Kohli, Rohit Selection vs Afghanistan Mean For India T20 WC Plan</a>",1
+"<a href=""https://sports.ndtv.com/cricket/why-did-ambati-rayudu-quit-ysrcp-within-10-days-ex-india-star-breaks-silence-4817012#pfrom=home-ndtv_topstories""><img alt=""Why Did Rayudu Quit YSRCP Within 10 Days? Ex-India Star Breaks Silence"" border=""0"" class=""imgbrd"" src=""https://c.ndtvimg.com/2024-01/hlfjgato_ambati-rayudu_625x300_07_January_24.jpg?im=FaceCrop,algorithm=dnn,width=105,height=79&amp;w=105"" title=""Why Did Rayudu Quit YSRCP Within 10 Days? Ex-India Star Breaks Silence""/></a>",1
+"<a href=""https://sports.ndtv.com/cricket/why-did-ambati-rayudu-quit-ysrcp-within-10-days-ex-india-star-breaks-silence-4817012#pfrom=home-ndtv_topstories""></a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://sports.ndtv.com/cricket/why-did-ambati-rayudu-quit-ysrcp-within-10-days-ex-india-star-breaks-silence-4817012#pfrom=home-ndtv_topstories"" onclick='javascript:GAP_Event_tracking(""top-stories"",""Why Did Rayudu Quit YSRCP Within 10 Days? Ex-India Star Breaks Silence"");'>Why Did Rayudu Quit YSRCP Within 10 Days? Ex-India Star Breaks Silence</a>",1
+"<a href=""https://sports.ndtv.com/cricket/explore-indian-islands-sachin-tendulkar-makes-stance-clear-amid-maldives-row-4816420#pfrom=home-ndtv_topstories""><img alt=""'Explore Indian Islands': Tendulkar Makes Stance Clear Amid Maldives Row"" border=""0"" class=""imgbrd"" src=""https://c.ndtvimg.com/2024-01/oq2d4en8_sachin_120x90_07_January_24.jpg?downsize=105:79&amp;w=105"" title=""'Explore Indian Islands': Tendulkar Makes Stance Clear Amid Maldives Row""/></a>",1
+"<a href=""https://sports.ndtv.com/cricket/explore-indian-islands-sachin-tendulkar-makes-stance-clear-amid-maldives-row-4816420#pfrom=home-ndtv_topstories""></a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://sports.ndtv.com/cricket/explore-indian-islands-sachin-tendulkar-makes-stance-clear-amid-maldives-row-4816420#pfrom=home-ndtv_topstories"" onclick='javascript:GAP_Event_tracking(""top-stories"",""""Explore Indian Islands"": Tendulkar Makes Stance Clear Amid Maldives Row"");'>""Explore Indian Islands"": Tendulkar Makes Stance Clear Amid Maldives Row</a>",1
+"<a href=""https://www.ndtv.com/world-news/canada-plane-diverted-after-16-year-old-attacks-family-mid-air-4814931#pfrom=home-ndtv_topstories""><img alt=""Canada Plane Diverted After 16-Year-Old Attacks Family Mid-Air"" border=""0"" class=""imgbrd"" src=""https://c.ndtvimg.com/2018-10/ccuhaf24_air-canada_120x90_13_October_18.jpg?downsize=105:79&amp;w=105"" title=""Canada Plane Diverted After 16-Year-Old Attacks Family Mid-Air""/></a>",1
+"<a href=""https://www.ndtv.com/world-news/canada-plane-diverted-after-16-year-old-attacks-family-mid-air-4814931#pfrom=home-ndtv_topstories""></a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/world-news/canada-plane-diverted-after-16-year-old-attacks-family-mid-air-4814931#pfrom=home-ndtv_topstories"" onclick='javascript:GAP_Event_tracking(""top-stories"",""Canada Plane Diverted After 16-Year-Old Attacks Family Mid-Air"");'>Canada Plane Diverted After 16-Year-Old Attacks Family Mid-Air</a>",1
+"<a href=""https://special.ndtv.com/save-a-life-donate-a-blanket-5/#pfrom=home-ndtv_topstories""><img alt=""Save A Life. Donate A Blanket"" border=""0"" class=""imgbrd"" src=""https://c.ndtvimg.com/2023-12/rcelpcjo_blanket_240x180_22_December_23.png?downsize=105:79&amp;w=105"" title=""Save A Life. Donate A Blanket""/></a>",1
+"<a href=""https://special.ndtv.com/save-a-life-donate-a-blanket-5/#pfrom=home-ndtv_topstories""></a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://special.ndtv.com/save-a-life-donate-a-blanket-5/#pfrom=home-ndtv_topstories"" onclick='javascript:GAP_Event_tracking(""top-stories"",""Save A Life. Donate A Blanket"");'>Save A Life. Donate A Blanket</a>",1
+"<a href=""https://www.ndtv.com/india-news/maldives-suspends-ministers-over-derogatory-remarks-made-against-pm-modis-lakshadweep-visit-4817161#pfrom=home-ndtv_topscroll""></a>",0
+"<a href=""https://www.ndtv.com/india-news/maldives-suspends-ministers-over-derogatory-remarks-made-against-pm-modis-lakshadweep-visit-4817161#pfrom=home-ndtv_topscroll""><img alt=""Maldives Suspends 3 Ministers Over 'Insulting' Remarks Against India"" border=""0"" class=""imgbrd"" src=""https://c.ndtvimg.com/2024-01/9o8hhelg_maldives-ministers-suspended-650-_650x400_07_January_24.jpg?downsize=570:351&amp;w=570"" title=""Maldives Suspends 3 Ministers Over 'Insulting' Remarks Against India""/></a>",1
+"<a class=""item-title"" href=""https://www.ndtv.com/india-news/maldives-suspends-ministers-over-derogatory-remarks-made-against-pm-modis-lakshadweep-visit-4817161#pfrom=home-ndtv_topscroll"" onclick='javascript:GAP_Event_tracking(""top-scroll"",""Maldives Suspends 3 Ministers Over ""Insulting"" Remarks Against India"");'>Maldives Suspends 3 Ministers Over ""Insulting"" Remarks Against India</a>",1
+"<a href=""https://www.ndtv.com/india-news/what-appalling-language-maldives-ex-president-mohamed-nasheed-slams-minister-mariyam-shiuna-over-post-on-pm-narendra-modi-4816074#pfrom=home-ndtv_topscroll""><img alt=""'Appalling Language': Maldives Ex President Slams Minister's Post On PM"" border=""0"" class=""imgbrd"" src=""https://c.ndtvimg.com/2019-04/3v45k9bo_mohamed-nasheed-afp_625x300_07_April_19.jpg?downsize=277:170&amp;w=277"" title=""'Appalling Language': Maldives Ex President Slams Minister's Post On PM""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/india-news/what-appalling-language-maldives-ex-president-mohamed-nasheed-slams-minister-mariyam-shiuna-over-post-on-pm-narendra-modi-4816074#pfrom=home-ndtv_topscroll"" onclick=""javascript:GAP_Event_tracking(&quot;top-scroll&quot;,&quot;&quot;Appalling Language&quot;: Maldives Ex President Slams Minister's Post On PM&quot;);"">""Appalling Language"": Maldives Ex President Slams Minister's Post On PM</a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/india-news/some-people-not-ready-to-retire-ajit-pawar-targets-uncle-sharad-pawar-again-4818034#pfrom=home-ndtv_topscroll"" onclick='javascript:GAP_Event_tracking(""top-scroll"",""Some ""Not Ready To Retire"": Ajit Pawar Targets Uncle (Sharad Pawar) Again"");'>Some ""Not Ready To Retire"": Ajit Pawar Targets Uncle (Sharad Pawar) Again</a>",1
+"<a href=""https://www.ndtv.com/india-news/some-people-not-ready-to-retire-ajit-pawar-targets-uncle-sharad-pawar-again-4818034#pfrom=home-ndtv_topscroll""><img alt=""Some 'Not Ready To Retire': Ajit Pawar Targets Uncle (Sharad Pawar) Again"" border=""0"" class=""imgbrd"" src=""https://c.ndtvimg.com/2023-09/cllhs3t_ajit-pawar_120x90_25_September_23.jpg?downsize=100:75&amp;w=100"" title=""Some 'Not Ready To Retire': Ajit Pawar Targets Uncle (Sharad Pawar) Again""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/india-news/boycottmaldives-trends-in-india-amid-row-over-ministers-post-4815716#pfrom=home-ndtv_topscroll"" onclick=""javascript:GAP_Event_tracking(&quot;top-scroll&quot;,&quot;Indians Cancel Maldives Trips Amid Row Over Island Minister's Post&quot;);"">Indians Cancel Maldives Trips Amid Row Over Island Minister's Post</a>",1
+"<a href=""https://www.ndtv.com/india-news/boycottmaldives-trends-in-india-amid-row-over-ministers-post-4815716#pfrom=home-ndtv_topscroll""><img alt=""Indians Cancel Maldives Trips Amid Row Over Island Minister's Post"" border=""0"" class=""imgbrd"" src=""https://c.ndtvimg.com/2022-11/9j7luo5o_maldives_120x90_09_November_22.jpg?downsize=100:75&amp;w=100"" title=""Indians Cancel Maldives Trips Amid Row Over Island Minister's Post""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/india-news/pm-modi-praises-navys-heroic-op-to-rescue-indians-from-hijacked-ship-4818101#pfrom=home-ndtv_topscroll"" onclick=""javascript:GAP_Event_tracking(&quot;top-scroll&quot;,&quot;PM Modi Praises Navy's &quot;Heroic&quot; Op To Rescue Sailors From Hijacked Ship&quot;);"">PM Modi Praises Navy's ""Heroic"" Op To Rescue Sailors From Hijacked Ship</a>",1
+"<a href=""https://www.ndtv.com/india-news/pm-modi-praises-navys-heroic-op-to-rescue-indians-from-hijacked-ship-4818101#pfrom=home-ndtv_topscroll""><img alt=""PM Modi Praises Navy's 'Heroic' Op To Rescue Sailors From Hijacked Ship"" border=""0"" class=""imgbrd"" src=""https://c.ndtvimg.com/2024-01/e7qvf1q_pm-modi-_625x300_07_January_24.jpeg?im=FaceCrop,algorithm=dnn,width=100,height=75&amp;w=100"" title=""PM Modi Praises Navy's 'Heroic' Op To Rescue Sailors From Hijacked Ship""/></a>",1
+"<a href=""https://www.ndtv.com/india-news/explained-what-makes-indian-air-forces-c-130j-aircrafts-kargil-night-landing-significant-4817509#pfrom=home-ndtv_topscroll""><img alt=""Explained: What Makes Air Force's C-130J's Kargil Night Landing Significant"" border=""0"" class=""imgbrd"" src=""https://c.ndtvimg.com/2024-01/197lbm3g_c130j-aircraft-_625x300_07_January_24.jpeg?im=FaceCrop,algorithm=dnn,width=212,height=236&amp;w=212"" title=""Explained: What Makes Air Force's C-130J's Kargil Night Landing Significant""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/india-news/explained-what-makes-indian-air-forces-c-130j-aircrafts-kargil-night-landing-significant-4817509#pfrom=home-ndtv_topscroll"" onclick=""javascript:GAP_Event_tracking(&quot;top-scroll&quot;,&quot;Explained: What Makes Air Force's C-130J's Kargil Night Landing Significant&quot;);"">Explained: What Makes Air Force's C-130J's Kargil Night Landing Significant</a>",1
+"<a href=""https://www.ndtv.com/entertainment/some-people-had-issue-with-animal-but-box-office-proves-nothing-beyond-love-for-movies-ranbir-4816410#pfrom=home-ndtv_lateststories""><img alt=""'Box Office Proves Nothing Beyond Love...': Ranbir At Animal Success Bash"" border=""0"" class=""imgbrd"" src=""https://c.ndtvimg.com/2024-01/hap26jto_alia-_295x200_07_January_24.jpg?downsize=212:236&amp;w=212"" title=""'Box Office Proves Nothing Beyond Love...': Ranbir At Animal Success Bash""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/entertainment/some-people-had-issue-with-animal-but-box-office-proves-nothing-beyond-love-for-movies-ranbir-4816410#pfrom=home-ndtv_lateststories"" onclick='javascript:GAP_Event_tracking(""latest-stories"",""""Box Office Proves Nothing Beyond Love..."": Ranbir At &lt;i&gt;Animal&lt;/i&gt; Success Bash"");'>""Box Office Proves Nothing Beyond Love..."": Ranbir At <i>Animal</i> Success Bash</a>",1
+"<a href=""https://sports.ndtv.com/cricket/sad-to-see-whats-being-said-about-india-hardik-pandya-amid-maldives-row-4817322#pfrom=home-ndtv_lateststories""><img alt=""'Sad To See What's Being Said About India': Hardik Amid Maldives Row"" border=""0"" class=""imgbrd"" src=""https://c.ndtvimg.com/2023-11/h12ssaio_hardik-pandya-x_625x300_28_November_23.jpg?im=FeatureCrop,algorithm=dnn,width=212,height=236&amp;w=212"" title=""'Sad To See What's Being Said About India': Hardik Amid Maldives Row""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://sports.ndtv.com/cricket/sad-to-see-whats-being-said-about-india-hardik-pandya-amid-maldives-row-4817322#pfrom=home-ndtv_lateststories"" onclick=""javascript:GAP_Event_tracking(&quot;latest-stories&quot;,&quot;&quot;Sad To See What's Being Said About India&quot;: Hardik Amid Maldives Row&quot;);"">""Sad To See What's Being Said About India"": Hardik Amid Maldives Row</a>",1
+"<a href=""https://www.ndtv.com/entertainment/was-initially-worried-about-my-language-skills-vijay-sethupathi-on-finding-acceptance-in-bollywood-4815830#pfrom=home-ndtv_lateststories""><img alt=""'I Thought People Would Troll...': Vijay On Finding Acceptance In Bollywood"" border=""0"" class=""imgbrd"" src=""https://c.ndtvimg.com/2024-01/k880t3ho_alia-_295x200_07_January_24.jpg?downsize=212:236&amp;w=212"" title=""'I Thought People Would Troll...': Vijay On Finding Acceptance In Bollywood""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/entertainment/was-initially-worried-about-my-language-skills-vijay-sethupathi-on-finding-acceptance-in-bollywood-4815830#pfrom=home-ndtv_lateststories"" onclick='javascript:GAP_Event_tracking(""latest-stories"",""""I Thought People Would Troll..."": Vijay On Finding Acceptance In Bollywood"");'>""I Thought People Would Troll..."": Vijay On Finding Acceptance In Bollywood</a>",1
+"<a href=""https://swirlster.ndtv.com/style/from-rashmika-mandanna-to-tamannaah-bhatia-these-fashionistas-were-best-dressed-at-animals-success-party-4816286#pfrom=home-ndtv_lateststories""><img alt=""Rashmika To Tamannaah, Best Dressed Celebs At Animal's Success Party"" border=""0"" class=""imgbrd"" src=""https://c.ndtvimg.com/2024-01/d54b4j3_tamannah_295x200_07_January_24.jpg?downsize=212:236&amp;w=212"" title=""Rashmika To Tamannaah, Best Dressed Celebs At Animal's Success Party""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://swirlster.ndtv.com/style/from-rashmika-mandanna-to-tamannaah-bhatia-these-fashionistas-were-best-dressed-at-animals-success-party-4816286#pfrom=home-ndtv_lateststories"" onclick=""javascript:GAP_Event_tracking(&quot;latest-stories&quot;,&quot;Rashmika To Tamannaah, Best Dressed Celebs At &lt;i&gt;Animal's&lt;/i&gt; Success Party&quot;);"">Rashmika To Tamannaah, Best Dressed Celebs At <i>Animal's</i> Success Party</a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://sports.ndtv.com/cricket/why-scared-of-tracks-dale-steyn-blasts-pitch-talk-after-two-day-test-match-between-india-and-south-africa-4816029#pfrom=home-ndtv_lateststories"" onclick=""javascript:GAP_Event_tracking(&quot;latest-stories&quot;,&quot;'Why Scared Of Cracks': Steyn Blasts Pitch Talk After 'Two Day' Test Match&quot;);"">'Why Scared Of Cracks': Steyn Blasts Pitch Talk After 'Two Day' Test Match</a>",1
+"<a href=""https://sports.ndtv.com/cricket/why-scared-of-tracks-dale-steyn-blasts-pitch-talk-after-two-day-test-match-between-india-and-south-africa-4816029#pfrom=home-ndtv_lateststories""><img alt=""'Why Scared Of Cracks': Steyn Blasts Pitch Talk After 'Two Day' Test Match"" border=""0"" class=""imgbrd"" src=""https://c.ndtvimg.com/2024-01/ec44cofo_siraj_625x300_03_January_24.jpg?im=FaceCrop,algorithm=dnn,width=100,height=75&amp;w=100"" title=""'Why Scared Of Cracks': Steyn Blasts Pitch Talk After 'Two Day' Test Match""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/feature/sometimes-fights-at-office-reach-home-sugar-cosmetics-ceo-vineeta-singh-on-working-with-husband-4816204#pfrom=home-ndtv_lateststories"" onclick='javascript:GAP_Event_tracking(""latest-stories"",""""Fights At Office Reach Home"": Sugar Cosmetics CEO On Working With Husband"");'>""Fights At Office Reach Home"": Sugar Cosmetics CEO On Working With Husband</a>",1
+"<a href=""https://www.ndtv.com/feature/sometimes-fights-at-office-reach-home-sugar-cosmetics-ceo-vineeta-singh-on-working-with-husband-4816204#pfrom=home-ndtv_lateststories""><img alt=""'Fights At Office Reach Home': Sugar Cosmetics CEO On Working With Husband"" border=""0"" class=""imgbrd"" src=""https://c.ndtvimg.com/2024-01/hfh9fg68_vineeta-singh-_625x300_07_January_24.jpeg?downsize=100:75&amp;w=100"" title=""'Fights At Office Reach Home': Sugar Cosmetics CEO On Working With Husband""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/entertainment/let-love-be-free-of-gender-politics-animal-team-to-javed-akhtar-4816732#pfrom=home-ndtv_lateststories"" onclick=""javascript:GAP_Event_tracking(&quot;latest-stories&quot;,&quot;&quot;Let Love Be Free From...&quot;: Team &lt;i&gt;Animal&lt;/i&gt; On Javed Akhtar's Comment On Film&quot;);"">""Let Love Be Free From..."": Team <i>Animal</i> On Javed Akhtar's Comment On Film</a>",1
+"<a href=""https://www.ndtv.com/entertainment/let-love-be-free-of-gender-politics-animal-team-to-javed-akhtar-4816732#pfrom=home-ndtv_lateststories""><img alt=""'Let Love Be Free From...': Team Animal On Javed Akhtar's Comment On Film"" border=""0"" class=""imgbrd"" src=""https://c.ndtvimg.com/2024-01/4fh59nvg_alia-_120x90_07_January_24.jpg?downsize=100:75&amp;w=100"" title=""'Let Love Be Free From...': Team Animal On Javed Akhtar's Comment On Film""/></a>",1
+"<a href=""https://www.ndtv.com/world-news/elon-musk-used-illegal-drugs-sparked-concerns-among-tesla-spacex-board-members-report-4815677#pfrom=home-ndtv_featured"">Featured</a>",0
+"<a href=""https://www.ndtv.com/world-news/elon-musk-used-illegal-drugs-sparked-concerns-among-tesla-spacex-board-members-report-4815677#pfrom=home-ndtv_featured""><img alt=""Elon Musk Used LSD, Cocaine; Gave Slurred Speech At SpaceX Event: Report"" border=""0"" class=""imgbrd"" src=""https://c.ndtvimg.com/2023-07/t7jiafvo_elon-musk_295x200_13_July_23.jpg?downsize=270:270&amp;w=270"" title=""Elon Musk Used LSD, Cocaine; Gave Slurred Speech At SpaceX Event: Report""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/world-news/elon-musk-used-illegal-drugs-sparked-concerns-among-tesla-spacex-board-members-report-4815677#pfrom=home-ndtv_featured"">Elon Musk Used LSD, Cocaine; Gave Slurred Speech At SpaceX Event: Report</a>",1
+"<a href=""https://www.ndtv.com/big-bonus#pfrom=home-ndtv_big-bonus"" style=""color:#fff"">Big bonus</a>",0
+"<a href=""https://www.ndtv.com/big-bonus#pfrom=home-ndtv_big-bonus"">
+
+<img alt="""" src=""https://drop.ndtv.com/images/2023/white-bg-1.svg""/>
+
+<img alt="""" src=""https://drop.ndtv.com/images/2023/mcdonalds-logo.png""/>
+
+
+
+<span class=""collect""> Collect upto <strong>5%</strong>
+</span>
+
+</a>",0
+"<a href=""https://www.ndtv.com/big-bonus#pfrom=home-ndtv_big-bonus"">
+
+<img alt="""" src=""https://drop.ndtv.com/images/2023/white-bg-1.svg""/>
+
+<img alt="""" src=""https://cdn.ndtv.com/static/web/images/titan-world-logo.png""/>
+
+
+
+<span class=""collect""> Collect upto <strong>10%</strong>
+</span>
+
+</a>",0
+"<a href=""https://www.ndtv.com/big-bonus#pfrom=home-ndtv_big-bonus"">
+
+<img alt="""" src=""https://drop.ndtv.com/images/2023/white-bg-1.svg""/>
+
+<img alt="""" src=""https://drop.ndtv.com/images/2023/brand1.png""/>
+
+
+
+<span class=""collect""> Collect upto <strong>50%</strong></span>
+
+</a>",0
+"<a href=""https://www.ndtv.com/big-bonus#pfrom=home-ndtv_big-bonus"">
+
+<img alt="""" src=""https://drop.ndtv.com/images/2023/white-bg-1.svg""/>
+
+<img alt="""" src=""https://drop.ndtv.com/images/2023/brand2.png""/>
+
+
+
+<span class=""collect""> Collect upto <strong>20%</strong></span>
+
+</a>",0
+"<a href=""https://www.ndtv.com/big-bonus#pfrom=home-ndtv_big-bonus"">
+
+<img alt="""" src=""https://drop.ndtv.com/images/2023/white-bg-1.svg""/>
+
+<img alt="""" src=""https://drop.ndtv.com/images/2023/brand3.png""/>
+
+
+
+<span class=""collect""> Collect upto <strong>10%</strong></span>
+
+</a>",0
+"<a href=""https://www.ndtv.com/big-bonus#pfrom=home-ndtv_big-bonus"">
+
+<img alt="""" src=""https://drop.ndtv.com/images/2023/white-bg-1.svg""/>
+
+<img alt="""" src=""https://drop.ndtv.com/images/2023/brand4.png""/>
+
+
+
+<span class=""collect""> Collect upto <strong>7%</strong></span>
+
+</a>",0
+"<a href=""https://www.ndtv.com/big-bonus#pfrom=home-ndtv_big-bonus"">
+
+<img alt="""" src=""https://drop.ndtv.com/images/2023/white-bg-1.svg""/>
+
+<img alt="""" src=""https://drop.ndtv.com/images/2023/brand5.png""/>
+
+
+
+<span class=""collect""> Collect upto <strong>5%</strong></span>
+
+</a>",0
+"<a href=""https://www.ndtv.com/big-bonus#pfrom=home-ndtv_big-bonus"">
+
+<img alt="""" src=""https://drop.ndtv.com/images/2023/white-bg-1.svg""/>
+
+<img alt="""" src=""https://drop.ndtv.com/images/2023/brand6.png""/>
+
+
+
+<span class=""collect""> Collect upto <strong>5%</strong></span>
+
+</a>",0
+"<a href=""https://www.ndtv.com/big-bonus#pfrom=home-ndtv_big-bonus"">
+
+<img alt="""" src=""https://drop.ndtv.com/images/2023/white-bg-1.svg""/>
+
+<img alt="""" src=""https://drop.ndtv.com/images/2023/brand7.png""/>
+
+
+
+<span class=""collect""> Collect upto <strong>5%</strong></span>
+
+</a>",0
+"<a href=""https://www.ndtv.com/big-bonus#pfrom=home-ndtv_big-bonus"">
+
+<img alt="""" src=""https://drop.ndtv.com/images/2023/white-bg-1.svg""/>
+
+<img alt="""" src=""https://drop.ndtv.com/images/2023/brand8.png""/>
+
+
+
+<span class=""collect""> Collect upto <strong>4%</strong></span>
+
+</a>",0
+"<a href=""https://www.ndtv.com/big-bonus#pfrom=home-ndtv_big-bonus"">
+
+<img alt="""" src=""https://drop.ndtv.com/images/2023/white-bg-1.svg""/>
+
+<img alt="""" src=""https://drop.ndtv.com/images/2023/brand9.png""/>
+
+
+
+<span class=""collect""> Collect upto <strong>Rs 1,000</strong></span>
+
+</a>",0
+"<a href=""https://www.ndtv.com/big-bonus#pfrom=home-ndtv_big-bonus"">
+
+<img alt="""" src=""https://drop.ndtv.com/images/2023/white-bg-1.svg""/>
+
+<img alt="""" src=""https://drop.ndtv.com/images/2023/brand10.png""/>
+
+
+
+<span class=""collect""> Collect upto <strong>5%</strong></span>
+
+</a>",0
+"<a href=""https://www.ndtv.com/big-bonus#pfrom=home-ndtv_big-bonus"">
+
+<img alt="""" src=""https://drop.ndtv.com/images/2023/white-bg-1.svg""/>
+
+<img alt="""" src=""https://drop.ndtv.com/images/2023/brand11.png""/>
+
+
+
+<span class=""collect""> Collect upto <strong>5%</strong></span>
+
+</a>",0
+"<a href=""https://www.ndtv.com/opinion#pfrom=home-ndtv_opinion"">Opinion </a>",0
+"<a href=""https://www.ndtv.com/opinion#pfrom=home-ndtv_opinion"">More</a>",0
+"<a href=""https://www.ndtv.com/opinion/opinion-are-we-becoming-kinder-4815346#pfrom=home-ndtv_opinion""><img alt=""Opinion: Inclusiveness Can't Be Just About Appealing To Backward Castes"" border=""0"" class=""imgbrd"" src=""https://c.ndtvimg.com/2022-12/ijvqmeuo_india-generic_625x300_28_December_22.jpg?downsize=100:75&amp;w=100"" title=""Opinion: Inclusiveness Can't Be Just About Appealing To Backward Castes""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/opinion/opinion-are-we-becoming-kinder-4815346#pfrom=home-ndtv_opinion"">Opinion: Inclusiveness Can't Be Just About Appealing To Backward Castes</a>",1
+"<a class=""opn-descri_name"" href=""https://www.ndtv.com/opinion/opinion-are-we-becoming-kinder-4815346#pfrom=home-ndtv_opinion""><span>Rajmohan Gandhi</span></a>",0
+"<a href=""https://www.ndtv.com/opinion/ahead-of-elections-treading-with-caution-on-caa-4806443#pfrom=home-ndtv_opinion""><img alt=""Opinion: Ahead Of Elections, Treading With Caution On CAA"" border=""0"" class=""imgbrd"" src=""https://c.ndtvimg.com/2020-01/51982p4g_caa-protest-esplanade_625x300_22_January_20.jpg?im=FeatureCrop,algorithm=dnn,width=100,height=75&amp;w=100"" title=""Opinion: Ahead Of Elections, Treading With Caution On CAA""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/opinion/ahead-of-elections-treading-with-caution-on-caa-4806443#pfrom=home-ndtv_opinion"">Opinion: Ahead Of Elections, Treading With Caution On CAA</a>",1
+"<a class=""opn-descri_name"" href=""https://www.ndtv.com/opinion/ahead-of-elections-treading-with-caution-on-caa-4806443#pfrom=home-ndtv_opinion""><span>Bharti Mishra Nath</span></a>",0
+"<a href=""https://www.ndtv.com/opinion/20-year-legal-battles-threats-haunt-2-buyers-of-dawood-ibrahims-properties-4799802#pfrom=home-ndtv_opinion""><img alt=""Blog: They Fought Fear To Buy Dawood Ibrahim's Properties. What They Say Today"" border=""0"" class=""imgbrd"" src=""https://c.ndtvimg.com/2023-12/5moufe78_dawood_625x300_20_December_23.jpg?im=FaceCrop,algorithm=dnn,width=100,height=75&amp;w=100"" title=""Blog: They Fought Fear To Buy Dawood Ibrahim's Properties. What They Say Today""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/opinion/20-year-legal-battles-threats-haunt-2-buyers-of-dawood-ibrahims-properties-4799802#pfrom=home-ndtv_opinion"">Blog: They Fought Fear To Buy Dawood Ibrahim's Properties. What They Say Today</a>",1
+"<a class=""opn-descri_name"" href=""https://www.ndtv.com/opinion/20-year-legal-battles-threats-haunt-2-buyers-of-dawood-ibrahims-properties-4799802#pfrom=home-ndtv_opinion""><span>Jitendra Dixit</span></a>",0
+"<a href=""https://www.ndtv.com/opinion/a-numbing-effect-on-the-toolkit-nexus-4798204#pfrom=home-ndtv_opinion""><img alt=""Opinion: A Numbing Effect On The Toolkit Nexus"" border=""0"" class=""imgbrd"" src=""https://i.ndtvimg.com/i/2016-05/adani_240x180_81462451143.jpg?downsize=100:75&amp;w=100"" title=""Opinion: A Numbing Effect On The Toolkit Nexus""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/opinion/a-numbing-effect-on-the-toolkit-nexus-4798204#pfrom=home-ndtv_opinion"">Opinion: A Numbing Effect On The Toolkit Nexus</a>",1
+"<a class=""opn-descri_name"" href=""https://www.ndtv.com/opinion/a-numbing-effect-on-the-toolkit-nexus-4798204#pfrom=home-ndtv_opinion""><span>Sanjay Singh</span></a>",0
+"<a href=""https://www.ndtvprofit.com"">
+<span>
+
+</span>
+</a>",0
+"<a href=""https://www.ndtv.com/video/live/channel/ndtvprofit"">
+Watch live
+                          </a>",0
+"<a href=""https://www.ndtvprofit.com/opinion/nifty-in-technical-charts-continue-bullish-but-with-greater-alertness#pfrom=home-ndtv_bqprime""><img border=""0"" src=""https://gumlet.assettype.com/bloombergquint/2024-01/ee16640c-d491-4ba7-8ad1-c1b24b4e76ac/NSE_Vijay_Sartape.jfif?w=320&amp;format=webp&amp;q=60""/></a>",0
+"<a _blank="""" href=""https://www.ndtvprofit.com/opinion/nifty-in-technical-charts-continue-bullish-but-with-greater-alertness#pfrom=home-ndtv_bqprime"">Nifty In Technical Charts: Continue Bullish, But With Greater Alertness</a>",1
+"<a href=""https://www.ndtvprofit.com/bq-blue-exclusive/kiran-mazumdar-shaw-on-regulation-innovation-imbalance-biocons-weight-loss-drug-bet#pfrom=home-ndtv_bqprime"" target=""_blank""><img border=""0"" height=""102"" src=""https://gumlet.assettype.com/bloombergquint/2023-03/9afef0a4-b69d-4adf-a550-25f9346289ea/Kiran_Mazumdar_Shaw_EY_Entrepreneur_of_the_Year.jpg?w=320&amp;format=webp&amp;q=60"" width=""166""/></a>",0
+"<a href=""https://www.ndtvprofit.com/bq-blue-exclusive/kiran-mazumdar-shaw-on-regulation-innovation-imbalance-biocons-weight-loss-drug-bet"" target=""_blank"">Kiran Mazumdar-Shaw On Regulation-Innovation Imbalance, Biocon's Weight-Loss Drug Bet </a>",1
+"<a href=""https://www.ndtvprofit.com/law-and-policy/what-indian-media-can-do-to-tackle-misuse-of-content-by-ai#pfrom=home-ndtv_bqprime"" target=""_blank""><img border=""0"" height=""102"" src=""https://gumlet.assettype.com/bloombergquint/2024-01/f9ddd065-59b7-4539-9a0c-326f1d62e4af/igor_omilaev_eGGFZ5X2LnA_unsplash.jpg?w=320&amp;format=webp&amp;q=60"" width=""166""/></a>",0
+"<a href=""https://www.ndtvprofit.com/law-and-policy/what-indian-media-can-do-to-tackle-misuse-of-content-by-ai"" target=""_blank"">What Indian Media Can Do To Tackle Misuse Of Content By AI </a>",1
+"<a href=""https://sports.ndtv.com/cricket#pfrom=home-ndtv_cricket""><span>Cricket News</span></a>",0
+"<a href=""https://sports.ndtv.com/cricket/live-scores#pfrom=home-ndtv_cricket"" target=""_blank"">
+<i class=""live-dot""></i> LIVE SCORE
+                                        </a>",0
+"<a href=""https://sports.ndtv.com/cricket/mohammad-rizwans-traditional-greeting-for-female-members-of-glenn-mcgraths-family-goes-viral-watch-4811353#pfrom=home-ndtv_cricket""><img alt=""Rizwan's Traditional Greeting For Female Members Of McGrath Family Viral"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/dp7k77to_mohammad-rizwan_625x300_06_January_24.jpg?im=FaceCrop,algorithm=dnn,width=398,height=245&amp;w=398""/></a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://sports.ndtv.com/cricket/mohammad-rizwans-traditional-greeting-for-female-members-of-glenn-mcgraths-family-goes-viral-watch-4811353#pfrom=home-ndtv_cricket"">Rizwan's Traditional Greeting For Female Members Of McGrath Family Viral</a>",1
+"<a href=""https://sports.ndtv.com/south-africa-vs-india-2023-24/we-wont-go-ravi-shastri-wants-bcci-to-reject-south-africa-like-two-test-series-invitations-due-to-waste-of-time-4806828#pfrom=home-ndtv_cricket""><img alt=""'We Won't Go': Ravi Shastri Wants BCCI To Reject SA-Like Two Test Series"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2023-08/5i4i7leo_ravi-shastri-bcci_625x300_17_August_23.jpg?im=FaceCrop,algorithm=dnn,width=166,height=102&amp;w=166""/></a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://sports.ndtv.com/south-africa-vs-india-2023-24/we-wont-go-ravi-shastri-wants-bcci-to-reject-south-africa-like-two-test-series-invitations-due-to-waste-of-time-4806828#pfrom=home-ndtv_cricket"">""We Won't Go"": Ravi Shastri Wants BCCI To Reject SA-Like Two Test Series</a>",1
+"<a href=""https://sports.ndtv.com/cricket/pcb-contemplate-punishing-spinner-abrar-ahmed-for-ignoring-medical-advice-report-4815414#pfrom=home-ndtv_cricket""><img alt=""PCB Contemplate Punishing Abrar Ahmed For Ignoring Medical Advice: Report"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/mtcl2g5o_abrar-_625x300_07_January_24.jpg?im=FeatureCrop,algorithm=dnn,width=166,height=102&amp;w=166""/></a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://sports.ndtv.com/cricket/pcb-contemplate-punishing-spinner-abrar-ahmed-for-ignoring-medical-advice-report-4815414#pfrom=home-ndtv_cricket"">PCB Contemplate Punishing Abrar Ahmed For Ignoring Medical Advice: Report</a>",1
+"<a href=""""><span>ICYMI</span></a>",0
+"<a href=""https://www.ndtv.com/entertainment/alia-bhatt-with-mom-in-law-neetu-kapoor-and-dad-mahesh-bhatt-meet-ranbir-kapoors-cheer-squad-at-animal-success-bash-4815235#pfrom=home-ndtv_icymi""><img alt=""Alia With Neetu And Mahesh - Meet Ranbir's Cheer Squad At Animal Success Bash"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/tjfffof_alia-_295x200_07_January_24.jpg?downsize=315:350&amp;w=315""/></a>",0
+"<a href=""https://swirlster.ndtv.com/style""><span>Celebs</span></a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/entertainment/alia-bhatt-with-mom-in-law-neetu-kapoor-and-dad-mahesh-bhatt-meet-ranbir-kapoors-cheer-squad-at-animal-success-bash-4815235#pfrom=home-ndtv_icymi"">Alia With Neetu And Mahesh - Meet Ranbir's Cheer Squad At <i>Animal</i> Success Bash</a>",1
+"<a href=""https://www.ndtv.com/entertainment/to-bipasha-basu-45-today-an-aww-dorable-birthday-post-from-husband-karan-singh-grover-4816814#pfrom=home-ndtv_icymi""><img alt=""To Bipasha, 45 Today, An Aww-Dorable Birthday Post From Husband Karan"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/bn75r5k_alia-_295x200_07_January_24.jpg?downsize=315:350&amp;w=315""/></a>",0
+"<a href=""https://www.ndtv.com/entertainment""><span>Celebs</span></a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/entertainment/to-bipasha-basu-45-today-an-aww-dorable-birthday-post-from-husband-karan-singh-grover-4816814#pfrom=home-ndtv_icymi"">To Bipasha, 45 Today, An Aww-Dorable Birthday Post From Husband Karan</a>",1
+"<a href=""https://www.ndtv.com/webstories/feature/countries-offering-free-and-affordable-education-12357#pfrom=home-ndtv_icymi""><img alt=""Countries Offering Free And Affordable Education"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/2n99v1m_education_625x300_07_January_24.jpg?downsize=315:350&amp;w=315""/></a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/webstories/feature/countries-offering-free-and-affordable-education-12357#pfrom=home-ndtv_icymi"">Countries Offering Free And Affordable Education</a>",1
+"<a href=""https://www.ndtv.com/lifestyle/alia-bhatts-dopamine-dressing-at-the-animal-success-party-is-the-best-antidote-to-winter-blues-4815606#pfrom=home-ndtv_icymi""><img alt=""Alia Bhatt's 'Dopamine Dressing' Is The Best Antidote To Winter Blues"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/sjc5aqpo_middle_295x200_07_January_24.png?downsize=315:350&amp;w=315""/></a>",0
+"<a href=""https://www.ndtv.com/lifestyle""><span>Style</span></a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/lifestyle/alia-bhatts-dopamine-dressing-at-the-animal-success-party-is-the-best-antidote-to-winter-blues-4815606#pfrom=home-ndtv_icymi"">Alia Bhatt's ""Dopamine Dressing"" Is The Best Antidote To Winter Blues</a>",1
+"<a href=""https://www.ndtv.com/entertainment/abhay-deol-s-latest-instagram-post-is-all-about-believing-yourself-4816341#pfrom=home-ndtv_icymi""><img alt=""'Little Film...': Abhay On Working With Zeenat Aman-Shabana Azmi In Bun Tikki"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/b32vo7io_alia-_295x200_07_January_24.jpg?downsize=315:350&amp;w=315""/></a>",0
+"<a href=""https://www.ndtv.com/entertainment""><span>Celebs</span></a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/entertainment/abhay-deol-s-latest-instagram-post-is-all-about-believing-yourself-4816341#pfrom=home-ndtv_icymi"">""Little Film..."": Abhay On Working With Zeenat Aman-Shabana Azmi In <i>Bun Tikki</i></a>",1
+"<a href=""https://www.ndtv.com/trends""><span>Trending</span></a>",0
+"<a href=""https://www.ndtv.com/india-news/maldives-suspends-ministers-over-derogatory-remarks-made-against-pm-modis-lakshadweep-visit-4817161#pfrom=home-ndtv_trending ""><img border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/0cipbr5g_maldives-ministers_120x90_07_January_24.jpg""/></a>",0
+"<a href=""https://www.ndtv.com/india-news/maldives-suspends-ministers-over-derogatory-remarks-made-against-pm-modis-lakshadweep-visit-4817161#pfrom=home-ndtv_trending "">Maldives Suspends 3 Ministers Over ""Insulting"" Remarks Against India</a>",1
+"<a href=""https://www.ndtv.com/india-news/hateful-comments-on-indians-bollywood-actors-join-boycottmaldives-4816413#pfrom=home-ndtv_trending ""><img border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/l4k8f1c_bollywood-celebrities-on-maldives-_120x90_07_January_24.jpg""/></a>",0
+"<a href=""https://www.ndtv.com/india-news/hateful-comments-on-indians-bollywood-actors-join-boycottmaldives-4816413#pfrom=home-ndtv_trending "">""Why Should We Tolerate Hate"": Celebs Join Hands For Lakshadweep</a>",1
+"<a href=""https://www.ndtv.com/india-news/us-client-made-narayana-murthy-sleep-on-box-inside-storeroom-book-4815832#pfrom=home-ndtv_trending ""><img border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://i.ndtvimg.com/i/2017-04/narayana-murthy-240_240x180_51491204546.jpg""/></a>",0
+"<a href=""https://www.ndtv.com/india-news/us-client-made-narayana-murthy-sleep-on-box-inside-storeroom-book-4815832#pfrom=home-ndtv_trending "">""The Way You..."": Narayana Murthy After Client Made Him Sleep In Storeroom</a>",1
+"<a href=""https://www.ndtv.com/india-news/boycottmaldives-trends-in-india-amid-row-over-ministers-post-4815716#pfrom=home-ndtv_trending ""><img border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2022-11/9j7luo5o_maldives_120x90_09_November_22.jpg""/></a>",0
+"<a href=""https://www.ndtv.com/india-news/boycottmaldives-trends-in-india-amid-row-over-ministers-post-4815716#pfrom=home-ndtv_trending "">Indians Cancel Maldives Trips Amid Row Over Island Minister's Post</a>",1
+"<a href=""https://www.ndtv.com/world-news/canada-plane-diverted-after-16-year-old-attacks-family-mid-air-4814931#pfrom=home-ndtv_trending ""><img border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2018-10/ccuhaf24_air-canada_120x90_13_October_18.jpg""/></a>",0
+"<a href=""https://www.ndtv.com/world-news/canada-plane-diverted-after-16-year-old-attacks-family-mid-air-4814931#pfrom=home-ndtv_trending "">Canada Plane Diverted After 16-Year-Old Attacks Family Mid-Air</a>",1
+"<a href=""https://www.ndtv.com/india-news/maldives-ministers-tweet-on-pm-narendra-modis-lakshadweep-visit-triggers-row-on-social-media-4815236#pfrom=home-ndtv_trending ""><img border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://i.ndtvimg.com/i/2018-02/maldives-afp_240x180_81517920835.jpg""/></a>",0
+"<a href=""https://www.ndtv.com/india-news/maldives-ministers-tweet-on-pm-narendra-modis-lakshadweep-visit-triggers-row-on-social-media-4815236#pfrom=home-ndtv_trending "">After Maldives Minister's Comment On PM Modi, Island Nation's Response</a>",1
+"<a href=""https://www.gadgets360.com#pfrom=home-tech""><span>Tech </span></a>",0
+"<a href=""https://hindi.gadgets360.com#pfrom=home-tech"">Hindi</a>",0
+"<a href=""javascript:void(0);"">Latest</a>",0
+"<a href=""javascript:void(0);"">हिंदी</a>",0
+"<a href=""javascript:void(0);"">Reviews</a>",0
+"<a href=""javascript:void(0);"">Buzz</a>",0
+"<a href=""https://www.gadgets360.com/guide#pfrom=home-tech"">
+Buying Guides</a>",0
+"<a href=""https://www.gadgets360.com/podcasts#pfrom=home-tech"">
+Podcasts</a>",0
+"<a href=""https://www.gadgets360.com/videos#pfrom=home-tech"">
+Videos</a>",0
+"<a href=""https://www.gadgets360.com/mobile-recharge-plans#pfrom=home-tech"">
+Mobile Recharge Plans</a>",0
+"<a href=""https://www.gadgets360.com/service-centers#pfrom=home-tech"">
+Service Centers</a>",0
+"<a href=""https://www.gadgets360.com/mobiles/news/samsung-24-plus-ultra-price-leak-expected-galaxy-4810256#pfrom=home-ndtv_tech""><img alt=""Samsung Galaxy S24, S24+ and S24 Ultra Might Debut at These Prices"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://i.gadgets360cdn.com/large/gaalaxy_s23_series_Samsung_thumb_1699272035838.jpg?downsize=283:212&amp;w=283"" title=""Samsung Galaxy S24, S24+ and S24 Ultra Might Debut at These Prices""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.gadgets360.com/mobiles/news/samsung-24-plus-ultra-price-leak-expected-galaxy-4810256#pfrom=home-ndtv_tech"">Samsung Galaxy S24, S24+ and S24 Ultra Might Debut at These Prices</a>",1
+"<a class=""lst_itm-ttl"" href=""https://www.gadgets360.com/internet/news/amazon-great-republic-day-sale-2024-discounts-prime-early-access-4809820#pfrom=home-ndtv_tech"">Amazon Great Republic Day Sale With Deals on Mobiles, Laptops Announced</a>",0
+"<a href=""https://www.gadgets360.com/internet/news/amazon-great-republic-day-sale-2024-discounts-prime-early-access-4809820#pfrom=home-ndtv_tech""><img alt=""Amazon Great Republic Day Sale With Deals on Mobiles, Laptops Announced"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://i.gadgets360cdn.com/large/amazon_great_republic_day_sale_thumb_1704518644751.jpg?downsize=85:64&amp;w=85"" title=""Amazon Great Republic Day Sale With Deals on Mobiles, Laptops Announced""/></a>",0
+"<a class=""lst_itm-ttl"" href=""https://www.gadgets360.com/mobiles/news/oneplus-12r-availability-amazon-confirmed-january-23-4811022#pfrom=home-ndtv_tech"">OnePlus 12R to Be Available for Purchase via Amazon: See Colour Options</a>",0
+"<a href=""https://www.gadgets360.com/mobiles/news/oneplus-12r-availability-amazon-confirmed-january-23-4811022#pfrom=home-ndtv_tech""><img alt=""OnePlus 12R to Be Available for Purchase via Amazon: See Colour Options"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://i.gadgets360cdn.com/large/oneplus_ace_3_thumb_1704535459075.jpg?downsize=85:64&amp;w=85"" title=""OnePlus 12R to Be Available for Purchase via Amazon: See Colour Options""/></a>",0
+"<a class=""lst_itm-ttl"" href=""https://www.gadgets360.com/science/news/aditya-l1-solar-mission-reach-lagrange-point-1-success-4812332#pfrom=home-ndtv_tech"">ISRO's Aditya-L1 Mission Reaches Destination Four Months After Launch</a>",1
+"<a href=""https://www.gadgets360.com/science/news/aditya-l1-solar-mission-reach-lagrange-point-1-success-4812332#pfrom=home-ndtv_tech""><img alt=""ISRO's Aditya-L1 Mission Reaches Destination Four Months After Launch"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://i.gadgets360cdn.com/large/aditya_l1_launch_ani_thumb_1704550341374.jpg?downsize=85:64&amp;w=85"" title=""ISRO's Aditya-L1 Mission Reaches Destination Four Months After Launch""/></a>",1
+"<a href=""https://www.gadgets360.com/news#pfrom=home-tech"">More Tech News</a>",0
+"<a href=""https://www.gadgets360.com/reviews""><span>Reviews</span></a>",0
+"<a class=""lst_itm-ttl"" href=""https://www.gadgets360.com/mobiles/reviews/vivo-x100-pro-review-specifications-price-in-india-versus-google-pixel-8-pro-4793521#pfrom=home-ndtv_tech"">Vivo X100 Pro Review</a>",0
+"<a href=""https://www.gadgets360.com/mobiles/reviews/vivo-x100-pro-review-specifications-price-in-india-versus-google-pixel-8-pro-4793521#pfrom=home-ndtv_tech""><img alt=""Vivo X100 Pro Review"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://i.gadgets360cdn.com/large/vivo_x100_pro_main_small_ndtv_1704283775871.jpg?downsize=85:64&amp;w=85"" title=""Vivo X100 Pro Review""/></a>",1
+"<a class=""lst_itm-ttl"" href=""https://www.gadgets360.com/mobiles/reviews/poco-c65-review-price-india-features-4707272#pfrom=home-ndtv_tech"">Poco C65: Decent for the Price</a>",0
+"<a href=""https://www.gadgets360.com/mobiles/reviews/poco-c65-review-price-india-features-4707272#pfrom=home-ndtv_tech""><img alt=""Poco C65: Decent for the Price"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://i.gadgets360cdn.com/large/poco-c65-review-thumb_1703042687281.jpg?downsize=85:64&amp;w=85"" title=""Poco C65: Decent for the Price""/></a>",1
+"<a href=""https://www.gadgets360.com/reviews#pfrom=home-tech"">More Reviews</a>",0
+"<a class=""lst_itm-ttl"" href=""https://hindi.gadgets360.com/mobiles/oneplus-ace-3-pro-with-24gb-ram-snapdragon-8-gen-3-launch-soon-know-specifications-news-4786529#pfrom=home-ndtv_tech"">OnePlus Ace 3 Pro जल्द देगा 24GB RAM, Snapdragon 8 Gen 3 प्रोसेसर के साथ दस्तक!</a>",1
+"<a class=""lst_itm-ttl"" href=""https://hindi.gadgets360.com/tablets/xiaomi-pad-7-pro-battery-size-charging-speed-revealed-ahead-of-launch-news-4785061#pfrom=home-ndtv_tech"">Xiaomi Pad 7 Pro के बैटरी साइज, चार्जिंग स्पीड का खुलासा, जानें सबकुछ</a>",1
+"<a href=""https://hindi.gadgets360.com/#pfrom=home-tech"">More Tech News in Hindi </a>",0
+"<a href=""https://www.gadgets360.com/mobiles/reviews/oneplus-open-first-impressions-foldable-price-specifications-india-4496094#pfrom=home-ndtv_techreviews""><img alt=""OnePlus Open First Impressions: It's Finally Here!"" border=""0"" class=""imgbrd lazy"" data-original=""https://i.gadgets360cdn.com/large/OnePlus_Open_main_small_ndtv_1697710825624.jpg?downsize=260:195"" src=""https://drop.ndtv.com/images/placeholder-small.svg"" title=""OnePlus Open First Impressions: It's Finally Here!""/></a>",1
+"<a class=""item-title"" href=""https://www.gadgets360.com/mobiles/reviews/oneplus-open-first-impressions-foldable-price-specifications-india-4496094#pfrom=home-ndtv_techreviews"">OnePlus Open First Impressions: It's Finally Here!</a>",1
+"<a class=""lst_itm-ttl"" href=""https://www.gadgets360.com/mobiles/reviews/oppo-find-n3-flip-first-impressions-price-in-india-4475178#pfrom=home-ndtv_techreviews"">Oppo Find N3 Flip First Impressions: Better Than Samsung and Motorola?</a>",1
+"<a href=""https://www.gadgets360.com/mobiles/reviews/oppo-find-n3-flip-first-impressions-price-in-india-4475178#pfrom=home-ndtv_techreviews""><img alt=""Oppo Find N3 Flip First Impressions: Better Than Samsung and Motorola?"" border=""0"" class=""imgbrd lazy"" data-original=""https://i.gadgets360cdn.com/large/oppo_find_n3_flip_THUMB_gadgets360_1697114864328.jpg?downsize=85:64"" src=""https://drop.ndtv.com/images/placeholder-small.svg"" title=""Oppo Find N3 Flip First Impressions: Better Than Samsung and Motorola?""/></a>",1
+"<a class=""lst_itm-ttl"" href=""https://www.gadgets360.com/wearables/reviews/apple-watch-series-9-review-price-in-india-colours-double-tap-4485640#pfrom=home-ndtv_techreviews"">Apple Watch Series 9: What's New?</a>",0
+"<a href=""https://www.gadgets360.com/wearables/reviews/apple-watch-series-9-review-price-in-india-colours-double-tap-4485640#pfrom=home-ndtv_techreviews""><img alt=""Apple Watch Series 9: What's New?"" border=""0"" class=""imgbrd lazy"" data-original=""https://i.gadgets360cdn.com/large/Apple_Watch_Series_9_main_small_ndtv_1697454133595.jpg?downsize=85:64"" src=""https://drop.ndtv.com/images/placeholder-small.svg"" title=""Apple Watch Series 9: What's New?""/></a>",1
+"<a class=""lst_itm-ttl"" href=""https://www.gadgets360.com/mobiles/reviews/google-pixel-8-and-pixel-8-pro-first-impressions-price-in-india-flipkart-4471814#pfrom=home-ndtv_techreviews"">Google Pixel 8 and Pixel 8 Pro First Impressions: Going Big on AI</a>",1
+"<a href=""https://www.gadgets360.com/mobiles/reviews/google-pixel-8-and-pixel-8-pro-first-impressions-price-in-india-flipkart-4471814#pfrom=home-ndtv_techreviews""><img alt=""Google Pixel 8 and Pixel 8 Pro First Impressions: Going Big on AI"" border=""0"" class=""imgbrd lazy"" data-original=""https://i.gadgets360cdn.com/large/Google_Pixel8_Pixel8Pro_main_small_ndtv_1697030061846.jpg?downsize=85:64"" src=""https://drop.ndtv.com/images/placeholder-small.svg"" title=""Google Pixel 8 and Pixel 8 Pro First Impressions: Going Big on AI""/></a>",1
+"<a class=""lst_itm-ttl"" href=""https://www.gadgets360.com/wearables/reviews/samsung-galaxy-watch-6-classic-lte-review-price-in-india-4371591#pfrom=home-ndtv_techreviews"">Samsung Galaxy Watch 6 and Watch 6 Classic: Notable Upgrades</a>",1
+"<a href=""https://www.gadgets360.com/wearables/reviews/samsung-galaxy-watch-6-classic-lte-review-price-in-india-4371591#pfrom=home-ndtv_techreviews""><img alt=""Samsung Galaxy Watch 6 and Watch 6 Classic: Notable Upgrades"" border=""0"" class=""imgbrd lazy"" data-original=""https://i.gadgets360cdn.com/large/Samsung_Galaxy_Watch_6_Series_main_small_ndtv_1694170804711.jpg?downsize=85:64"" src=""https://drop.ndtv.com/images/placeholder-small.svg"" title=""Samsung Galaxy Watch 6 and Watch 6 Classic: Notable Upgrades""/></a>",1
+"<a class=""lst_itm-ttl"" href=""https://www.gadgets360.com/mobiles/reviews/oppo-reno-10-pro-5g-review-india-price-vs-oneplus-11r-nord-3-iqoo-neo-7-flipkart-amazon-4240756#pfrom=home-ndtv_techreviews"">Oppo Reno 10 Pro 5G: Many Hits, but a Few Misses</a>",0
+"<a href=""https://www.gadgets360.com/mobiles/reviews/oppo-reno-10-pro-5g-review-india-price-vs-oneplus-11r-nord-3-iqoo-neo-7-flipkart-amazon-4240756#pfrom=home-ndtv_techreviews""><img alt=""Oppo Reno 10 Pro 5G: Many Hits, but a Few Misses"" border=""0"" class=""imgbrd lazy"" data-original=""https://i.gadgets360cdn.com/large/Oppo_Reno_10_Pro_1_1690351780189.jpg?downsize=85:64"" src=""https://drop.ndtv.com/images/placeholder-small.svg"" title=""Oppo Reno 10 Pro 5G: Many Hits, but a Few Misses""/></a>",0
+"<a class=""lst_itm-ttl"" href=""https://www.gadgets360.com/laptops/reviews/dell-inspiron-16-2-in-1-review-convertible-windows-laptop-7630-price-in-india-4245664#pfrom=home-ndtv_techreviews"">Dell Inspiron 16 2-in-1: Keeping It Classy</a>",0
+"<a href=""https://www.gadgets360.com/laptops/reviews/dell-inspiron-16-2-in-1-review-convertible-windows-laptop-7630-price-in-india-4245664#pfrom=home-ndtv_techreviews""><img alt=""Dell Inspiron 16 2-in-1: Keeping It Classy"" border=""0"" class=""imgbrd lazy"" data-original=""https://i.gadgets360cdn.com/large/dell_inspiron_16_2in1_THUMB_gadgets360_1690465984542.jpg?downsize=85:64"" src=""https://drop.ndtv.com/images/placeholder-small.svg"" title=""Dell Inspiron 16 2-in-1: Keeping It Classy""/></a>",1
+"<a class=""lst_itm-ttl"" href=""https://www.gadgets360.com/mobiles/reviews/oppo-reno-10-pro-plus-5g-review-price-in-india-specs-flipkart-4199726#pfrom=home-ndtv_techreviews"">Oppo Reno 10 Pro+ 5G: Meets Expectations, and a Bit More</a>",1
+"<a href=""https://www.gadgets360.com/mobiles/reviews/oppo-reno-10-pro-plus-5g-review-price-in-india-specs-flipkart-4199726#pfrom=home-ndtv_techreviews""><img alt=""Oppo Reno 10 Pro+ 5G: Meets Expectations, and a Bit More"" border=""0"" class=""imgbrd lazy"" data-original=""https://i.gadgets360cdn.com/large/Oppo_Reno_10_Pro_Plus_5G_main_small_ndtv_1689145182479.jpg?downsize=85:64"" src=""https://drop.ndtv.com/images/placeholder-small.svg"" title=""Oppo Reno 10 Pro+ 5G: Meets Expectations, and a Bit More""/></a>",1
+"<a class=""lst_itm-ttl"" href=""https://www.gadgets360.com/laptops/reviews/macbook-air-15-inch-price-in-india-review-m2-2023-apple-4179017#pfrom=home-ndtv_techreviews"">Apple MacBook Air 15 (M2, 2023)  </a>",0
+"<a href=""https://www.gadgets360.com/laptops/reviews/macbook-air-15-inch-price-in-india-review-m2-2023-apple-4179017#pfrom=home-ndtv_techreviews""><img alt=""Apple MacBook Air 15 (M2, 2023)  "" border=""0"" class=""imgbrd lazy"" data-original=""https://i.gadgets360cdn.com/large/apple_macbook_air_15_review_small_1688539582922.jpg?downsize=85:64"" src=""https://drop.ndtv.com/images/placeholder-small.svg"" title=""Apple MacBook Air 15 (M2, 2023)  ""/></a>",1
+"<a href=""https://www.gadgets360.com/reviews"">More Reviews</a>",0
+"<a href=""https://hindi.gadgets360.com/mobiles/honor-90-5g-price-cut-rs-31999-honor-days-sale-limited-offer-amazon-news-4804349#pfrom=home-ndtv_techhindi""><img alt=""200 मेगापिक्सल कैमरा वाला Honor 90 5G सेल में मिल 6 हजार रुपये सस्ता"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/m1l8a9qg_honor-90-5g_625x300_05_January_24.jpg?im=FaceCrop,algorithm=dnn,width=260,height=195&amp;w=260"" title=""200 मेगापिक्सल कैमरा वाला Honor 90 5G सेल में मिल 6 हजार रुपये सस्ता""/></a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://hindi.gadgets360.com/mobiles/honor-90-5g-price-cut-rs-31999-honor-days-sale-limited-offer-amazon-news-4804349#pfrom=home-ndtv_techhindi"">200 मेगापिक्सल कैमरा वाला Honor 90 5G सेल में मिल 6 हजार रुपये सस्ता</a>",0
+"<a class=""lst_itm-ttl"" href=""https://hindi.gadgets360.com/mobiles/honor-x50-gt-price-cny-2100-launched-with-16gb-ram-5800-mah-battery-oled-display-specifications-more-news-4803258#pfrom=home-ndtv_techhindi"">Honor X50 GT लॉन्च हुआ 16GB रैम, 5800mAh बैटरी, OLED डिस्प्ले के साथ</a>",1
+"<a href=""https://hindi.gadgets360.com/mobiles/honor-x50-gt-price-cny-2100-launched-with-16gb-ram-5800-mah-battery-oled-display-specifications-more-news-4803258#pfrom=home-ndtv_techhindi""><img alt=""Honor X50 GT लॉन्च हुआ 16GB रैम, 5800mAh बैटरी, OLED डिस्प्ले के साथ"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/dn2grg68_honor-x50-gt-_625x300_05_January_24.jpg?im=FaceCrop,algorithm=dnn,width=85,height=64&amp;w=85"" title=""Honor X50 GT लॉन्च हुआ 16GB रैम, 5800mAh बैटरी, OLED डिस्प्ले के साथ""/></a>",1
+"<a class=""lst_itm-ttl"" href=""https://hindi.gadgets360.com/mobiles/realme-12-pro-render-leaked-with-50mp-triple-camera-5000mah-battery-launch-january-end-more-details-news-4803542#pfrom=home-ndtv_techhindi"">Realme 12 Pro होगा 50MP ट्रिपल कैमरा, 5000mAh बैटरी के साथ लॉन्च!</a>",1
+"<a href=""https://hindi.gadgets360.com/mobiles/realme-12-pro-render-leaked-with-50mp-triple-camera-5000mah-battery-launch-january-end-more-details-news-4803542#pfrom=home-ndtv_techhindi""><img alt=""Realme 12 Pro होगा 50MP ट्रिपल कैमरा, 5000mAh बैटरी के साथ लॉन्च!"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://i.gadgets360cdn.com/large/realme_11_pro_plus_1686985002341.jpg?im=FaceCrop,algorithm=dnn,width=85,height=64&amp;w=85"" title=""Realme 12 Pro होगा 50MP ट्रिपल कैमरा, 5000mAh बैटरी के साथ लॉन्च!""/></a>",1
+"<a class=""lst_itm-ttl"" href=""https://hindi.gadgets360.com/mobiles/poco-x6-5g-may-get-triple-rear-camera-unit-launch-on-11-january-news-4799646#pfrom=home-ndtv_techhindi"">Poco X6 5G में मिल सकती ट्रिपल रियर कैमरा यूनिट, 11 जनवरी को होगा लॉन्च</a>",1
+"<a href=""https://hindi.gadgets360.com/mobiles/poco-x6-5g-may-get-triple-rear-camera-unit-launch-on-11-january-news-4799646#pfrom=home-ndtv_techhindi""><img alt=""Poco X6 5G में मिल सकती ट्रिपल रियर कैमरा यूनिट, 11 जनवरी को होगा लॉन्च"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://i.gadgets360cdn.com/large/poco_x5_1686298959168.jpg?im=FaceCrop,algorithm=dnn,width=85,height=64&amp;w=85"" title=""Poco X6 5G में मिल सकती ट्रिपल रियर कैमरा यूनिट, 11 जनवरी को होगा लॉन्च""/></a>",1
+"<a class=""lst_itm-ttl"" href=""https://hindi.gadgets360.com/mobiles/oneplus-ace-3-price-starts-2599-yuan-launched-in-china-with-16gb-ram-50mp-camera-5500mah-battery-news-4799124#pfrom=home-ndtv_techhindi"">OnePlus Ace 3 फोन 5500mAh बैटरी, 50MP कैमरा, 16GB रैम के साथ लॉन्‍च</a>",1
+"<a href=""https://hindi.gadgets360.com/mobiles/oneplus-ace-3-price-starts-2599-yuan-launched-in-china-with-16gb-ram-50mp-camera-5500mah-battery-news-4799124#pfrom=home-ndtv_techhindi""><img alt=""OnePlus Ace 3 फोन 5500mAh बैटरी, 50MP कैमरा, 16GB रैम के साथ लॉन्‍च"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/cnrsaim_large_625x300_04_January_24.jpg?im=FaceCrop,algorithm=dnn,width=85,height=64&amp;w=85"" title=""OnePlus Ace 3 फोन 5500mAh बैटरी, 50MP कैमरा, 16GB रैम के साथ लॉन्‍च""/></a>",1
+"<a class=""lst_itm-ttl"" href=""https://hindi.gadgets360.com/mobiles/redmi-note-13-5g-note-13-pro-5g-note-13-pro-5g-launched-know-price-specifications-news-4798630#pfrom=home-ndtv_techhindi"">Redmi Note 13 5G, Note 13 Pro 5G और Note 13 Pro+ 5G भारत में लॉन्च, जानें</a>",1
+"<a href=""https://hindi.gadgets360.com/mobiles/redmi-note-13-5g-note-13-pro-5g-note-13-pro-5g-launched-know-price-specifications-news-4798630#pfrom=home-ndtv_techhindi""><img alt=""Redmi Note 13 5G, Note 13 Pro 5G और Note 13 Pro+ 5G भारत में लॉन्च, जानें"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/7pu34po8_redmi-note-13-pro-5g_625x300_04_January_24.jpg?im=FaceCrop,algorithm=dnn,width=85,height=64&amp;w=85"" title=""Redmi Note 13 5G, Note 13 Pro 5G और Note 13 Pro+ 5G भारत में लॉन्च, जानें""/></a>",1
+"<a class=""lst_itm-ttl"" href=""https://hindi.gadgets360.com/wearable/oneplus-buds-3-european-price-leak-know-specifications-before-launch-news-4791501#pfrom=home-ndtv_techhindi"">OnePlus Buds 3 की कीमत का खुलासा, लॉन्च से पहले जानें स्पेसिफिकेशंस</a>",1
+"<a href=""https://hindi.gadgets360.com/wearable/oneplus-buds-3-european-price-leak-know-specifications-before-launch-news-4791501#pfrom=home-ndtv_techhindi""><img alt=""OnePlus Buds 3 की कीमत का खुलासा, लॉन्च से पहले जानें स्पेसिफिकेशंस"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/1l7vchag_oneplus-buds-pro-2-_625x300_03_January_24.jpg?im=FaceCrop,algorithm=dnn,width=85,height=64&amp;w=85"" title=""OnePlus Buds 3 की कीमत का खुलासा, लॉन्च से पहले जानें स्पेसिफिकेशंस""/></a>",1
+"<a class=""lst_itm-ttl"" href=""https://hindi.gadgets360.com/mobiles/poco-m6-pro-4g-to-globally-launch-on-11-january-know-price-specifications-news-4791227#pfrom=home-ndtv_techhindi"">Poco M6 Pro 4G देगा 11 जनवरी को दस्तक, जानें कीमत और स्पेसिफिकेशंस</a>",1
+"<a href=""https://hindi.gadgets360.com/mobiles/poco-m6-pro-4g-to-globally-launch-on-11-january-know-price-specifications-news-4791227#pfrom=home-ndtv_techhindi""><img alt=""Poco M6 Pro 4G देगा 11 जनवरी को दस्तक, जानें कीमत और स्पेसिफिकेशंस"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/0pu7vnc_poco-m6-pro-5g_625x300_03_January_24.jpg?im=FaceCrop,algorithm=dnn,width=85,height=64&amp;w=85"" title=""Poco M6 Pro 4G देगा 11 जनवरी को दस्तक, जानें कीमत और स्पेसिफिकेशंस""/></a>",1
+"<a class=""lst_itm-ttl"" href=""https://hindi.gadgets360.com/telecom/jio-cheapest-365-days-plan-2024-with-730-gb-data-unlimited-5g-calling-prime-video-ott-beat-airtel-vi-bsnl-news-4790838#pfrom=home-ndtv_techhindi"">Jio लाई 365 दिनों तक 730GB डेटा, कॉलिंग, Prime Video वाला धांसू प्लान!</a>",1
+"<a href=""https://hindi.gadgets360.com/telecom/jio-cheapest-365-days-plan-2024-with-730-gb-data-unlimited-5g-calling-prime-video-ott-beat-airtel-vi-bsnl-news-4790838#pfrom=home-ndtv_techhindi""><img alt=""Jio लाई 365 दिनों तक 730GB डेटा, कॉलिंग, Prime Video वाला धांसू प्लान!"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://i.gadgets360cdn.com/large/reliance_jio_facebook_logo_1645092262339.jpg?im=FaceCrop,algorithm=dnn,width=85,height=64&amp;w=85"" title=""Jio लाई 365 दिनों तक 730GB डेटा, कॉलिंग, Prime Video वाला धांसू प्लान!""/></a>",1
+"<a href=""https://hindi.gadgets360.com/#pfrom=home-tech"">More Tech News in Hindi</a>",0
+"<a href=""https://www.whosthat360.com/fashion/exclusive-over-time-i-have-learned-to-deal-with-online-scrutiny-says-nagma-mirajkar-4797928#pfrom=home-ndtv_tech""><img alt=""Exclusive: Over Time I Have Learned To Deal With Online Scrutiny, Says Nagma Mirajkar"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/ondbu3p8_exclusive-over-time-i-have-learned-to-deal-with-online-scrutiny-says-nagma-mirajkar_625x300_04_January_24.jpg?im=FaceCrop,algorithm=dnn,width=260,height=195&amp;w=260"" title=""Exclusive: Over Time I Have Learned To Deal With Online Scrutiny, Says Nagma Mirajkar""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.whosthat360.com/fashion/exclusive-over-time-i-have-learned-to-deal-with-online-scrutiny-says-nagma-mirajkar-4797928#pfrom=home-ndtv_tech"">Exclusive: Over Time I Have Learned To Deal With Online Scrutiny, Says Nagma Mirajkar</a>",1
+"<a class=""lst_itm-ttl"" href=""https://www.whosthat360.com/fitness-and-health/discover-the-wonders-of-avarampoo-tea-with-lavanya-manokar-4797878#pfrom=home-ndtv_tech"">Discover the Wonders of Avarampoo Tea with Lavanya Manokar</a>",1
+"<a href=""https://www.whosthat360.com/fitness-and-health/discover-the-wonders-of-avarampoo-tea-with-lavanya-manokar-4797878#pfrom=home-ndtv_tech""><img alt=""Discover the Wonders of Avarampoo Tea with Lavanya Manokar"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/oep0edv_discover-the-wonders-of-avarampoo-tea-with-lavanya-manokar_625x300_04_January_24.jpg?im=FaceCrop,algorithm=dnn,width=85,height=64&amp;w=85"" title=""Discover the Wonders of Avarampoo Tea with Lavanya Manokar""/></a>",1
+"<a class=""lst_itm-ttl"" href=""https://www.whosthat360.com/news/sebin-cyriac-the-fisherman-who-turned-early-retirement-into-a-passion-pursuing-journey-4799229#pfrom=home-ndtv_tech"">Sebin Cyriac: The Fisherman Who Turned Early Retirement into a Passion-Pursuing Journey</a>",1
+"<a href=""https://www.whosthat360.com/news/sebin-cyriac-the-fisherman-who-turned-early-retirement-into-a-passion-pursuing-journey-4799229#pfrom=home-ndtv_tech""><img alt=""Sebin Cyriac: The Fisherman Who Turned Early Retirement into a Passion-Pursuing Journey"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/avcpcdno_sebin-cyriac-the-fisherman-who-turned-early-retirement-into-a-passionpursuing-journey_625x300_04_January_24.jpg?im=FaceCrop,algorithm=dnn,width=85,height=64&amp;w=85"" title=""Sebin Cyriac: The Fisherman Who Turned Early Retirement into a Passion-Pursuing Journey""/></a>",1
+"<a class=""lst_itm-ttl"" href=""https://www.whosthat360.com/finance/sakchi-jain-highlights-two-major-changes-in-financial-transactions-by-rbi-4799308#pfrom=home-ndtv_tech"">Sakchi Jain Highlights Two Major Changes in Financial Transactions by RBI</a>",1
+"<a href=""https://www.whosthat360.com/finance/sakchi-jain-highlights-two-major-changes-in-financial-transactions-by-rbi-4799308#pfrom=home-ndtv_tech""><img alt=""Sakchi Jain Highlights Two Major Changes in Financial Transactions by RBI"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/clsagrl8_sakchi-jain-highlights-two-major-changes-in-financial-transactions-by-rbi_625x300_04_January_24.jpg?im=FaceCrop,algorithm=dnn,width=85,height=64&amp;w=85"" title=""Sakchi Jain Highlights Two Major Changes in Financial Transactions by RBI""/></a>",1
+"<a class=""lst_itm-ttl"" href=""https://hotdeals360.com/beauty/best-hard-water-softener-shower-filters-to-healthy-skin-and-hair-4421585#pfrom=home-ndtv_tech"">Best Hard Water Softener Shower Filters To Healthy Skin And Hair</a>",1
+"<a href=""https://hotdeals360.com/beauty/best-hard-water-softener-shower-filters-to-healthy-skin-and-hair-4421585#pfrom=home-ndtv_tech""><img alt=""Best Hard Water Softener Shower Filters To Healthy Skin And Hair"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://i.gadgets360cdn.com/large/Best-Hard-Water-Softener-Shower-Filters-To-Healthy-Skin-And-Hair-1695634726874.jpg?im=FaceCrop,algorithm=dnn,width=85,height=64&amp;w=85"" title=""Best Hard Water Softener Shower Filters To Healthy Skin And Hair""/></a>",1
+"<a class=""lst_itm-ttl"" href=""https://hotdeals360.com/mobile-apps/youtube-tiktok-under-eu-scanner-deadline-given-over-child-protection-measures-4563018#pfrom=home-ndtv_tech"">YouTube, TikTok under EU scanner, deadline given over child protection</a>",1
+"<a href=""https://hotdeals360.com/mobile-apps/youtube-tiktok-under-eu-scanner-deadline-given-over-child-protection-measures-4563018#pfrom=home-ndtv_tech""><img alt=""YouTube, TikTok under EU scanner, deadline given over child protection"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://i.gadgets360cdn.com/large/Google-Play-Music-to-YouTube-Music-1589784902622.jpg?im=FaceCrop,algorithm=dnn,width=85,height=64&amp;w=85"" title=""YouTube, TikTok under EU scanner, deadline given over child protection""/></a>",1
+"<a class=""lst_itm-ttl"" href=""https://hotdeals360.com/entertainment/enthusiastic-fans-anticipate-the-return-team-khichdi-2-teases-excitement-for-the-highly-awaited-sequel-4569804#pfrom=home-ndtv_tech"">Team 'Khichdi 2' Teases Excitement for the Highly-Awaited Sequel</a>",1
+"<a href=""https://hotdeals360.com/entertainment/enthusiastic-fans-anticipate-the-return-team-khichdi-2-teases-excitement-for-the-highly-awaited-sequel-4569804#pfrom=home-ndtv_tech""><img alt=""Team 'Khichdi 2' Teases Excitement for the Highly-Awaited Sequel"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://i.gadgets360cdn.com/large/Khichdi-2-1698857777172.jpg?im=FaceCrop,algorithm=dnn,width=85,height=64&amp;w=85"" title=""Team 'Khichdi 2' Teases Excitement for the Highly-Awaited Sequel""/></a>",1
+"<a class=""lst_itm-ttl"" href=""https://hotdeals360.com/fashion/best-bathrobes-for-men-a-quintessential-piece-of-loungewear-4421509#pfrom=home-ndtv_tech"">Best Bathrobes For Men: A Quintessential Piece of Loungewear</a>",1
+"<a href=""https://hotdeals360.com/fashion/best-bathrobes-for-men-a-quintessential-piece-of-loungewear-4421509#pfrom=home-ndtv_tech""><img alt=""Best Bathrobes For Men: A Quintessential Piece of Loungewear"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://i.gadgets360cdn.com/large/Bathrobes-for-men-1695633298849.jpg?im=FaceCrop,algorithm=dnn,width=85,height=64&amp;w=85"" title=""Best Bathrobes For Men: A Quintessential Piece of Loungewear""/></a>",1
+"<a class=""lst_itm-ttl"" href=""https://hotdeals360.com/entertainment/horror-web-series-the-village-release-date-out-now-set-to-premiere-exclusively-on-prime-video-4562264#pfrom=home-ndtv_tech"">Horror web series 'The Village' release date out now</a>",1
+"<a href=""https://hotdeals360.com/entertainment/horror-web-series-the-village-release-date-out-now-set-to-premiere-exclusively-on-prime-video-4562264#pfrom=home-ndtv_tech""><img alt=""Horror web series 'The Village' release date out now"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://i.gadgets360cdn.com/large/The-Village-1699549298030.jpg?im=FaceCrop,algorithm=dnn,width=85,height=64&amp;w=85"" title=""Horror web series 'The Village' release date out now""/></a>",1
+"<a href=""https://hotdeals360.com/#pfrom=home-tech"">More Deals</a>",0
+"<a href=""https://www.gadgets360.com/mobiles/phone-finder""><span>Popular Mobiles</span> </a>",0
+"<a href=""https://www.gadgets360.com/redmi-note-13-price-in-india-121360"">Redmi Note 13 5G</a>",0
+"<a href=""https://www.gadgets360.com/redmi-note-13-price-in-india-121360""><img alt=""Redmi Note 13 5G"" src=""https://i.gadgets360cdn.com/products/small/note13redmi-240x180-1695377676.png"" title=""Redmi Note 13 5G""/></a>",1
+"<a href=""https://www.gadgets360.com/redmi-note-13-pro-price-in-india-121359"">Redmi Note 13 Pro 5G</a>",0
+"<a href=""https://www.gadgets360.com/redmi-note-13-pro-price-in-india-121359""><img alt=""Redmi Note 13 Pro 5G"" src=""https://i.gadgets360cdn.com/products/small/redminote13pro-240x180-1695378560.png"" title=""Redmi Note 13 Pro 5G""/></a>",1
+"<a href=""https://www.gadgets360.com/redmi-note-13-pro-plus-price-in-india-121519"">Redmi Note 13 Pro+ 5G</a>",0
+"<a href=""https://www.gadgets360.com/redmi-note-13-pro-plus-price-in-india-121519""><img alt=""Redmi Note 13 Pro+ 5G"" src=""https://i.gadgets360cdn.com/products/small/not13proplus-240x180-1695379703.png"" title=""Redmi Note 13 Pro+ 5G""/></a>",1
+"<a href=""https://www.gadgets360.com/redmi-13c-price-in-india-122434"">Redmi 13C</a>",0
+"<a href=""https://www.gadgets360.com/redmi-13c-price-in-india-122434""><img alt=""Redmi 13C"" src=""https://i.gadgets360cdn.com/products/small/redmi-13c-240x180-1702621045.jpg"" title=""Redmi 13C""/></a>",1
+"<a href=""https://www.gadgets360.com/itel-a70-price-in-india-123410"">Itel A70</a>",0
+"<a href=""https://www.gadgets360.com/itel-a70-price-in-india-123410""><img alt=""Itel A70"" src=""https://assets.gadgets360cdn.com/content/assets/icons/default_mobile_icon.jpg"" title=""Itel A70""/></a>",1
+"<a href=""https://www.gadgets360.com/redmi-13c-5g-price-in-india-122978"">Redmi 13C 5G</a>",0
+"<a href=""https://www.gadgets360.com/redmi-13c-5g-price-in-india-122978""><img alt=""Redmi 13C 5G"" src=""https://i.gadgets360cdn.com/products/small/redmi-13c-5g-xiaomi-db-240x180-1702024564.jpg"" title=""Redmi 13C 5G""/></a>",1
+"<a href=""https://www.gadgets360.com/oneplus-nord-ce-3-5g-price-in-india-119020"">OnePlus Nord CE 3 5G</a>",0
+"<a href=""https://www.gadgets360.com/oneplus-nord-ce-3-5g-price-in-india-119020""><img alt=""OnePlus Nord CE 3 5G"" src=""https://i.gadgets360cdn.com/products/small/oneplus-nord-ce-3-240x180-1690863911.jpg"" title=""OnePlus Nord CE 3 5G""/></a>",1
+"<a href=""https://www.gadgets360.com/laptops/all-brands""><span> Popular Laptops</span></a>",0
+"<a href=""https://www.gadgets360.com/dell-inspiron-14-5410-price-in-india-101315"">Dell Inspiron 14 (5410)</a>",0
+"<a href=""https://www.gadgets360.com/lenovo-ideapad-slim-3-2021-82h801cwin-price-in-india-103820"">Lenovo IdeaPad Slim 3 (2021) 82H801CWIN</a>",0
+"<a href=""https://www.gadgets360.com/acer-aspire-7-2021-price-in-india-100433"">Acer Aspire 7 (2021)</a>",0
+"<a href=""https://www.gadgets360.com/hp-15s-15s-eq2143au-price-in-india-114727"">HP 15s (15s-Eq2143au)</a>",0
+"<a href=""https://www.gadgets360.com/dell-latitude-5490-8380"">Dell Latitude 5490</a>",0
+"<a href=""https://www.ndtv.com/entertainment#pfrom=home-ndtv_movies""><span>Movies</span></a>",0
+"<a href=""https://movies.ndtv.com/hindi"">Hindi</a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/entertainment/alia-bhatt-with-mom-in-law-neetu-kapoor-and-dad-mahesh-bhatt-meet-ranbir-kapoors-cheer-squad-at-animal-success-bash-4815235#pfrom=home-ndtv_movies"">Alia With Neetu And Mahesh - Meet Ranbir's Cheer Squad At <i>Animal</i> Success Bash</a>",1
+"<a href=""https://www.ndtv.com/entertainment/alia-bhatt-with-mom-in-law-neetu-kapoor-and-dad-mahesh-bhatt-meet-ranbir-kapoors-cheer-squad-at-animal-success-bash-4815235#pfrom=home-ndtv_movies""><img alt=""Alia With Neetu And Mahesh - Meet Ranbir's Cheer Squad At Animal Success Bash"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/bc8kof6o_alia-_625x300_07_January_24.jpg?downsize=355:218&amp;w=355""/></a>",0
+"<a href=""https://www.ndtv.com/entertainment/vedang-raina-on-being-called-a-ranveer-singh-lookalike-don-t-really-see-it-4815875#pfrom=home-ndtv_movies""><img alt=""'Flattering': Vedang On Being Called Ranveer's Lookalike"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/7c02q2ug_alia-_120x90_07_January_24.jpg?downsize=170:128&amp;w=170"" title=""'Flattering': Vedang On Being Called Ranveer's Lookalike""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/entertainment/vedang-raina-on-being-called-a-ranveer-singh-lookalike-don-t-really-see-it-4815875#pfrom=home-ndtv_movies"">""Flattering"": Vedang On Being Called Ranveer's Lookalike</a>",1
+"<a href=""https://www.ndtv.com/entertainment/inside-pic-of-ranbir-kapoor-and-radhika-madan-from-animal-success-party-4816331#pfrom=home-ndtv_movies""><img alt=""Inside Pic Of Ranbir And Radhika From Animal Success Party"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/bc1rep68_alia-_120x90_07_January_24.jpg?downsize=170:128&amp;w=170"" title=""Inside Pic Of Ranbir And Radhika From Animal Success Party""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/entertainment/inside-pic-of-ranbir-kapoor-and-radhika-madan-from-animal-success-party-4816331#pfrom=home-ndtv_movies"">Inside Pic Of Ranbir And Radhika From <i>Animal</i> Success Party</a>",1
+"<a href=""https://www.ndtv.com/entertainment/new-day-new-pictures-of-priyanka-chopra-and-fam-from-their-holiday-in-cabo-4815751#pfrom=home-ndtv_movies""><img alt=""New Day, New Pictures Of Priyanka And Fam From Their Holiday"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/rjtok98_alia-_120x90_07_January_24.jpg?downsize=170:128&amp;w=170"" title=""New Day, New Pictures Of Priyanka And Fam From Their Holiday""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/entertainment/new-day-new-pictures-of-priyanka-chopra-and-fam-from-their-holiday-in-cabo-4815751#pfrom=home-ndtv_movies"">New Day, New Pictures Of Priyanka And Fam From Their Holiday</a>",1
+"<a href=""https://www.ndtv.com/entertainment/salaar-box-office-collection-day-16-prabhas-film-inching-closer-to-the-rs-400-crore-mark-4815989#pfrom=home-ndtv_movies""><img alt=""Prabhas' Salaar Is Inching Closer To The Rs 400 Crore Mark"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/0cq2pkh_alia-_120x90_07_January_24.jpg?downsize=170:128&amp;w=170"" title=""Prabhas' Salaar Is Inching Closer To The Rs 400 Crore Mark""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/entertainment/salaar-box-office-collection-day-16-prabhas-film-inching-closer-to-the-rs-400-crore-mark-4815989#pfrom=home-ndtv_movies"">Prabhas' <i>Salaar</i> Is Inching Closer To The Rs 400 Crore Mark</a>",1
+"<a href=""http://ndtv.in#pfrom=home-ndtv_khabar-ndtvhp""><span>हिंदी न्यूज़</span></a>",0
+"<a href=""https://ndtv.in/livetv-ndtvindia"">
+Watch live
+            </a>",0
+"<a href=""https://ndtv.in/world-news/maldives-minister-abdulla-mahzoom-majid-pm-modis-visit-to-lakshadweep-4815462#pfrom=home-ndtv_khabar-ndtvhp""><img alt=""'हमें निशाना बनाया जा रहा है': पीएम मोदी की लक्षद्वीप यात्रा पर मालदीव के मंत्री"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://i.ndtvimg.com/i/2018-02/maldives-afp_650x400_41518179307.jpg?im=FaceCrop,algorithm=dnn,width=100,height=75&amp;w=100"" title=""'हमें निशाना बनाया जा रहा है': पीएम मोदी की लक्षद्वीप यात्रा पर मालदीव के मंत्री""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://ndtv.in/world-news/maldives-minister-abdulla-mahzoom-majid-pm-modis-visit-to-lakshadweep-4815462#pfrom=home-ndtv_khabar-ndtvhp"">""हमें निशाना बनाया जा रहा है"": पीएम मोदी की लक्षद्वीप यात्रा पर मालदीव के मंत्री</a>",1
+"<a href=""https://ndtv.in/world-news/former-president-of-maldives-reprimands-mohamed-muizzu-government-over-remarks-regarding-lakshadweep-4816285#pfrom=home-ndtv_khabar-ndtvhp""><img alt=""'ये कैसी भाषा ...': लक्षद्वीप को लेकर की टिप्पणी पर मुइज्जू सरकार को मालदीव के पूर्व राष्ट्रपति ने लगाई फटकार"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2019-04/qbu3r1f_mohamed-nasheed-afp_120x90_07_April_19.jpg?downsize=100:75&amp;w=100"" title=""'ये कैसी भाषा ...': लक्षद्वीप को लेकर की टिप्पणी पर मुइज्जू सरकार को मालदीव के पूर्व राष्ट्रपति ने लगाई फटकार""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://ndtv.in/world-news/former-president-of-maldives-reprimands-mohamed-muizzu-government-over-remarks-regarding-lakshadweep-4816285#pfrom=home-ndtv_khabar-ndtvhp"">""ये कैसी भाषा ..."": लक्षद्वीप को लेकर की टिप्पणी पर मुइज्जू सरकार को मालदीव के पूर्व राष्ट्रपति ने लगाई फटकार</a>",1
+"<a href=""https://ndtv.in/india/video-lights-out-air-forces-c-130j-lands-at-kargil-in-stealth-mode-4815915#pfrom=home-ndtv_khabar-ndtvhp""><img alt=""पहली बार रात में कारगिल एयरस्ट्रिप पर लैंड हुआ C-130J विमान, वायुसेना की बड़ी उपलब्धि"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/197lbm3g_c130j-aircraft-_625x300_07_January_24.jpeg?downsize=100:75&amp;w=100"" title=""पहली बार रात में कारगिल एयरस्ट्रिप पर लैंड हुआ C-130J विमान, वायुसेना की बड़ी उपलब्धि""/></a>",1
+"<a href=""https://ndtv.in/india/video-lights-out-air-forces-c-130j-lands-at-kargil-in-stealth-mode-4815915#pfrom=home-ndtv_khabar-ndtvhp""><span>VIDEO:  </span></a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://ndtv.in/india/video-lights-out-air-forces-c-130j-lands-at-kargil-in-stealth-mode-4815915#pfrom=home-ndtv_khabar-ndtvhp"">पहली बार रात में कारगिल एयरस्ट्रिप पर लैंड हुआ C-130J विमान, वायुसेना की बड़ी उपलब्धि</a>",1
+"<a href=""https://ndtv.in/india/gurugram-cow-protectors-caught-smugglers-after-chasing-them-for-several-kilometers-video-viral-4816508#pfrom=home-ndtv_khabar-ndtvhp""><img alt=""गुरुग्राम में फिर गौरक्षकों ने कई किलोमीटर पीछा कर तस्करों को पकड़ा, वीडियो वायरल"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2023-11/trpmngr4_police-generic-istock_640x480_23_November_23.jpg?downsize=100:75&amp;w=100"" title=""गुरुग्राम में फिर गौरक्षकों ने कई किलोमीटर पीछा कर तस्करों को पकड़ा, वीडियो वायरल""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://ndtv.in/india/gurugram-cow-protectors-caught-smugglers-after-chasing-them-for-several-kilometers-video-viral-4816508#pfrom=home-ndtv_khabar-ndtvhp"">गुरुग्राम में फिर गौरक्षकों ने कई किलोमीटर पीछा कर तस्करों को पकड़ा, वीडियो वायरल</a>",1
+"<a href=""https://mpcg.ndtv.in#pfrom=home-ndtv_mpcg_ndtv.in""><span>मध्‍यप्रदेश-छत्तीसगढ़</span></a>",0
+"<a href=""https://mpcg.ndtv.in/livetv-ndtvmpcg"">
+Watch live
+            </a>",0
+"<a href=""https://mpcg.ndtv.in/madhya-pradesh-news/ayodhya-ram-mandir-construction-update-4816038#pfrom=home-ndtv_mpcg_ndtv.in""><img alt=""Ram Mandir News: राम मंदिर के लिए 5 किलो चांदी का दीपक अयोध्या रवाना, जयपुर के कारीगरों ने की है नक्काशी"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/19jnn8ng_ram-mandir_625x300_07_January_24.jpg?im=FaceCrop,algorithm=dnn,width=100,height=75&amp;w=100"" title=""Ram Mandir News: राम मंदिर के लिए 5 किलो चांदी का दीपक अयोध्या रवाना, जयपुर के कारीगरों ने की है नक्काशी""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://mpcg.ndtv.in/madhya-pradesh-news/ayodhya-ram-mandir-construction-update-4816038#pfrom=home-ndtv_mpcg_ndtv.in"">Ram Mandir News: राम मंदिर के लिए 5 किलो चांदी का दीपक अयोध्या रवाना, जयपुर के कारीगरों ने की है नक्काशी</a>",1
+"<a href=""https://mpcg.ndtv.in/chhattisgarh-news/school-teacher-arrested-in-chhattisgarh-for-being-a-maoist-supporter-students-and-villagers-start-protest-4816549#pfrom=home-ndtv_mpcg_ndtv.in""><img alt=""छत्तीसगढ़ में माओवादी 'समर्थक' होने के आरोप में स्कूल टीचर गिरफ्तार, विरोध में उतरे छात्र और ग्रामीण"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2022-11/610h0idg_arrest-jail-generic_120x90_05_November_22.jpg?downsize=100:75&amp;w=100"" title=""छत्तीसगढ़ में माओवादी 'समर्थक' होने के आरोप में स्कूल टीचर गिरफ्तार, विरोध में उतरे छात्र और ग्रामीण""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://mpcg.ndtv.in/chhattisgarh-news/school-teacher-arrested-in-chhattisgarh-for-being-a-maoist-supporter-students-and-villagers-start-protest-4816549#pfrom=home-ndtv_mpcg_ndtv.in"">छत्तीसगढ़ में माओवादी 'समर्थक' होने के आरोप में स्कूल टीचर गिरफ्तार, विरोध में उतरे छात्र और ग्रामीण</a>",1
+"<a href=""https://mpcg.ndtv.in/madhya-pradesh-news/officers-made-death-certificates-of-living-people-in-gwalior-to-take-money-from-government-scheme-4816978#pfrom=home-ndtv_mpcg_ndtv.in""><img alt=""जिंदा लोगों के ही बना दिए मृत्यु प्रमाणपत्र, सरकारी राशि हड़पने के लिए कर्मचारियों की अजीब करामात"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/gkder10g_gwalior_120x90_07_January_24.jpg?downsize=100:75&amp;w=100"" title=""जिंदा लोगों के ही बना दिए मृत्यु प्रमाणपत्र, सरकारी राशि हड़पने के लिए कर्मचारियों की अजीब करामात""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://mpcg.ndtv.in/madhya-pradesh-news/officers-made-death-certificates-of-living-people-in-gwalior-to-take-money-from-government-scheme-4816978#pfrom=home-ndtv_mpcg_ndtv.in"">जिंदा लोगों के ही बना दिए मृत्यु प्रमाणपत्र, सरकारी राशि हड़पने के लिए कर्मचारियों की अजीब करामात</a>",1
+"<a href=""https://mpcg.ndtv.in/madhya-pradesh-news/madhya-pradesh-today-news-mp-latest-news-bull-last-journey-took-place-with-band-and-music-dasha-karma-and-brahmin-feast-will-also-be-held-know-why-he-4814964#pfrom=home-ndtv_mpcg_ndtv.in""><img alt=""Ujjain: बैंड बाजे के साथ निकाली नंदी की अंतिम यात्रा, दशा कर्म और ब्राह्मण भोज भी होगा, जानि- क्यों मिला इतना सम्मान"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/vrnd6rl_ujjain-latest-news-in-hindi_625x300_07_January_24.jpg?im=FaceCrop,algorithm=dnn,width=100,height=75&amp;w=100"" title=""Ujjain: बैंड बाजे के साथ निकाली नंदी की अंतिम यात्रा, दशा कर्म और ब्राह्मण भोज भी होगा, जानि- क्यों मिला इतना सम्मान""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://mpcg.ndtv.in/madhya-pradesh-news/madhya-pradesh-today-news-mp-latest-news-bull-last-journey-took-place-with-band-and-music-dasha-karma-and-brahmin-feast-will-also-be-held-know-why-he-4814964#pfrom=home-ndtv_mpcg_ndtv.in"">Ujjain: बैंड बाजे के साथ निकाली नंदी की अंतिम यात्रा, दशा कर्म और ब्राह्मण भोज भी होगा, जानि- क्यों मिला इतना सम्मान</a>",1
+"<a href=""https://rajasthan.ndtv.in#pfrom=home-ndtv_raj_ndtv.in""><span>राजस्थान</span></a>",0
+"<a href=""https://rajasthan.ndtv.in/livetv-ndtvrajasthan"">
+Watch live
+            </a>",0
+"<a href=""https://rajasthan.ndtv.in/rajasthan-news/big-movement-is-going-to-start-in-rajasthan-bharatpur-dholpur-jats-gave-10-days-ultimatum-for-obc-reservation-4817321#pfrom=home-ndtv_raj_ndtv.in""><img alt=""राजस्थान में शुरू होने वाला है बड़ा आंदोलन, 10 दिन का अल्टीमेटम, फिर शुरू होगा चक्का जाम"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/gmgvk5to_jat-reservation_625x300_07_January_24.jpg?downsize=100:75&amp;w=100"" title=""राजस्थान में शुरू होने वाला है बड़ा आंदोलन, 10 दिन का अल्टीमेटम, फिर शुरू होगा चक्का जाम""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://rajasthan.ndtv.in/rajasthan-news/big-movement-is-going-to-start-in-rajasthan-bharatpur-dholpur-jats-gave-10-days-ultimatum-for-obc-reservation-4817321#pfrom=home-ndtv_raj_ndtv.in"">राजस्थान में शुरू होने वाला है बड़ा आंदोलन, 10 दिन का अल्टीमेटम, फिर शुरू होगा चक्का जाम</a>",1
+"<a href=""https://rajasthan.ndtv.in/rajasthan-news/where-have-school-holidays-been-extended-due-to-cold-wave-know-the-date-of-school-reopen-4817562#pfrom=home-ndtv_raj_ndtv.in""><img alt=""ठंढ की वजह से कहां-कहां बढ़ाई गई है स्कूल की छुट्टियां, जान लें स्कूल खुलने की तारीख!"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/q3kquan8_school-close_625x300_07_January_24.jpg?downsize=100:75&amp;w=100"" title=""ठंढ की वजह से कहां-कहां बढ़ाई गई है स्कूल की छुट्टियां, जान लें स्कूल खुलने की तारीख!""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://rajasthan.ndtv.in/rajasthan-news/where-have-school-holidays-been-extended-due-to-cold-wave-know-the-date-of-school-reopen-4817562#pfrom=home-ndtv_raj_ndtv.in"">ठंढ की वजह से कहां-कहां बढ़ाई गई है स्कूल की छुट्टियां, जान लें स्कूल खुलने की तारीख!</a>",1
+"<a href=""https://rajasthan.ndtv.in/rajasthan-news/rpsc-exam-2023-i-am-just-1-minute-late-please-let-me-go-inside-jyoti-came-from-bhilwara-started-crying-outside-the-exam-center-in-ajmer-4816664#pfrom=home-ndtv_raj_ndtv.in""><img alt=""RPSC Exam: 'बस 1 मिनट लेट हूं..प्लीज अंदर जाने दो' गेट पर ही रोने लगी अभ्यार्थी, कलेक्टर-एसपी ने भी बोला 'ना'"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/86a8jj4g_rpsc-exam_120x90_07_January_24.jpg?downsize=100:75&amp;w=100"" title=""RPSC Exam: 'बस 1 मिनट लेट हूं..प्लीज अंदर जाने दो' गेट पर ही रोने लगी अभ्यार्थी, कलेक्टर-एसपी ने भी बोला 'ना'""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://rajasthan.ndtv.in/rajasthan-news/rpsc-exam-2023-i-am-just-1-minute-late-please-let-me-go-inside-jyoti-came-from-bhilwara-started-crying-outside-the-exam-center-in-ajmer-4816664#pfrom=home-ndtv_raj_ndtv.in"">RPSC Exam: 'बस 1 मिनट लेट हूं..प्लीज अंदर जाने दो' गेट पर ही रोने लगी अभ्यार्थी, कलेक्टर-एसपी ने भी बोला 'ना'</a>",1
+"<a href=""https://rajasthan.ndtv.in/rajasthan-news/kalisindh-thermal-power-project-is-in-bad-condition-due-to-poor-quality-coal-production-has-declined-units-are-being-shut-down-again-and-again-4816434#pfrom=home-ndtv_raj_ndtv.in""><img alt=""घटिया कोयले की वजह से कालीसिंध थर्मल पावर परियोजना के हाल बेहाल, इकाइयां बार-बार हो रहीं बंद"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/lt90vj6_kalisindh-thermal-power-project_120x90_07_January_24.jpg?downsize=100:75&amp;w=100"" title=""घटिया कोयले की वजह से कालीसिंध थर्मल पावर परियोजना के हाल बेहाल, इकाइयां बार-बार हो रहीं बंद""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://rajasthan.ndtv.in/rajasthan-news/kalisindh-thermal-power-project-is-in-bad-condition-due-to-poor-quality-coal-production-has-declined-units-are-being-shut-down-again-and-again-4816434#pfrom=home-ndtv_raj_ndtv.in"">घटिया कोयले की वजह से कालीसिंध थर्मल पावर परियोजना के हाल बेहाल, इकाइयां बार-बार हो रहीं बंद</a>",1
+"<a href=""https://www.ndtv.com/india""><span>India News</span></a>",0
+"<a href=""https://www.ndtv.com/india-news/pm-modi-praises-navys-heroic-op-to-rescue-indians-from-hijacked-ship-4818101#pfrom=home-ndtv_india "">PM Modi Praises Navy's ""Heroic"" Op To Rescue Sailors From Hijacked Ship</a>",1
+"<a href=""https://www.ndtv.com/india-news/pm-modi-praises-navys-heroic-op-to-rescue-indians-from-hijacked-ship-4818101#pfrom=home-ndtv_india ""><img border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/1a8nocdo_pm-modi-_625x300_07_January_24.jpeg?downsize=290:218""/></a>",0
+"<a href=""https://www.ndtv.com/india-news/some-people-not-ready-to-retire-ajit-pawar-targets-uncle-sharad-pawar-again-4818034#pfrom=home-ndtv_india "">Some ""Not Ready To Retire"": Ajit Pawar Targets Uncle (Sharad Pawar) Again</a>",1
+"<a href=""https://www.ndtv.com/india-news/some-people-not-ready-to-retire-ajit-pawar-targets-uncle-sharad-pawar-again-4818034#pfrom=home-ndtv_india ""><img border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2023-09/cllhs3t_ajit-pawar_120x90_25_September_23.jpg?downsize=80:60""/></a>",0
+"<a href=""https://www.ndtv.com/india-news/arvind-kejriwal-names-jailed-gujarat-mla-chaitar-vasava-as-candidate-for-lok-sabha-elections-4817945#pfrom=home-ndtv_india "">Arvind Kejriwal Names Jailed Gujarat MLA As Candidate For Lok Sabha Polls</a>",1
+"<a href=""https://www.ndtv.com/india-news/arvind-kejriwal-names-jailed-gujarat-mla-chaitar-vasava-as-candidate-for-lok-sabha-elections-4817945#pfrom=home-ndtv_india ""><img border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2023-11/9usjt2tg_chaitar-vasava_120x90_04_November_23.jpg""/></a>",0
+"<a href=""https://www.ndtv.com/india-news/align-deliveries-with-ram-temple-ceremony-pregnant-women-in-up-to-doctors-4817841#pfrom=home-ndtv_india "">Align Deliveries With Ram Temple Ceremony: Pregnant Women In UP To Doctors</a>",1
+"<a href=""https://www.ndtv.com/india-news/align-deliveries-with-ram-temple-ceremony-pregnant-women-in-up-to-doctors-4817841#pfrom=home-ndtv_india ""><img border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2022-11/kcm4egq8_pregnant-woman-generic-240_120x90_10_November_22.jpg""/></a>",0
+"<a href=""https://www.ndtv.com/feature""><span>Feature  </span></a>",0
+"<a href=""https://www.ndtv.com/feature/sometimes-fights-at-office-reach-home-sugar-cosmetics-ceo-vineeta-singh-on-working-with-husband-4816204#pfrom=home-ndtv_feature "">""Fights At Office Reach Home"": Sugar Cosmetics CEO On Working With Husband</a>",1
+"<a href=""https://www.ndtv.com/feature/sometimes-fights-at-office-reach-home-sugar-cosmetics-ceo-vineeta-singh-on-working-with-husband-4816204#pfrom=home-ndtv_feature ""><img border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/hfh9fg68_vineeta-singh-_625x300_07_January_24.jpeg?downsize=80:60""/></a>",0
+"<a href=""https://www.ndtv.com/feature/video-ranveer-singh-surprises-tottenham-hotspur-fan-in-london-dances-with-her-4815306#pfrom=home-ndtv_feature "">Ranveer Singh Surprises Tottenham Hotspur Fan In London, Video Is Viral</a>",1
+"<a href=""https://www.ndtv.com/feature/video-ranveer-singh-surprises-tottenham-hotspur-fan-in-london-dances-with-her-4815306#pfrom=home-ndtv_feature ""><img border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/n7eev3m8_spurs_120x90_07_January_24.jpg?downsize=80:60""/></a>",0
+"<a href=""https://www.ndtv.com/feature/influencers-bizarre-fusion-of-mayonnaise-and-watermelon-disgusts-internet-4805489#pfrom=home-ndtv_feature "">Influencer's Bizarre Fusion Of Mayonnaise And Watermelon Disgusts Internet</a>",1
+"<a href=""https://www.ndtv.com/feature/influencers-bizarre-fusion-of-mayonnaise-and-watermelon-disgusts-internet-4805489#pfrom=home-ndtv_feature ""><img border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/e3qopk3g_myonnaise-watermelon-240_120x90_05_January_24.jpg""/></a>",0
+"<a href=""https://www.ndtv.com/feature/national-birds-day-2024-history-theme-and-significance-4804131#pfrom=home-ndtv_feature "">National Birds Day 2024: History, Theme, and Significance</a>",1
+"<a href=""https://www.ndtv.com/feature/national-birds-day-2024-history-theme-and-significance-4804131#pfrom=home-ndtv_feature ""><img border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2023-11/drvs8mu_siberian-birds_120x90_22_November_23.jpeg""/></a>",0
+"<a href=""https://food.ndtv.com/#pfrom=home-ndtv_recipes""><span>Food</span></a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://food.ndtv.com/news/rhea-kapoor-says-if-it-is-flu-season-then-it-is-soup-season-4815451#pfrom=home-ndtv_recipes"">""Flu Season = Soup Season"": Rhea Kapoor Reveals Her Diet Secret</a>",1
+"<a href=""https://food.ndtv.com/news/rhea-kapoor-says-if-it-is-flu-season-then-it-is-soup-season-4815451#pfrom=home-ndtv_recipes""><img alt=""'Flu Season = Soup Season': Rhea Kapoor Reveals Her Diet Secret"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2022-10/olb0if6g_rhea-kapoor_625x300_20_October_22.jpg?downsize=290:218&amp;w=290""/></a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/food/watch-delhis-dhokla-chaat-is-trending-for-all-the-wrong-reasons-4811128#pfrom=home-ndtv_recipes"">Watch: Delhi's 'Dhokla Chaat' Is Trending For All The Wrong Reasons</a>",1
+"<a href=""https://www.ndtv.com/food/watch-delhis-dhokla-chaat-is-trending-for-all-the-wrong-reasons-4811128#pfrom=home-ndtv_recipes""><img alt=""Watch: Delhi's 'Dhokla Chaat' Is Trending For All The Wrong Reasons"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/606d6mhg_dhokla-chaat_625x300_06_January_24.jpg?downsize=80:60&amp;w=80"" title=""Watch: Delhi's 'Dhokla Chaat' Is Trending For All The Wrong Reasons""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/food/waste-no-more-5-ways-to-reduce-food-waste-while-saving-money-4809781#pfrom=home-ndtv_recipes"">Waste No More! 5 Ways To Reduce Food Waste, While Saving Money</a>",1
+"<a href=""https://www.ndtv.com/food/waste-no-more-5-ways-to-reduce-food-waste-while-saving-money-4809781#pfrom=home-ndtv_recipes""><img alt=""Waste No More! 5 Ways To Reduce Food Waste, While Saving Money"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2023-06/34vrkthg_dustbin_625x300_28_June_23.jpg?downsize=80:60&amp;w=80"" title=""Waste No More! 5 Ways To Reduce Food Waste, While Saving Money""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://food.ndtv.com/health/indulge-in-creamy-delights-without-cream-5-heavy-cream-substitutes-you-should-have-4805927#pfrom=home-ndtv_recipes"">Indulge In Creamy Delights Without Cream: 5 Heavy Cream Substitutes </a>",1
+"<a href=""https://food.ndtv.com/health/indulge-in-creamy-delights-without-cream-5-heavy-cream-substitutes-you-should-have-4805927#pfrom=home-ndtv_recipes""><img alt=""Indulge In Creamy Delights Without Cream: 5 Heavy Cream Substitutes "" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/ihs6angg_heavy-cream_625x300_05_January_24.jpg?downsize=80:60&amp;w=80"" title=""Indulge In Creamy Delights Without Cream: 5 Heavy Cream Substitutes ""/></a>",1
+"<a href=""https://swirlster.ndtv.com/#pfrom=home-ndtv_lifestyle""><span>LIFESTYLE  </span></a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/lifestyle/alia-bhatts-dopamine-dressing-at-the-animal-success-party-is-the-best-antidote-to-winter-blues-4815606#pfrom=home-ndtv_lifestyle"">Alia Bhatt's ""Dopamine Dressing"" Is The Best Antidote To Winter Blues</a>",1
+"<a href=""https://www.ndtv.com/lifestyle/alia-bhatts-dopamine-dressing-at-the-animal-success-party-is-the-best-antidote-to-winter-blues-4815606#pfrom=home-ndtv_lifestyle""><img alt=""Alia Bhatt's 'Dopamine Dressing' Is The Best Antidote To Winter Blues"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/kump03i8_alia_120x90_07_January_24.png?downsize=80:60&amp;w=80"" title=""Alia Bhatt's 'Dopamine Dressing' Is The Best Antidote To Winter Blues""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://swirlster.ndtv.com/style/malaika-arora-in-this-lime-green-gopi-vaid-lehenga-is-setting-the-trendiest-wedding-guest-style-goals-4811896?fbclid=IwAR0Mp8hYLmPzgn3Zeg2UGFOP3th7-q8hX0ixjRdxCEFrhY_zhbvHbqvHsJ4#pfrom=home-ndtv_lifestyle"">Just Malaika In This Gopi Vaid <i>Lehenga</i> Setting Wedding Guest Style Goals</a>",1
+"<a href=""https://swirlster.ndtv.com/style/malaika-arora-in-this-lime-green-gopi-vaid-lehenga-is-setting-the-trendiest-wedding-guest-style-goals-4811896?fbclid=IwAR0Mp8hYLmPzgn3Zeg2UGFOP3th7-q8hX0ixjRdxCEFrhY_zhbvHbqvHsJ4#pfrom=home-ndtv_lifestyle""><img alt=""Just Malaika In This Gopi Vaid Lehenga Setting Wedding Guest Style Goals"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/gvrha3eo_malaika_120x90_07_January_24.jpg?downsize=80:60&amp;w=80"" title=""Just Malaika In This Gopi Vaid Lehenga Setting Wedding Guest Style Goals""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/lifestyle/aishwarya-aradhya-and-the-bachchans-in-matching-jerseys-are-a-catch-made-in-kabaddi-heaven-4815912#pfrom=home-ndtv_lifestyle"">Aishwarya, Aradhya Twinning In Jerseys Are A Match Made In Kabaddi Heaven</a>",1
+"<a href=""https://www.ndtv.com/lifestyle/aishwarya-aradhya-and-the-bachchans-in-matching-jerseys-are-a-catch-made-in-kabaddi-heaven-4815912#pfrom=home-ndtv_lifestyle""><img alt=""Aishwarya, Aradhya Twinning In Jerseys Are A Match Made In Kabaddi Heaven"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/lvm6tiug_aishwarya_625x300_07_January_24.jpg?im=FaceCrop,algorithm=dnn,width=80,height=60&amp;w=80"" title=""Aishwarya, Aradhya Twinning In Jerseys Are A Match Made In Kabaddi Heaven""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://swirlster.ndtv.com/travel/all-about-the-luxury-resort-in-udaipur-where-ira-khan-and-nupur-shikhare-will-have-their-wedding-ceremony-4804967#pfrom=home-ndtv_lifestyle"">Ira-Nupur Will Have Their Wedding Ceremony At This Luxury Udaipur Resort</a>",1
+"<a href=""https://swirlster.ndtv.com/travel/all-about-the-luxury-resort-in-udaipur-where-ira-khan-and-nupur-shikhare-will-have-their-wedding-ceremony-4804967#pfrom=home-ndtv_lifestyle""><img alt=""Ira-Nupur Will Have Their Wedding Ceremony At This Luxury Udaipur Resort"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/59u2kgi8_aravali-taj_120x90_05_January_24.jpg?downsize=80:60&amp;w=80"" title=""Ira-Nupur Will Have Their Wedding Ceremony At This Luxury Udaipur Resort""/></a>",1
+"<a href=""https://www.ndtv.com/education""><span>Education</span></a>",0
+"<a href=""https://www.ndtv.com/education/iit-jam-2024-admit-card-to-be-released-tomorrow-check-details-4817315#pfrom=home-ndtv_education "">IIT JAM 2024 Admit Card To be Released Tomorrow, Check Details</a>",1
+"<a href=""https://www.ndtv.com/education/iit-jam-2024-admit-card-to-be-released-tomorrow-check-details-4817315#pfrom=home-ndtv_education ""><img border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/tiujanr_iit-jam-2024_625x300_07_January_24.jpeg?downsize=100:75""/></a>",0
+"<a href=""https://www.ndtv.com/education/upjee-polytechnic-2024-registration-begins-on-january-8-exam-from-march-16-4816073#pfrom=home-ndtv_education "">UPJEE Polytechnic 2024 Registration Starts On Jan 8, Exam From March 16</a>",1
+"<a href=""https://www.ndtv.com/education/upjee-polytechnic-2024-registration-begins-on-january-8-exam-from-march-16-4816073#pfrom=home-ndtv_education ""><img border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/students,-indian-students,-result-2018_625x300_1527143780437.jpg?downsize=100:75""/></a>",0
+"<a href=""https://www.ndtv.com/education/top-public-sector-units-using-gate-2024-score-for-hiring-details-here-4815755#pfrom=home-ndtv_education "">Top Public Sector Units Using GATE 2024 Score For Hiring, Details Here</a>",1
+"<a href=""https://www.ndtv.com/education/top-public-sector-units-using-gate-2024-score-for-hiring-details-here-4815755#pfrom=home-ndtv_education ""><img border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2022-04/b7galhfo_indian-oil-reuters_625x300_13_April_22.jpg?im=FitAndFill,algorithm=dnn,width=650,height=400""/></a>",0
+"<a href=""https://www.ndtv.com/education/neet-postgraduate-exam-likely-in-first-week-of-july-no-national-exit-test-this-year-report-4815493#pfrom=home-ndtv_education "">NEET-Postgraduate Examination Likely To Be Held In First Week Of July</a>",1
+"<a href=""https://www.ndtv.com/education/neet-postgraduate-exam-likely-in-first-week-of-july-no-national-exit-test-this-year-report-4815493#pfrom=home-ndtv_education ""><img border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2023-03/1lbvjrv8_exam-generic-_625x300_15_March_23.jpg""/></a>",0
+"<a href=""https://www.ndtv.com/offbeat""><span>Offbeat</span></a>",0
+"<a href=""https://www.ndtv.com/offbeat/best-uber-ever-cab-driver-uses-karaoke-singing-to-entertain-passengers-4817230#pfrom=home-ndtv_offbeat "">""Best Uber Ever"": Cab Driver Uses Karaoke Singing To Entertain Passengers</a>",1
+"<a href=""https://www.ndtv.com/offbeat/best-uber-ever-cab-driver-uses-karaoke-singing-to-entertain-passengers-4817230#pfrom=home-ndtv_offbeat ""><img border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/86klv61_uber-driver-karaoke_625x300_07_January_24.jpeg?downsize=290:218""/></a>",0
+"<a href=""https://www.ndtv.com/offbeat/kerala-woman-sings-in-140-languages-sets-guinness-world-record-4816928#pfrom=home-ndtv_offbeat "">Kerala Woman Sings In 140 Languages, Sets Guinness World Record</a>",1
+"<a href=""https://www.ndtv.com/offbeat/kerala-woman-sings-in-140-languages-sets-guinness-world-record-4816928#pfrom=home-ndtv_offbeat ""><img border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/vumqegdg_suchetha-satish-_625x300_07_January_24.jpeg?downsize=100:75""/></a>",0
+"<a href=""https://www.ndtv.com/offbeat/watch-rarest-of-the-rare-pseudo-melanistic-tiger-family-spotted-in-odisha-forest-4816737#pfrom=home-ndtv_offbeat "">''Rarest Of The Rare'' Pseudo Melanistic Tiger Family Spotted In Odisha</a>",1
+"<a href=""https://www.ndtv.com/offbeat/watch-rarest-of-the-rare-pseudo-melanistic-tiger-family-spotted-in-odisha-forest-4816737#pfrom=home-ndtv_offbeat ""><img border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/h8pvgung_pseudo-melanistic-tiger_625x300_07_January_24.jpeg""/></a>",0
+"<a href=""https://www.ndtv.com/offbeat/china-boy-4-gifts-gold-bars-as-engagement-gift-to-a-girl-in-his-class-4816278#pfrom=home-ndtv_offbeat "">China Boy, 4, Gifts Gold Bars As ''Engagement Gift'' To A Girl In His Class</a>",1
+"<a href=""https://www.ndtv.com/offbeat/china-boy-4-gifts-gold-bars-as-engagement-gift-to-a-girl-in-his-class-4816278#pfrom=home-ndtv_offbeat ""><img border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/tn06pqhg_gold-bars_625x300_07_January_24.jpeg""/></a>",0
+"<a href="" https://sports.ndtv.com#pfrom=home-ndtv_sports""><span>Sports News </span></a>",0
+"<a href=""https://sports.ndtv.com/tennis/alexander-zverev-led-germany-beat-iga-swiateks-poland-to-win-united-cup-4818137#pfrom=home-ndtv_sports""><img alt=""Alexander Zverev-Led Germany Beat Iga Swiatek's Poland To Win United Cup"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/rh315ed_germany-united-cup-afp_625x300_07_January_24.jpg?downsize=210:158&amp;w=210"" title=""Alexander Zverev-Led Germany Beat Iga Swiatek's Poland To Win United Cup""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://sports.ndtv.com/tennis/alexander-zverev-led-germany-beat-iga-swiateks-poland-to-win-united-cup-4818137#pfrom=home-ndtv_sports"">Alexander Zverev-Led Germany Beat Iga Swiatek's Poland To Win United Cup</a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://sports.ndtv.com/football/real-madrid-ease-past-arandina-to-reach-copa-del-rey-last-16-4815203#pfrom=home-ndtv_sports"">Real Madrid Ease Past Arandina To Reach Copa Del Rey Last 16</a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://sports.ndtv.com/football/isak-stars-as-newcastle-beat-sunderland-in-fa-cup-while-chelsea-villa-win-4815205#pfrom=home-ndtv_sports"">Isak Stars As Newcastle Beat Sunderland In FA Cup While Chelsea, Villa Win</a>",1
+"<a href="" https://doctor.ndtv.com/#pfrom=home-ndtv_health""><span>Health </span></a>",0
+"<a href=""https://www.ndtv.com/health/weight-loss-tips-is-your-new-year-resolution-to-lose-weight-keep-these-things-in-mind-3645677#pfrom=home-ndtv_health""><img alt=""New Year 2024: Want To Lose Weight This Year? Keep These Things In Mind To Stick To Your Resolution"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2023-04/3en8fvqg_weight-loss-generic_625x300_28_April_23.jpg?im=FaceCrop,algorithm=dnn,width=210,height=158&amp;w=210"" title=""New Year 2024: Want To Lose Weight This Year? Keep These Things In Mind To Stick To Your Resolution""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/health/weight-loss-tips-is-your-new-year-resolution-to-lose-weight-keep-these-things-in-mind-3645677#pfrom=home-ndtv_health"">New Year 2024: Want To Lose Weight This Year? Keep These Things In Mind To Stick To Your Resolution</a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/health/can-fasting-improve-gut-health-4763221#pfrom=home-ndtv_health"">Can Fasting Improve Gut Health?</a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/health/10-diet-tips-you-should-continue-following-in-2024-4752468#pfrom=home-ndtv_health"">10 Diet Tips You Should Continue Following In 2024</a>",1
+"<a href="" https://www.mojarto.com/#pfrom=home-ndtv_specialprojects""><span>Art &amp; Design </span></a>",0
+"<a href=""https://blog.mojarto.com/unveiling-5-art-techniques-beyond-the-norm/#pfrom=home-ndtv_specialprojects""><img alt=""From Impasto to Gouache: Unveiling 5 Art Techniques Beyond the Norm
+"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2023-12/abpuslb_mojarto_240x180_14_December_23.jpg?downsize=210:158&amp;w=210"" title=""From Impasto to Gouache: Unveiling 5 Art Techniques Beyond the Norm
+""/></a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://blog.mojarto.com/unveiling-5-art-techniques-beyond-the-norm/#pfrom=home-ndtv_specialprojects"">From Impasto to Gouache: Unveiling 5 Art Techniques Beyond the Norm
+</a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://blog.mojarto.com/10-emerging-indian-artists-on-mojarto-2023/#pfrom=home-ndtv_specialprojects"">10 Emerging Indian Artists On Mojarto 2023</a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://blog.mojarto.com/buy-indian-paintings-online/#pfrom=home-ndtv_specialprojects"">Buying Indian Paintings Online: A Trend Today</a>",1
+"<a href=""https://special.ndtv.com/#pfrom=home-ndtv_campaigns""><span>Campaigns</span></a>",0
+"<a href=""https://swachhindia.ndtv.com/improvement-in-delhis-annual-pm2-5-levels-since-2015-17-halted-in-2023-says-cse-report-86650/#pfrom=home-ndtv_campaigns""><img alt=""Improvement In Delhi's Air Quality Since 2015-17 Halted In 2023: CSE Report
+"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/3lgi4pmo_air-pollution_240x180_05_January_24.jpg?downsize=392:241&amp;w=392""/></a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://swachhindia.ndtv.com/improvement-in-delhis-annual-pm2-5-levels-since-2015-17-halted-in-2023-says-cse-report-86650/#pfrom=home-ndtv_campaigns"">Improvement In Delhi's Air Quality Since 2015-17 Halted In 2023: CSE Report
+</a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://swachhindia.ndtv.com/video-details-page/highlights-of-2023-impact-of-climate-change-on-agriculture-food-prices-and-nutrition-750091/#pfrom=home-ndtv_campaigns"">Watch: Impact Of Climate Change On Agriculture, Food Prices And Nutrition</a>",1
+"<a href=""https://special.ndtv.com/kushalta-ke-kadam-12/news-detail/from-traditional-tribes-to-thriving-entrepreneurs-how-the-lives-of-women-in-assam-changed-4799879/7#pfrom=home-ndtv_campaigns""><img alt=""From Traditional Tribes To Thriving Entrepreneurs, How The Lives Of Women In Assam Changed
+"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/gblaocj8_assam-women_240x180_05_January_24.jpg?downsize=392:241&amp;w=392""/></a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://special.ndtv.com/kushalta-ke-kadam-12/news-detail/from-traditional-tribes-to-thriving-entrepreneurs-how-the-lives-of-women-in-assam-changed-4799879/7#pfrom=home-ndtv_campaigns"">From Traditional Tribes To Thriving Entrepreneurs, How The Lives Of Women In Assam Changed
+</a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://special.ndtv.com/kushalta-ke-kadam-12/news-detail/women-in-keralaa-kasaragod-are-stitching-lab-coats-for-the-medical-students-4799763/7#pfrom=home-ndtv_campaigns"">Women In Kerala's Kasaragod Are Stitching Lab Coats For The Medical Students
+</a>",1
+"<a href=""https://samarth.ndtv.com/inclusive-fashion-what-is-adaptive-clothing-all-about-675/#pfrom=home-ndtv_campaigns""><img alt=""What Is Adaptive Clothing And How Can It Make Life Easier For People With Disabilities?
+"" border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/vv8snc58_adaptive-clothing_240x180_05_January_24.jpg?downsize=392:241&amp;w=392""/></a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://samarth.ndtv.com/inclusive-fashion-what-is-adaptive-clothing-all-about-675/#pfrom=home-ndtv_campaigns"">What Is Adaptive Clothing And How Can It Make Life Easier For People With Disabilities?
+</a>",1
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://samarth.ndtv.com/video-details-page/para-athlete-yogesh-kathunia-shares-what-keeps-him-motivated-744186/#pfrom=home-ndtv_campaigns"">Watch: Para Athlete Yogesh Kathunia Shares What Keeps Him Motivated
+</a>",1
+"<a href=""https://www.ndtv.com/video""><span> Video </span></a>",0
+"<a href=""https://www.ndtv.com/video/news/news/lights-out-air-force-s-c-130j-lands-at-kargil-in-stealth-mode-751584#pfrom=home-ndtv_videos"" target=""_self""> <img border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/cqnj8o6g_landing_640x480_07_January_24.jpg""/></a>",0
+"<a href=""https://www.ndtv.com/video/news/news/lights-out-air-force-s-c-130j-lands-at-kargil-in-stealth-mode-751584#pfrom=home-ndtv_videos"" target=""_self""><img src=""https://drop.ndtv.com/homepage/images/Video_icon2017.png""/></a>",0
+"<a href=""https://www.ndtv.com/video/news/news/lights-out-air-force-s-c-130j-lands-at-kargil-in-stealth-mode-751584#pfrom=home-ndtv_videos"" target=""_self"">Lights Out, Air Force's C-130J Lands At Kargil In Stealth Mode</a>",1
+"<a href=""https://www.ndtv.com/video/news/news/maldives-minister-s-tweet-on-pm-modi-s-lakshadweep-visit-triggers-row-751519#pfrom=home-ndtv_videos"" target=""_self""> <img border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/sd6ovuk_maldives_640x480_07_January_24.jpg?downsize=330:175""> </img></a>",0
+"<a href=""https://www.ndtv.com/video/news/news/maldives-minister-s-tweet-on-pm-modi-s-lakshadweep-visit-triggers-row-751519#pfrom=home-ndtv_videos"" target=""_self""> <img src=""https://drop.ndtv.com/homepage/images/Video_icon2017.png""/> </a>",0
+"<a href=""https://www.ndtv.com/video/news/news/maldives-minister-s-tweet-on-pm-modi-s-lakshadweep-visit-triggers-row-751519#pfrom=home-ndtv_videos"" target=""_self""> Maldives Minister's Tweet On PM Modi's Lakshadweep Visit Triggers Row</a>",1
+"<a href=""https://www.ndtv.com/video/news/news/surat-man-designs-sarees-with-lord-ram-ayodhya-temple-images-751506#pfrom=home-ndtv_videos"" target=""_self""> <img border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://c.ndtvimg.com/2024-01/nismue18_surattextile_640x480_07_January_24.jpg?downsize=330:175""> </img></a>",0
+"<a href=""https://www.ndtv.com/video/news/news/surat-man-designs-sarees-with-lord-ram-ayodhya-temple-images-751506#pfrom=home-ndtv_videos"" target=""_self""> <img src=""https://drop.ndtv.com/homepage/images/Video_icon2017.png""/> </a>",0
+"<a href=""https://www.ndtv.com/video/news/news/surat-man-designs-sarees-with-lord-ram-ayodhya-temple-images-751506#pfrom=home-ndtv_videos"" target=""_self""> Surat Man Designs Sarees With Lord Ram, Ayodhya Temple Images</a>",1
+"<a href=""https://www.ndtv.com/photos""><span> Photos</span></a>",0
+"<a href=""https://www.ndtv.com/photos/entertainment/shilpa-shetty-nysa-devgn-and-others-answered-the-work-call-like-this-106656#pfrom=home-ndtv_photos"">
+<img border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://drop.ndtv.com/albums/ENTERTAINMENT/shilpa-shetty-n_638402457159603889/638402457159603889_640x480.jpeg""/></a>",0
+"<a data-tb-shadow-region-link=""1"" href=""https://www.ndtv.com/photos/entertainment/shilpa-shetty-nysa-devgn-and-others-answered-the-work-call-like-this-106656#pfrom=home-ndtv_photos""><img src=""https://drop.ndtv.com/homepage/images/Photo_icon2017.png""/></a>",0
+"<a href=""https://www.ndtv.com/photos/entertainment/shilpa-shetty-nysa-devgn-and-others-answered-the-work-call-like-this-106656#pfrom=home-ndtv_photos"">Shilpa Shetty, Nysa Devgn And Others Answered The Work Call Like This</a>",1
+"<a href=""https://www.ndtv.com/photos/entertainment/baar-baar-dekho-co-stars-katrina-kaif-and-sidharth-malhotras-work-diaries-106653#pfrom=home-ndtv_photos"">
+<img border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://drop.ndtv.com/albums/ENTERTAINMENT/i-baar-baar-dek_638401660921510559/638401660921510559_640x480.jpeg""/></a>",0
+"<a href=""https://www.ndtv.com/photos/entertainment/baar-baar-dekho-co-stars-katrina-kaif-and-sidharth-malhotras-work-diaries-106653#pfrom=home-ndtv_photos""><img src=""https://drop.ndtv.com/homepage/images/Photo_icon2017.png""/></a>",0
+"<a href=""https://www.ndtv.com/photos/entertainment/baar-baar-dekho-co-stars-katrina-kaif-and-sidharth-malhotras-work-diaries-106653#pfrom=home-ndtv_photos""><i>Baar Baar Dekho</i> Co-Stars Katrina Kaif And Sidharth Malhotra's Work Diaries</a>",1
+"<a href=""https://www.ndtv.com/photos/entertainment/blockbuster-airport-spotting-hrithik-saba-katrina-and-other-stars-106652#pfrom=home-ndtv_photos"">
+<img border=""0"" class=""imgbrd"" loading=""lazy"" src=""https://drop.ndtv.com/albums/ENTERTAINMENT/blockbuster-air_638401606703183616/638401606703183616_640x480.jpeg""/></a>",0
+"<a href=""https://www.ndtv.com/photos/entertainment/blockbuster-airport-spotting-hrithik-saba-katrina-and-other-stars-106652#pfrom=home-ndtv_photos""><img src=""https://drop.ndtv.com/homepage/images/Photo_icon2017.png""/></a>",0
+"<a href=""https://www.ndtv.com/photos/entertainment/blockbuster-airport-spotting-hrithik-saba-katrina-and-other-stars-106652#pfrom=home-ndtv_photos"">Blockbuster Airport Spotting: Hrithik-Saba, Katrina And Other Stars</a>",1
+"<a href=""https://www.ndtv.com/"">
+<!--<img style=""width:120%"" src=""https://drop.ndtv.com/homepage/images/NDTVLogoTricolor-LM.svg"">-->
+</a>",0
+"<a class=""footer_fb"" href=""https://www.facebook.com/ndtv#pfrom=home-footer2017"" target=""_blank""></a>",0
+"<a class=""footer_tw"" href=""https://twitter.com/ndtv#pfrom=home-footer2017"" target=""_blank""></a>",0
+"<a class=""footer_insta"" href=""https://www.instagram.com/ndtv/?hl=en"" target=""_blank""></a>",0
+"<a class=""footer_linkedin"" href=""https://www.linkedin.com/company/ndtv"" target=""_blank""></a>",0
+"<a class=""footer_gp"" href=""https://whatsapp.com/channel/0029Va4lixw7z4kcvZI9JM12"" target=""_blank""></a>",0
+"<a class=""footer_searchicon"" href=""javascript:void();"" onclick=""submit_footer_search_form() ;""> </a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/convergence/ndtv/corporatepage/index.aspx#pfrom=home-ndtv_footer"">About Us</a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/convergence/ndtv/advertise/ndtv_leaderboard.aspx#pfrom=home-ndtv_footer"">Advertise</a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/sites/ureqa-epg-ott/#pfrom=home-ndtv_footer"">EPG Services</a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/convergence/ndtv/new/dth.aspx#pfrom=home-ndtv_footer"">Channels</a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/convergence/ndtv/new/disclaimer.aspx#pfrom=home-ndtv_footer"">Disclaimer</a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/convergence/ndtv/new/feedback.aspx#pfrom=home-ndtv_footer"">Feedback</a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/convergence/ndtv/corporatepage/investors.aspx#pfrom=home-ndtv_footer"">Investors</a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/convergence/ndtv/new/Complaint.aspx#pfrom=home-ndtv_footer"">Redressals</a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/convergence/ndtv/new/privacy_policy.aspx#pfrom=home-ndtv_footer"">Privacy Policy</a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://www.ndtv.com/convergence/ndtv/new/TermsAndConditions.aspx#pfrom=home-ndtv_footer"">Terms &amp; Conditions</a>",0
+"<a class=""item-title"" data-tb-link="""" data-tb-title="""" href=""https://archives.ndtv.com/#pfrom=home-ndtv_footer"">Archives</a>",0
+"<a href=""https://www.ndtv.com/#pfrom=home-footer"">
+News</a>",0
+"<a href=""https://ndtv.in/#pfrom=home-footer"">
+Hindi</a>",0
+"<a href=""https://www.ndtvprofit.com/#pfrom=home-footer"">
+Business</a>",0
+"<a href=""https://www.ndtv.com/entertainment#pfrom=home-footer"">
+Movies</a>",0
+"<a href=""https://sports.ndtv.com/cricket#pfrom=home-footer"">
+Cricket</a>",0
+"<a href=""https://food.ndtv.com/#pfrom=home-footer"">
+Food</a>",0
+"<a href=""https://www.gadgets360.com/#pfrom=home-footer"">
+Tech</a>",0
+"<a href=""https://www.ndtv.com/education#pfrom=home-footer"">
+Education</a>",0
+"<a href=""https://doctor.ndtv.com#pfrom=home-footer"">
+Health</a>",0
+"<a href=""https://swirlster.ndtv.com/#pfrom=home-footer"">
+Lifestyle</a>",0
+"<a href=""https://www.ndtv.com/convergence/ndtv/new/codeofethics.aspx"">This website follows the DNPA Code of Ethics </a>",0
+"<a class=""backtotop"" href=""#""></a>",0
